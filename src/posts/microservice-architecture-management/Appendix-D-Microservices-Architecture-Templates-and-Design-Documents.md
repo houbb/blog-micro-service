@@ -106,7 +106,7 @@ public class User {
 | email | String | 是 | 邮箱地址 |
 | phoneNumber | String | 否 | 手机号码 |
 | profile | UserProfile | 否 | 用户详细信息 |
-| roles | List<UserRole> | 是 | 用户角色列表 |
+| roles | `List<UserRole>` | 是 | 用户角色列表 |
 | createdAt | LocalDateTime | 是 | 创建时间 |
 | updatedAt | LocalDateTime | 是 | 更新时间 |
 
