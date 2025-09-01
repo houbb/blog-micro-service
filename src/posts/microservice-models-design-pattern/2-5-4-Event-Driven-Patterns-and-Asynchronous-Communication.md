@@ -1,7 +1,7 @@
 ---
 title: 事件驱动模式与异步通信：构建松耦合的微服务系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, event-driven, asynchronous communication, patterns]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 服务发现与负载均衡入门：从基础概念到核心价值
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

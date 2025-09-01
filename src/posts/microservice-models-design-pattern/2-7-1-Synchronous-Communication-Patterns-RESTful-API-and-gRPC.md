@@ -1,7 +1,7 @@
 ---
 title: 同步通信模式：RESTful API 与 gRPC 的深度对比
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, synchronous communication, RESTful API, gRPC]
 published: true
 ---

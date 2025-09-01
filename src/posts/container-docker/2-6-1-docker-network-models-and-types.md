@@ -1,7 +1,7 @@
 ---
 title: Docker Network Models and Types - Understanding Bridge, Host, Overlay and More
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, networking, bridge, host, overlay]
 published: true
 ---

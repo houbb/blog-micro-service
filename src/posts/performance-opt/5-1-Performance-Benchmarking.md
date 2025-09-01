@@ -1,8 +1,8 @@
 ---
 title: 性能基准测试：构建科学有效的系统性能评估体系
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

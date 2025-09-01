@@ -1,7 +1,7 @@
 ---
 title: 微服务的通信模式：构建高效的服务间交互
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, communication patterns, inter-service communication]
 published: true
 ---

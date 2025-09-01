@@ -1,8 +1,8 @@
 ---
 title: 云存储服务深度解析：AWS S3与Azure Blob Storage技术实践
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 重试与限流模式：微服务架构的流量控制与容错机制
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, retry, rate limiting, traffic control, fault tolerance]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 分布布式性能优化的未来趋势：迎接下一代系统架构的挑战与机遇
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

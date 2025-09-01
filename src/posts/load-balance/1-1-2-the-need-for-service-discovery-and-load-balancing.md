@@ -1,8 +1,8 @@
 ---
 title: 为什么需要服务发现与负载均衡：从传统架构到微服务的演进
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

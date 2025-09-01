@@ -1,8 +1,8 @@
 ---
 title: 性能监控与指标体系：构建数据存储系统的可观测性
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

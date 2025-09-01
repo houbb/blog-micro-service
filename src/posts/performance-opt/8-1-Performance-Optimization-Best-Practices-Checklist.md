@@ -1,8 +1,8 @@
 ---
 title: 性能优化的最佳实践清单：构建高性能分布式系统的行动指南
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

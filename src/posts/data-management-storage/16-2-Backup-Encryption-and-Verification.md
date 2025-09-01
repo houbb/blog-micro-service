@@ -1,8 +1,8 @@
 ---
 title: 备份加密与备份验证：确保数据安全与完整性的关键技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

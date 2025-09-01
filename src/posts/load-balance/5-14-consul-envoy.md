@@ -1,8 +1,8 @@
 ---
 title: 实战案例：Consul + Envoy 构建现代化服务网格架构
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

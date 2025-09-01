@@ -1,7 +1,7 @@
 ---
 title: 微服务的性能优化与调优：构建高性能的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, performance optimization, tuning, distributed systems]
 published: true
 ---

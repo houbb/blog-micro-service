@@ -1,7 +1,7 @@
 ---
 title: 微服务开发最佳实践：从API设计到测试驱动开发的全面指南
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, development, best-practices]
 published: true
 ---

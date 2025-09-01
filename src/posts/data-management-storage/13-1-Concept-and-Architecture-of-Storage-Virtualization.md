@@ -1,8 +1,8 @@
 ---
 title: 存储虚拟化概念与架构：构建灵活高效的数据存储基础设施
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

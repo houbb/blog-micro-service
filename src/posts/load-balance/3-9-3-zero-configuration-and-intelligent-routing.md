@@ -1,8 +1,8 @@
 ---
 title: 零配置与智能路由：Service Mesh中的自动化流量管理
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

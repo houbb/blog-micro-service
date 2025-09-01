@@ -1,8 +1,8 @@
 ---
 title: 附录A：常见消息队列与流处理平台
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

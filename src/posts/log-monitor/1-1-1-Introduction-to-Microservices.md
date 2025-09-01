@@ -1,7 +1,7 @@
 ---
 title: 微服务简介：现代分布式系统的核心架构模式
 date: 2025-08-31
-categories: [Microservices]
+categories: [LogMonitor]
 tags: [microservices, architecture, introduction]
 published: true
 ---

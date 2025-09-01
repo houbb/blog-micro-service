@@ -1,8 +1,8 @@
 ---
 title: 文档数据库深度解析：以MongoDB为例的实践与应用
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

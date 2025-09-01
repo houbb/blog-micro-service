@@ -1,7 +1,7 @@
 ---
 title: Kubernetes and Docker Relationship - Understanding the Connection Between Containerization and Orchestration
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, kubernetes, containers, orchestration]
 published: true
 ---

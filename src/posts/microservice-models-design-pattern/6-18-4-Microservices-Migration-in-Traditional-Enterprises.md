@@ -1,7 +1,7 @@
 ---
 title: 微服务在传统企业中的迁移案例：从单体架构到分布式系统的演进之路
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, migration, traditional enterprises, monolithic architecture, digital transformation]
 published: true
 ---

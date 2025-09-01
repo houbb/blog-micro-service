@@ -1,7 +1,7 @@
 ---
 title: Advanced Docker Configuration and Debugging - Mastering Docker Internals and Troubleshooting
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, configuration, debugging, internals, containers]
 published: true
 ---

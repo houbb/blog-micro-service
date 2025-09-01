@@ -1,8 +1,8 @@
 ---
 title: 服务拆分与边界设计：构建高内聚低耦合的微服务架构
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Volume Backup and Recovery - Ensuring Data Safety and Disaster Recovery
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, volumes, backup, recovery, disaster-recovery]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 自动伸缩（HPA, VPA）：Kubernetes中的弹性负载均衡与资源管理
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 混合云与多云架构：构建灵活、可靠的现代数据基础设施
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

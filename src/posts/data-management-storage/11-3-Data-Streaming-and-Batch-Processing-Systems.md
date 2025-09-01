@@ -1,8 +1,8 @@
 ---
 title: 数据流与批处理系统：构建实时与离线数据处理平台
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 微服务架构中的常用设计模式：解决分布式系统挑战的利器
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, design patterns, architecture patterns]
 published: true
 ---

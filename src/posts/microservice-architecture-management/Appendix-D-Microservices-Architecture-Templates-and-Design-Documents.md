@@ -1,7 +1,7 @@
 ---
 title: 微服务架构模板与设计文档：标准化架构设计流程的实践指南
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, template, documentation]
 published: true
 ---

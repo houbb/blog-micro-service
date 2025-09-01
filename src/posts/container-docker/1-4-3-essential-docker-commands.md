@@ -1,7 +1,7 @@
 ---
 title: Essential Docker Commands - docker run, docker ps, docker stop and More
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, commands, run, ps, stop]
 published: true
 ---

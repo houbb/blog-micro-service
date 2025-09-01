@@ -1,7 +1,7 @@
 ---
 title: 设计一个微服务系统：从零开始构建分布式应用
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, system design, distributed systems, architecture]
 published: true
 ---

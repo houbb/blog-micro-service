@@ -1,8 +1,8 @@
 ---
 title: 常见实现：Eureka、Consul、Zookeeper、etcd深度解析
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

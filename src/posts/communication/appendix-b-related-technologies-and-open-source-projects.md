@@ -1,7 +1,7 @@
 ---
 title: 附录B：相关技术与开源项目介绍
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [technologies, open-source, microservices, tools, frameworks]
 published: true
 ---

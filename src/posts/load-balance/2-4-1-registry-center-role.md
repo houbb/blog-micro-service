@@ -1,8 +1,8 @@
 ---
 title: 注册中心（Registry）的作用：服务发现的核心基础设施
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

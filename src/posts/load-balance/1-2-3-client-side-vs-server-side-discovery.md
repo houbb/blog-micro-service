@@ -1,8 +1,8 @@
 ---
 title: 客户端发现 vs 服务端发现：服务发现架构模式深度解析
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

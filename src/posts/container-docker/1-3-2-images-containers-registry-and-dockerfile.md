@@ -1,7 +1,7 @@
 ---
 title: Images, Containers, Registry and Dockerfile - The Core Concepts of Docker
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, images, containers, registry, dockerfile]
 published: true
 ---

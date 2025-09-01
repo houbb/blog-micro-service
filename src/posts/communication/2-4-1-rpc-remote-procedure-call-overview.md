@@ -1,7 +1,7 @@
 ---
 title: RPC（远程过程调用）概述：理解分布式系统中的函数调用
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [rpc, remote-procedure-call, distributed-systems, microservices]
 published: true
 ---

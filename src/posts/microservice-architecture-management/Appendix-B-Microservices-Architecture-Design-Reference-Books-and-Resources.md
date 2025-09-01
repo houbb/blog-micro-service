@@ -1,7 +1,7 @@
 ---
 title: 微服务架构设计参考书单与资源：构建专业知识体系的学习指南
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, learning, resources]
 published: true
 ---

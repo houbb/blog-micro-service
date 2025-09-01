@@ -1,8 +1,8 @@
 ---
 title: 四层（L4）与七层（L7）负载均衡：技术架构与应用场景深度解析
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

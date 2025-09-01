@@ -1,8 +1,8 @@
 ---
 title: 性能优化技术：提升数据存储系统的响应速度与处理能力
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

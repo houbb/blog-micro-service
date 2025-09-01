@@ -1,7 +1,7 @@
 ---
 title: 代理模式与 API 网关：微服务架构的统一入口
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, proxy pattern, api gateway, design patterns]
 published: true
 ---

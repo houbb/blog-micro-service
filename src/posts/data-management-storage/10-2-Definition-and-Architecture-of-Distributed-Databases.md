@@ -1,8 +1,8 @@
 ---
 title: 分布式数据库的定义与架构：从理论基础到实践应用的全面解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

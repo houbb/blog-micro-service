@@ -1,7 +1,7 @@
 ---
 title: 微服务与云原生架构：构建现代化的分布式应用
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, cloud native, kubernetes, containerization]
 published: true
 ---

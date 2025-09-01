@@ -1,8 +1,8 @@
 ---
 title: Service Mesh性能优化：在微服务架构中实现高效服务间通信
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

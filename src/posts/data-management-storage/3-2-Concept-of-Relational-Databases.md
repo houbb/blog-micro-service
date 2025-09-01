@@ -1,8 +1,8 @@
 ---
 title: 关系型数据库的概念：从理论基础到实际应用
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

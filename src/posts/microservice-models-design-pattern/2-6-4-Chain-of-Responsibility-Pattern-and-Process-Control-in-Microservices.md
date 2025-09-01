@@ -1,7 +1,7 @@
 ---
 title: 责任链模式与微服务的流程控制：构建灵活的业务处理管道
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, chain of responsibility, process control, design patterns]
 published: true
 ---

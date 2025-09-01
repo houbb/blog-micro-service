@@ -1,8 +1,8 @@
 ---
 title: 流量感知与自适应调度：智能负载均衡的前沿技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 虚拟化与容器化环境调优：提升云原生应用性能的关键策略
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

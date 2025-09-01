@@ -1,8 +1,8 @@
 ---
 title: 为什么要优化性能：分布式系统性能优化的重要性与核心原则
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

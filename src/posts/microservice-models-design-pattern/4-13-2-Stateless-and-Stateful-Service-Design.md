@@ -1,7 +1,7 @@
 ---
 title: 无状态与有状态服务的设计：微服务架构中的数据管理策略
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, stateless, stateful, service design, data management]
 published: true
 ---

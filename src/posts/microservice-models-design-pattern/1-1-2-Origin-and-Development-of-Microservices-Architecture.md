@@ -1,7 +1,7 @@
 ---
 title: 微服务架构的起源与发展：从SOA到云原生的演进之路
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, architecture, history, evolution]
 published: true
 ---

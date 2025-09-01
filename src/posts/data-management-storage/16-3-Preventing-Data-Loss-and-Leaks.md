@@ -1,8 +1,8 @@
 ---
 title: 防止数据丢失与泄露：构建全面的数据保护防护网
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

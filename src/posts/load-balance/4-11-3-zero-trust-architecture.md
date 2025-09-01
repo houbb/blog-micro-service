@@ -1,8 +1,8 @@
 ---
 title: 零信任架构下的服务治理：构建新一代安全微服务生态系统
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

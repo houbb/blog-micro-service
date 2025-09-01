@@ -1,7 +1,7 @@
 ---
 title: 微服务中的日志与监控：分布式系统可观察性的核心
 date: 2025-08-31
-categories: [Microservices, Observability]
+categories: [LogMonitor]
 tags: [microservices, logging, monitoring, observability]
 published: true
 ---

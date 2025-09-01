@@ -1,8 +1,8 @@
 ---
 title: 服务间通信优化：提升分布式系统通信效率的关键策略
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

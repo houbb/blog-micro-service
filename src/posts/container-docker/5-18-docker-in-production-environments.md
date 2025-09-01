@@ -1,7 +1,7 @@
 ---
 title: Docker in Production Environments - Mastering Enterprise Container Deployment
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, production, enterprise, containers, deployment]
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Docker Performance Tuning - Optimizing Container Performance and Resource Management
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, performance, optimization, containers]
 published: true
 ---

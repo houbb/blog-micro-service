@@ -1,7 +1,7 @@
 ---
 title: Container vs Virtual Machine Differences - Understanding the Core Distinctions
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, containers, vm, virtualization, comparison]
 published: true
 ---

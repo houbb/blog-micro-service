@@ -1,7 +1,7 @@
 ---
 title: Image Building and Management - Creating Efficient Docker Images
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, images, build, management]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 性能优化的整体思维：构建系统化优化方法论
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

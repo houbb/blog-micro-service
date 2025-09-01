@@ -1,8 +1,8 @@
 ---
 title: Ingress Controller 与 Service Mesh：现代Kubernetes流量管理的双重奏
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

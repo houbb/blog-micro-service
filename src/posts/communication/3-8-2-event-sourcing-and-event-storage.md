@@ -1,7 +1,7 @@
 ---
 title: 事件源模式与事件存储：构建可审计的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [event-sourcing, event-storage, microservices, distributed-systems, audit]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 文件存储、块存储与对象存储：三大存储架构深度解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

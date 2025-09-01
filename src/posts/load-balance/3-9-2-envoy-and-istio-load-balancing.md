@@ -1,8 +1,8 @@
 ---
 title: Envoy 与 Istio 的负载均衡机制：Service Mesh中的智能流量调度
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

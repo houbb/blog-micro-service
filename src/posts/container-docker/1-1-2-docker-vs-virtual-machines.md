@@ -1,7 +1,7 @@
 ---
 title: Docker vs Virtual Machines - Understanding the Key Differences
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, virtualization, comparison]
 published: true
 ---

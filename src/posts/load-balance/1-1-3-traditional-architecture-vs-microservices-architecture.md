@@ -1,8 +1,8 @@
 ---
 title: 传统架构 vs 微服务架构：服务发现与负载均衡的演进之路
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

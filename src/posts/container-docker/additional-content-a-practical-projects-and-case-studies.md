@@ -1,7 +1,7 @@
 ---
 title: Additional Content A - Practical Projects and Case Studies
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, projects, case-studies, practical]
 published: true
 ---

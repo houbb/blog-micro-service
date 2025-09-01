@@ -1,7 +1,7 @@
 ---
 title: 微服务架构简介：从概念到实践的全面解析
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, architecture]
 published: true
 ---

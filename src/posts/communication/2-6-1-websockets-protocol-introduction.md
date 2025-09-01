@@ -1,7 +1,7 @@
 ---
 title: WebSockets协议详解：实现实时双向通信的技术基石
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [websockets, protocol, real-time, communication]
 published: true
 ---

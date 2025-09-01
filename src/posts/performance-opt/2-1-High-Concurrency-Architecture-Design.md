@@ -1,8 +1,8 @@
 ---
 title: 高并发架构设计：构建能够应对海量请求的分布式系统
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

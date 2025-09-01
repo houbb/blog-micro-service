@@ -1,8 +1,8 @@
 ---
 title: 数据一致性与分布式事务：构建可靠的分布式数据库系统
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 异步与同步通信：微服务间通信的两种模式
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, communication, synchronous, asynchronous]
 published: true
 ---

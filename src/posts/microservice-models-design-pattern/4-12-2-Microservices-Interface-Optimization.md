@@ -1,7 +1,7 @@
 ---
 title: 微服务的接口优化：提升服务间通信效率的关键策略
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, interface optimization, api design, performance]
 published: true
 ---

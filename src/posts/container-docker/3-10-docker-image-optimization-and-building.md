@@ -1,7 +1,7 @@
 ---
 title: Docker 镜像优化与构建
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, images, optimization, build]
 published: true
 ---

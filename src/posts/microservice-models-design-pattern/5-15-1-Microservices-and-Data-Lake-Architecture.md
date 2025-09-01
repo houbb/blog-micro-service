@@ -1,7 +1,7 @@
 ---
 title: 微服务与数据湖架构：构建统一的数据存储平台
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, data lake, big data, storage architecture]
 published: true
 ---

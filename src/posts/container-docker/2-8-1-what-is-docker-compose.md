@@ -1,7 +1,7 @@
 ---
 title: What is Docker Compose - Simplifying Multi-Container Applications
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, compose, multi-container, orchestration]
 published: true
 ---

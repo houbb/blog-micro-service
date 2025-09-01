@@ -1,8 +1,8 @@
 ---
 title: 分布式数据库系统：构建高可用、可扩展的现代数据管理平台
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

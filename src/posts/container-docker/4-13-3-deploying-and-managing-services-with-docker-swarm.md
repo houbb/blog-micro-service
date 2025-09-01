@@ -1,7 +1,7 @@
 ---
 title: Deploying and Managing Services with Docker Swarm - Mastering Service Orchestration
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, swarm, services, orchestration]
 published: true
 ---

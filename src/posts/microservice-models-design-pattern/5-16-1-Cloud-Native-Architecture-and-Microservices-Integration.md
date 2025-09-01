@@ -1,7 +1,7 @@
 ---
 title: 云原生架构与微服务的结合：构建弹性分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, cloud native, distributed systems, scalability]
 published: true
 ---

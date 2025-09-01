@@ -1,8 +1,8 @@
 ---
 title: 健康检查与熔断：构建高可用微服务系统的关键机制
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 社交平台与IoT中的微服务架构：构建海量用户和设备的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, social platforms, IoT, scalability, real-time]
 published: true
 ---

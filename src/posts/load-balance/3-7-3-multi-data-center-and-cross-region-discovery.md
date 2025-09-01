@@ -1,8 +1,8 @@
 ---
 title: 多数据中心与跨区域发现：构建全球分布式系统的挑战与解决方案
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

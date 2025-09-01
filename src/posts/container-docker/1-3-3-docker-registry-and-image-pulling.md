@@ -1,7 +1,7 @@
 ---
 title: Docker Registry and Image Pulling - Managing Container Images
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, registry, images, pull]
 published: true
 ---

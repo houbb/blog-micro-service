@@ -1,8 +1,8 @@
 ---
 title: TLS/SSL 与服务间加密通信：保障微服务安全的基石
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

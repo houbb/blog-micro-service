@@ -1,7 +1,7 @@
 ---
 title: 微服务的层次模型与分层架构：构建清晰的系统结构
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, layered architecture, hierarchy, design]
 published: true
 ---

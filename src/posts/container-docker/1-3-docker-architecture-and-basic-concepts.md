@@ -1,7 +1,7 @@
 ---
 title: Docker 架构与基本概念
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, architecture, concepts]
 published: true
 ---

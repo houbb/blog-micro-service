@@ -1,8 +1,8 @@
 ---
 title: 综合优化实战：从问题发现到最终调优的完整路径
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

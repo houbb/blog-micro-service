@@ -1,8 +1,8 @@
 ---
 title: Sidecar 模式下的服务发现：Service Mesh架构中的服务发现机制
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

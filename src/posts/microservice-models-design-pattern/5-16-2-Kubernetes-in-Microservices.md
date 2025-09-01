@@ -1,7 +1,7 @@
 ---
 title: Kubernetes在微服务中的应用：容器编排与服务管理
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, kubernetes, container orchestration, service management]
 published: true
 ---

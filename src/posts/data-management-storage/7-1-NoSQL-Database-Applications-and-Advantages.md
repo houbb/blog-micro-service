@@ -1,8 +1,8 @@
 ---
 title: NoSQL数据库的应用与优势：从理论到实践的全面解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

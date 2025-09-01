@@ -1,7 +1,7 @@
 ---
 title: 日志与分布式追踪：深入理解微服务系统的运行状态
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [logging, distributed-tracing, microservices, observability, debugging]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 附录D：事件驱动架构学习资源与书单
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

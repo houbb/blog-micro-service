@@ -1,8 +1,8 @@
 ---
 title: 数据管理的定义与重要性：构建数据驱动型组织的基石
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

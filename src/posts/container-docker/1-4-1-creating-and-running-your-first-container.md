@@ -1,7 +1,7 @@
 ---
 title: Creating and Running Your First Container - A Hands-On Guide
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, containers, run, hands-on]
 published: true
 ---

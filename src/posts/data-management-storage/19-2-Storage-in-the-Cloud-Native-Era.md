@@ -1,8 +1,8 @@
 ---
 title: 云原生时代的存储：构建弹性、可扩展的现代化存储架构
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

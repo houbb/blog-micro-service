@@ -1,8 +1,8 @@
 ---
 title: 静态 vs 动态服务注册：服务发现机制的核心差异
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

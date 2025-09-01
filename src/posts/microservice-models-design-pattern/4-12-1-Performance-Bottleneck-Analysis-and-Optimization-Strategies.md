@@ -1,7 +1,7 @@
 ---
 title: 性能瓶颈分析与优化策略：微服务系统性能优化的基础
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, performance optimization, bottleneck analysis, tuning]
 published: true
 ---

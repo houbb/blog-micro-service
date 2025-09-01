@@ -1,8 +1,8 @@
 ---
 title: 事件驱动设计模式
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 边缘计算与服务间通信：构建分布式微服务架构的新范式
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [edge-computing, distributed-systems, microservices, communication, cdn]
 published: true
 ---

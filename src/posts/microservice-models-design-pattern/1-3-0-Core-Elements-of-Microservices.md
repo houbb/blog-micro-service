@@ -1,7 +1,7 @@
 ---
 title: 微服务的核心要素：构建微服务系统的基础组件
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, core elements, architecture]
 published: true
 ---

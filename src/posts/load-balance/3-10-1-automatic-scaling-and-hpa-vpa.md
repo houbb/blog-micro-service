@@ -1,8 +1,8 @@
 ---
 title: 自动伸缩（HPA, VPA）：实现弹性负载均衡的关键技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

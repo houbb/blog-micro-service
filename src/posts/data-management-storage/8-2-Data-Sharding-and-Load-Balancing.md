@@ -1,8 +1,8 @@
 ---
 title: 数据分片与负载均衡：构建高可扩展NoSQL系统的核心技术
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

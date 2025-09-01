@@ -20,7 +20,7 @@
 ---
 title: 记忆力革命：从科学原理到实战训练，打造不忘的学习力
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [write]
 published: true
 ---

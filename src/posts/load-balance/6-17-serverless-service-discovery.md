@@ -1,8 +1,8 @@
 ---
 title: 无服务器架构中的服务发现与负载均衡：构建弹性云原生应用
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

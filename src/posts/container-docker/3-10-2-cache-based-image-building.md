@@ -1,7 +1,7 @@
 ---
 title: Cache-Based Image Building - Maximizing Docker Build Performance
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, build, cache, performance]
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 微服务的容器化与编排：Docker与Kubernetes实战指南
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, docker, kubernetes, containerization]
 published: true
 ---

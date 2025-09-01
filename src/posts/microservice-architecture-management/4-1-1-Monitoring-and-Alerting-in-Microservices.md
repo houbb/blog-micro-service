@@ -1,7 +1,7 @@
 ---
 title: 微服务的监控与告警：构建全方位的系统可观测性体系
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, monitoring, alerting, observability]
 published: true
 ---

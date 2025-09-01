@@ -1,7 +1,7 @@
 ---
 title: 微服务中的分布式缓存：提升系统性能与可扩展性的关键
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, distributed caching, redis, memcached, performance]
 published: true
 ---

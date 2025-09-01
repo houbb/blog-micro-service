@@ -1,8 +1,8 @@
 ---
 title: 备份的策略与方法：构建可靠的数据保护体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

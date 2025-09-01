@@ -1,7 +1,7 @@
 ---
 title: 异步通信模式：消息队列与事件驱动架构的实践指南
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, asynchronous communication, message queues, event-driven]
 published: true
 ---

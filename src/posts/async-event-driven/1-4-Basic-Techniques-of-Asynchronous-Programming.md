@@ -1,8 +1,8 @@
 ---
 title: 异步编程的基本技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

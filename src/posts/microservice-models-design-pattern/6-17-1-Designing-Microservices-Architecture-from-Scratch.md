@@ -1,7 +1,7 @@
 ---
 title: 从零开始设计微服务架构：构建可扩展的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, architecture design, distributed systems, scalability]
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 单一职责模式与模块化设计：构建高内聚低耦合的微服务
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, single responsibility, modular design, solid]
 published: true
 ---

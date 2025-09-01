@@ -1,7 +1,7 @@
 ---
 title: 附录D：微服务架构的常见问题与解答
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, faq, questions and answers]
 published: true
 ---

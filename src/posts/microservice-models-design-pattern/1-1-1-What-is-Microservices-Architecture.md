@@ -1,7 +1,7 @@
 ---
 title: 什么是微服务架构？深入解析微服务的核心概念
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, architecture, definition]
 published: true
 ---

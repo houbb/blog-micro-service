@@ -1,7 +1,7 @@
 ---
 title: 服务发现与负载均衡模式：微服务架构的基础设施支撑
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, service discovery, load balancing, patterns]
 published: true
 ---

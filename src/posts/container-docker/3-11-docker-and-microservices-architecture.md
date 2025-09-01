@@ -1,7 +1,7 @@
 ---
 title: Docker 与微服务架构
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, microservices, architecture]
 published: true
 ---

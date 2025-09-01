@@ -1,8 +1,8 @@
 ---
 title: 分布式系统性能的关键指标：衡量系统表现的科学方法
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

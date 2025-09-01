@@ -1,8 +1,8 @@
 ---
 title: 事件驱动架构的监控与日志
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

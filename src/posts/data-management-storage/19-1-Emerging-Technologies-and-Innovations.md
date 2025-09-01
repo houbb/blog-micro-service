@@ -1,8 +1,8 @@
 ---
 title: 新兴技术与创新：探索数据存储的未来发展方向
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

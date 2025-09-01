@@ -1,8 +1,8 @@
 ---
 title: 大数据存储架构与工具：Hadoop与Spark核心技术解析
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

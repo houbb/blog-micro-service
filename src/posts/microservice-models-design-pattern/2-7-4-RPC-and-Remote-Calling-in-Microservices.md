@@ -1,7 +1,7 @@
 ---
 title: 微服务中的 RPC 与远程调用：构建高效的分布式服务通信
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, rpc, remote calling, distributed communication]
 published: true
 ---

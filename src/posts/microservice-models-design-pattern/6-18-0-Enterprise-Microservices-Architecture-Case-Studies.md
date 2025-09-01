@@ -1,7 +1,7 @@
 ---
 title: 企业级微服务架构案例：实践中的经验与教训
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, enterprise architecture, case studies, best practices]
 published: true
 ---

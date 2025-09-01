@@ -1,7 +1,7 @@
 ---
 title: Container Isolation and Security - Understanding Docker Security Mechanisms
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, security, isolation, containers]
 published: true
 ---

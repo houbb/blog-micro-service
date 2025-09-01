@@ -1,8 +1,8 @@
 ---
 title: 分布式NoSQL数据库架构：构建高可用、可扩展的现代数据系统
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

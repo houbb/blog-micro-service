@@ -1,7 +1,7 @@
 ---
 title: 服务间通信中的性能优化：提升微服务系统的响应能力
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [performance, optimization, service-communication, microservices, latency, throughput]
 published: true
 ---

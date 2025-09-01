@@ -1,7 +1,7 @@
 ---
 title: 数据一致性与事务管理：确保分布式系统的数据完整性
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, data consistency, transaction management, distributed systems]
 published: true
 ---

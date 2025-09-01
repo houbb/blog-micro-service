@@ -1,7 +1,7 @@
 ---
 title: WebSockets与HTTP的区别：实时通信技术的深度对比
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [websockets, http, comparison, real-time, communication]
 published: true
 ---

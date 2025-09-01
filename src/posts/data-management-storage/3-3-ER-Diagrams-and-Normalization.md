@@ -1,8 +1,8 @@
 ---
 title: 数据库设计：ER图与规范化理论与实践
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

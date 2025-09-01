@@ -1,8 +1,8 @@
 ---
 title: AI驱动的性能优化：智能化系统调优的新范式
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

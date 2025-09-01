@@ -1,8 +1,8 @@
 ---
 title: 云厂商的弹性负载均衡（ELB/ALB/NLB）：公有云环境下的负载均衡解决方案
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

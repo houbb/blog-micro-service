@@ -1,8 +1,8 @@
 ---
 title: AI 驱动的智能路由与流量调度：构建自适应的现代化负载均衡系统
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

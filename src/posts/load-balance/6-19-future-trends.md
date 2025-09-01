@@ -1,8 +1,8 @@
 ---
 title: 服务发现与负载均衡的未来发展趋势与挑战：探索下一代分布式系统架构
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

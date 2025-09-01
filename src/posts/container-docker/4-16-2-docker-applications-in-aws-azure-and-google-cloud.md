@@ -1,7 +1,7 @@
 ---
 title: Docker Applications in AWS, Azure, and Google Cloud - Mastering Multi-Cloud Container Deployment
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, aws, azure, gcp, cloud]
 published: true
 ---

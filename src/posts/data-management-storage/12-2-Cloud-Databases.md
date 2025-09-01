@@ -1,8 +1,8 @@
 ---
 title: 云数据库技术解析：Amazon RDS与Google Cloud Spanner实践指南
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

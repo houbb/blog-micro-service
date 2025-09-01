@@ -1,8 +1,8 @@
 ---
 title: 网络性能优化：构建低延迟高吞吐量的分布式通信基础设施
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

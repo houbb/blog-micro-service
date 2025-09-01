@@ -1,8 +1,8 @@
 ---
 title: 负载均衡监控指标（QPS、延迟、错误率）：构建全面的性能观测体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 消息队列与异步处理优化：构建高吞吐量分布式系统的异步架构
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

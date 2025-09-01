@@ -1,8 +1,8 @@
 ---
 title: 常见算法：轮询、最少连接、加权轮询等负载均衡策略详解
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

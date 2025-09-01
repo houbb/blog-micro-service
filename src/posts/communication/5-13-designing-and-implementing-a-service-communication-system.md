@@ -1,7 +1,7 @@
 ---
 title: 设计与实现一个服务间通信系统：从理论到实践的完整指南
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [service-communication, system-design, microservices, implementation]
 published: true
 ---

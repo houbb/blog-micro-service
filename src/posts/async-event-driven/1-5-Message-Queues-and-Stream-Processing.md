@@ -1,8 +1,8 @@
 ---
 title: 消息队列与流处理
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 大型互联网企业的性能优化实践：从Google、Netflix到阿里巴巴的经验借鉴
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

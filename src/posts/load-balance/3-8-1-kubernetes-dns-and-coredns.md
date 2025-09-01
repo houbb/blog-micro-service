@@ -1,8 +1,8 @@
 ---
 title: Kubernetes 的 DNS & CoreDNS：容器化环境中的服务发现机制
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

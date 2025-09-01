@@ -1,8 +1,8 @@
 ---
 title: 异步与事件驱动架构的性能优化
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

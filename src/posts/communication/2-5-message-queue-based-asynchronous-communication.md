@@ -1,7 +1,7 @@
 ---
 title: 基于消息队列的异步通信（Kafka, RabbitMQ）：构建松耦合的微服务系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [message-queue, kafka, rabbitmq, asynchronous, microservices]
 published: true
 ---

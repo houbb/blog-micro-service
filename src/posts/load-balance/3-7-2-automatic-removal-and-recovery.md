@@ -1,8 +1,8 @@
 ---
 title: 自动摘除与恢复：实现服务自愈能力的关键技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 数据库触发器与事件：实现自动化数据管理的核心技术
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 数据管理与存储的核心回顾：从基础概念到前沿技术的全面梳理
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

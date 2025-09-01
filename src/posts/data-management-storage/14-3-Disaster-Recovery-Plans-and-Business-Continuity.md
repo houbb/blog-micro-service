@@ -1,8 +1,8 @@
 ---
 title: 灾难恢复计划与业务连续性：构建企业级容灾体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

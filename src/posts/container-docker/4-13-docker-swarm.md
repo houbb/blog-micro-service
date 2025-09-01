@@ -1,7 +1,7 @@
 ---
 title: Docker Swarm - Container Orchestration Made Simple
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, swarm, orchestration, clustering]
 published: true
 ---

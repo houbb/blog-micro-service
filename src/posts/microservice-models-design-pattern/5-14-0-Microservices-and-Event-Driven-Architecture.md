@@ -1,7 +1,7 @@
 ---
 title: 微服务与事件驱动架构：构建响应式分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, event-driven architecture, reactive systems, distributed systems]
 published: true
 ---

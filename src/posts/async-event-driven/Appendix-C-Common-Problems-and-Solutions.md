@@ -1,8 +1,8 @@
 ---
 title: 附录C：事件驱动架构常见问题与解决方案
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

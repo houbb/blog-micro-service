@@ -1,7 +1,7 @@
 ---
 title: 异步与批处理操作：提升微服务系统性能与可扩展性的关键策略
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, asynchronous processing, batch processing, performance, scalability]
 published: true
 ---

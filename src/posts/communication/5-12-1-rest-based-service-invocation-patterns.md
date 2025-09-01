@@ -1,7 +1,7 @@
 ---
 title: 基于REST的服务调用模式：构建同步微服务通信的最佳实践
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [rest, service-invocation, microservices, synchronous, http]
 published: true
 ---

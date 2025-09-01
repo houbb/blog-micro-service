@@ -1,7 +1,7 @@
 ---
 title: 微服务的服务治理：构建可管理的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, service governance, distributed systems]
 published: true
 ---

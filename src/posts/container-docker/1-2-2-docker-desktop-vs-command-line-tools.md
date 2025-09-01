@@ -1,7 +1,7 @@
 ---
 title: Docker Desktop vs Command Line Tools - Choosing the Right Interface
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, docker-desktop, cli, interface]
 published: true
 ---

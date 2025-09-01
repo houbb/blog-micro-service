@@ -1,8 +1,8 @@
 ---
 title: 服务发现中的鉴权与访问控制：构建安全的服务治理体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

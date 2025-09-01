@@ -1,7 +1,7 @@
 ---
 title: Docker Storage Concepts - Volumes, Bind Mounts, and Tmpfs
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, storage, volumes, bind-mounts, tmpfs]
 published: true
 ---

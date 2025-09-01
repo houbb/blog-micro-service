@@ -1,7 +1,7 @@
 ---
 title: 容错与高可用性：构建可靠的微服务通信系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [fault-tolerance, high-availability, microservices, resilience, circuit-breaker]
 published: true
 ---

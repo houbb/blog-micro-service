@@ -1,8 +1,8 @@
 ---
 title: 分布式一致性与性能权衡：在数据一致性和系统性能间找到最佳平衡点
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

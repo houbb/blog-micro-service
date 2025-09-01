@@ -1,8 +1,8 @@
 ---
 title: API Gateway 集成：现代微服务架构中的负载均衡与API管理融合
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

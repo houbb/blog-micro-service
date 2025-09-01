@@ -1,8 +1,8 @@
 ---
 title: 健康检查机制：保障服务高可用的关键技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

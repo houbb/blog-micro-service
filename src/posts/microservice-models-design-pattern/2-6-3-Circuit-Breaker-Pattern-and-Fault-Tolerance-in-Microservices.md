@@ -1,7 +1,7 @@
 ---
 title: 微服务中的熔断器模式与容错：构建高可用分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, circuit breaker, fault tolerance, resilience]
 published: true
 ---

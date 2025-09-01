@@ -1,8 +1,8 @@
 ---
 title: 附录B：事件驱动架构设计模板与示例
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

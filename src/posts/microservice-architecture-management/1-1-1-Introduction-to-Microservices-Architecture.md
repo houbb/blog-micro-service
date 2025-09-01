@@ -1,7 +1,7 @@
 ---
 title: 微服务架构简介：从单体应用到分布式系统的演进之路
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, distributed-systems]
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 服务间通信中的容错设计：构建 resilient 微服务系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [fault-tolerance, resilience, microservices, design-patterns, reliability]
 published: true
 ---

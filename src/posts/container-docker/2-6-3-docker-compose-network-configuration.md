@@ -1,7 +1,7 @@
 ---
 title: Docker Compose Network Configuration - Managing Multi-Container Applications
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, compose, networking, multi-container]
 published: true
 ---

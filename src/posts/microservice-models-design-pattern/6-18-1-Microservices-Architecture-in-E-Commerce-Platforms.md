@@ -1,7 +1,7 @@
 ---
 title: 电商平台中的微服务架构：构建高并发可扩展的电商系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, e-commerce, scalability, high concurrency]
 published: true
 ---

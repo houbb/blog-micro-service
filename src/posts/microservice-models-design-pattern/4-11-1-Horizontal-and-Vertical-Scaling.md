@@ -1,7 +1,7 @@
 ---
 title: 横向扩展与垂直扩展：微服务架构的扩展性基础
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, scaling, horizontal scaling, vertical scaling, performance]
 published: true
 ---

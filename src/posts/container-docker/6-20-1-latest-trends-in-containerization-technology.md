@@ -1,7 +1,7 @@
 ---
 title: Latest Trends in Containerization Technology - Staying Ahead of the Curve
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [containers, trends, technology, innovation, docker]
 published: true
 ---

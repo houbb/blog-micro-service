@@ -1,8 +1,8 @@
 ---
 title: 高级关系型数据库技术：从视图到高可用性的全面解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

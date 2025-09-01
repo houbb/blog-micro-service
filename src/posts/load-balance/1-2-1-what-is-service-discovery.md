@@ -1,8 +1,8 @@
 ---
 title: 什么是服务发现：理解现代分布式系统的核心组件
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

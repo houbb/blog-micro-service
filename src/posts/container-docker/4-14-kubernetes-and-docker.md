@@ -1,7 +1,7 @@
 ---
 title: Kubernetes and Docker - Container Orchestration at Scale
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, kubernetes, orchestration, containers]
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 微服务的容错与高可用性设计：构建弹性的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, fault tolerance, high availability, resilience]
 published: true
 ---

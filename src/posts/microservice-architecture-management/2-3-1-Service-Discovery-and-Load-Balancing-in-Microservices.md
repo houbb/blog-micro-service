@@ -1,7 +1,7 @@
 ---
 title: 微服务的服务发现与负载均衡：构建高可用的分布式通信基础设施
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, service-discovery, load-balancing]
 published: true
 ---

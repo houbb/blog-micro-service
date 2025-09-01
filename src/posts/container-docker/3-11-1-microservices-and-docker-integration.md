@@ -1,7 +1,7 @@
 ---
 title: Microservices and Docker Integration - Building Modular Applications
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, microservices, architecture, integration]
 published: true
 ---

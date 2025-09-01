@@ -1,7 +1,7 @@
 ---
 title: Integrating Docker into CI/CD Pipelines - Building Automated Software Delivery Workflows
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, ci-cd, pipelines, automation]
 published: true
 ---

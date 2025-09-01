@@ -1,8 +1,8 @@
 ---
 title: 实战案例：Kubernetes Ingress + Service Mesh 构建云原生微服务架构
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

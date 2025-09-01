@@ -1,8 +1,8 @@
 ---
 title: 数据库与存储优化：构建高效数据访问层的关键策略
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

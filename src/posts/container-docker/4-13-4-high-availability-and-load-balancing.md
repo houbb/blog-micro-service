@@ -1,7 +1,7 @@
 ---
 title: High Availability and Load Balancing in Docker Swarm - Ensuring Application Reliability and Performance
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, swarm, high-availability, load-balancing, reliability]
 published: true
 ---

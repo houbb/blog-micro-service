@@ -1,7 +1,7 @@
 ---
 title: Managing Docker Containers with Kubernetes - Mastering Container Orchestration
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, kubernetes, containers, management]
 published: true
 ---

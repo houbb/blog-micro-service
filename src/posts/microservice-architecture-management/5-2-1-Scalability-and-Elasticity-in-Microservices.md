@@ -1,7 +1,7 @@
 ---
 title: 微服务的可伸缩性与弹性：构建能够应对流量洪峰的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, scalability, elasticity, kubernetes]
 published: true
 ---

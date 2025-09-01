@@ -1,8 +1,8 @@
 ---
 title: 什么是负载均衡：分布式系统的流量调度核心
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

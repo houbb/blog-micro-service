@@ -1,7 +1,7 @@
 ---
 title: 事件驱动架构与事件源模式：构建响应式微服务系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [event-driven, event-sourcing, microservices, architecture, cqrs]
 published: true
 ---

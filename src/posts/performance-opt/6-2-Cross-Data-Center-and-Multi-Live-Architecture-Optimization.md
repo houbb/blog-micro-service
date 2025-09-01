@@ -1,8 +1,8 @@
 ---
 title: 跨数据中心与多活架构优化：构建全球高可用分布式系统
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

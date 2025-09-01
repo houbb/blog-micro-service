@@ -1,7 +1,7 @@
 ---
 title: Service Lifecycle Management - Starting, Stopping, and Restarting Services
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, compose, lifecycle, management]
 published: true
 ---

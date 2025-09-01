@@ -1,7 +1,7 @@
 ---
 title: 微服务的安全管理：构建零信任架构的分布式安全体系
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, security, authentication, authorization]
 published: true
 ---

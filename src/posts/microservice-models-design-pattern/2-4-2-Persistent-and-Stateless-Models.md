@@ -1,7 +1,7 @@
 ---
 title: 持久化与无状态模型：微服务架构中的状态管理策略
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, state management, persistent, stateless]
 published: true
 ---

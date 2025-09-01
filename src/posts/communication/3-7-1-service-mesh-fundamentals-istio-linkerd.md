@@ -1,7 +1,7 @@
 ---
 title: 服务网格基础：深入理解Istio与Linkerd的核心概念
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [service-mesh, istio, linkerd, microservices, infrastructure]
 published: true
 ---

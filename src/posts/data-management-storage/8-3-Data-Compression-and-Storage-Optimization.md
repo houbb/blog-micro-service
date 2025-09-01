@@ -1,8 +1,8 @@
 ---
 title: 数据压缩与存储优化：提升NoSQL数据库性能与效率的关键技术
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

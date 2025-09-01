@@ -1,8 +1,8 @@
 ---
 title: 运维与CI/CD优化：构建高效可靠的持续交付体系
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

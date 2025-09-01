@@ -1,8 +1,8 @@
 ---
 title: 存储资源池化与优化：构建高效灵活的存储基础设施
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

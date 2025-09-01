@@ -1,7 +1,7 @@
 ---
 title: 蓝绿部署与滚动更新：微服务架构中的零停机部署策略
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, deployment strategies, blue-green deployment, rolling updates, zero downtime]
 published: true
 ---

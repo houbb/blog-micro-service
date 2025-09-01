@@ -1,8 +1,8 @@
 ---
 title: 实战案例：Spring Cloud + Eureka + Ribbon 构建高可用微服务架构
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

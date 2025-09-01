@@ -1,8 +1,8 @@
 ---
 title: 客户端负载均衡（Ribbon、gRPC 内置机制）：深入理解客户端负载均衡实现
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

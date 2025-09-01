@@ -1,7 +1,7 @@
 ---
 title: 多云环境下的微服务架构：构建跨平台分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, multi-cloud, distributed systems, cloud portability]
 published: true
 ---

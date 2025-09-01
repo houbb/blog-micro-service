@@ -1,7 +1,7 @@
 ---
 title: 基于HTTP的通信（RESTful API）：构建现代Web服务的基石
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [http, restful-api, microservices, web-services]
 published: true
 ---

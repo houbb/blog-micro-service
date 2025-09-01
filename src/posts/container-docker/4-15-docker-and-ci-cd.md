@@ -1,7 +1,7 @@
 ---
 title: Docker and CI/CD - Streamlining Software Delivery with Containerization
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, ci-cd, devops, automation]
 published: true
 ---

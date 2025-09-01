@@ -1,7 +1,7 @@
 ---
 title: 微服务架构的演化与升级：从单体应用到云原生的演进之路
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, evolution, upgrade, cloud-native]
 published: true
 ---

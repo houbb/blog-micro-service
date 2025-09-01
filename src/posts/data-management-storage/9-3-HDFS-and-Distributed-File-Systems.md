@@ -1,8 +1,8 @@
 ---
 title: HDFS与分布式文件系统：大数据存储的核心技术解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

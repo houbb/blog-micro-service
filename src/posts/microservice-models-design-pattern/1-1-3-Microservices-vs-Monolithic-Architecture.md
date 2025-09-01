@@ -1,7 +1,7 @@
 ---
 title: 微服务与单体架构的对比：如何选择适合的架构模式
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, monolithic, architecture, comparison]
 published: true
 ---

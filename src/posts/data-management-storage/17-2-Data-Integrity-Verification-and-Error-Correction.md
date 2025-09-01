@@ -1,8 +1,8 @@
 ---
 title: 数据的完整性验证与纠错技术：构建可靠的分布式存储系统
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

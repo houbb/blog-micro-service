@@ -1,8 +1,8 @@
 ---
 title: 静态轮询 vs 动态感知：负载均衡策略的核心差异
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

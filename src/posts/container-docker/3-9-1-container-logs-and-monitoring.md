@@ -1,7 +1,7 @@
 ---
 title: Container Logs and Monitoring - Mastering Docker Log Management and Performance Monitoring
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, logs, monitoring, containers]
 published: true
 ---

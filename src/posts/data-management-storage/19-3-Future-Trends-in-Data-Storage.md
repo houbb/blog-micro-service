@@ -1,8 +1,8 @@
 ---
 title: 数据存储的未来趋势：预见下一代存储技术的发展方向
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

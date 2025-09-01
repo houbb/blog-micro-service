@@ -1,7 +1,7 @@
 ---
 title: Appendix A - Common Docker Commands and Tools Summary
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, commands, tools, reference]
 published: true
 ---

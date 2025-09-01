@@ -1,7 +1,7 @@
 ---
 title: Container Lifecycle Management - Start, Stop, Restart and More
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, containers, lifecycle, management]
 published: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: 分布式存储中的数据安全挑战：构建安全可靠的分布式数据基础设施
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

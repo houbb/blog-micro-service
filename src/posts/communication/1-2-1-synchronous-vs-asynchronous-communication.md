@@ -1,7 +1,7 @@
 ---
 title: 同步与异步通信：微服务架构中的通信模式选择
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [synchronous, asynchronous, communication-patterns, microservices]
 published: true
 ---

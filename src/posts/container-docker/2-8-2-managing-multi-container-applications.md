@@ -1,7 +1,7 @@
 ---
 title: Managing Multi-Container Applications with Docker Compose - Streamlining Complex Deployments
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, compose, multi-container, management]
 published: true
 ---

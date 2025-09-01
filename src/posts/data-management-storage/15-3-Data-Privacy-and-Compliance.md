@@ -1,8 +1,8 @@
 ---
 title: 数据隐私与合规性：构建符合GDPR和CCPA要求的数据保护体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 缓存优化：构建高性能分布式系统的加速器
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

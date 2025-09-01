@@ -1,7 +1,7 @@
 ---
 title: Custom Images and Multi-Stage Builds - Advanced Image Creation Techniques
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, images, custom, multi-stage, build]
 published: true
 ---

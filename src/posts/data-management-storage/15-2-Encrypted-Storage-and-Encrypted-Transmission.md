@@ -1,8 +1,8 @@
 ---
 title: 加密存储与加密传输：构建端到端数据安全防护体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

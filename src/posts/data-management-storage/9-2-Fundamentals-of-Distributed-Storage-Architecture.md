@@ -1,8 +1,8 @@
 ---
 title: 分布式存储架构基础：从理论到实践的核心概念解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

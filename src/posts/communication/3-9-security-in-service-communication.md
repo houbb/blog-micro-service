@@ -1,7 +1,7 @@
 ---
 title: 服务间通信中的安全性：构建可信的微服务生态系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [security, service-communication, microservices, authentication, authorization]
 published: true
 ---

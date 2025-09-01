@@ -1,7 +1,7 @@
 ---
 title: Appendix C - Docker Certifications and Training Resources
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, certification, training, learning]
 published: true
 ---

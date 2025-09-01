@@ -1,7 +1,7 @@
 ---
 title: 优化HTTP请求与响应：提升微服务通信效率的关键策略
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [http, optimization, requests, responses, microservices, performance]
 published: true
 ---

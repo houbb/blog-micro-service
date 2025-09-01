@@ -1,7 +1,7 @@
 ---
 title: Docker in Modern Software Development - Revolutionizing the Development Lifecycle
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, software-development, devops, microservices]
 published: true
 ---

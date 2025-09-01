@@ -1,8 +1,8 @@
 ---
 title: 日志 & Tracing 的应用：构建全链路可观测性体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

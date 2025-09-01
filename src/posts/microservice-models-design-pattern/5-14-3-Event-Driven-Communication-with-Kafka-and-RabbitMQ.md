@@ -1,7 +1,7 @@
 ---
 title: 使用 Kafka 和 RabbitMQ 进行事件驱动通信：构建可靠的消息传递系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, kafka, rabbitmq, event-driven, messaging]
 published: true
 ---

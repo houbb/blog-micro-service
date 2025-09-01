@@ -1,8 +1,8 @@
 ---
 title: 大数据与流处理中的事件驱动
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [AsyncEventDriven]
+tags: [async-event-driven]
 published: true
 ---
 

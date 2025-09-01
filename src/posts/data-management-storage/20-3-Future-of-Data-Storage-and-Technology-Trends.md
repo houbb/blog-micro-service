@@ -1,8 +1,8 @@
 ---
 title: 数据存储技术的未来发展与如何跟进最新技术：把握存储领域的前沿趋势
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

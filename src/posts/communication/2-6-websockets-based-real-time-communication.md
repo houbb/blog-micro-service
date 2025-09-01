@@ -1,7 +1,7 @@
 ---
 title: 基于WebSockets的实时通信：构建交互式微服务应用
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [websockets, real-time, communication, microservices]
 published: true
 ---

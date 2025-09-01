@@ -1,8 +1,8 @@
 ---
 title: NoSQL数据库优化与扩展：从性能调优到水平扩展的全面指南
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Configuring and Managing CI/CD Toolchains - Mastering DevOps Automation Tools
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, ci-cd, devops, toolchain]
 published: true
 ---

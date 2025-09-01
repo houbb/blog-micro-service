@@ -1,7 +1,7 @@
 ---
 title: 附录C：微服务架构的参考书单与资源
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, reference, books, resources]
 published: true
 ---

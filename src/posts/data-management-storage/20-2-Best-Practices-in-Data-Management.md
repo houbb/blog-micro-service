@@ -1,8 +1,8 @@
 ---
 title: 数据管理的最佳实践：构建高效、安全、合规的数据管理体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

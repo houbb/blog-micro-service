@@ -1,8 +1,8 @@
 ---
 title: 视图与存储过程：数据库抽象与逻辑封装的核心技术
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

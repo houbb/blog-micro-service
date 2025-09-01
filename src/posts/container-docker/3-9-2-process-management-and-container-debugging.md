@@ -1,7 +1,7 @@
 ---
 title: Process Management and Container Debugging - Advanced Container Troubleshooting Techniques
 date: 2025-08-30
-categories: [Write]
+categories: [Docker]
 tags: [docker, process, debugging, containers]
 published: true
 ---

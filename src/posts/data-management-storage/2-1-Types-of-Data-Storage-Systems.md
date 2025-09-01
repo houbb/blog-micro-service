@@ -1,8 +1,8 @@
 ---
 title: 数据存储系统的类型：从本地存储到云存储的全面解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

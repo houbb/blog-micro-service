@@ -1,7 +1,7 @@
 ---
 title: 微服务的自动化部署与管理：从CI/CD到基础设施即代码的全面实践
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, deployment, automation, devops]
 published: true
 ---

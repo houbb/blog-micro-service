@@ -1,8 +1,8 @@
 ---
 title: NoSQL数据库的类型与特点：深入解析四大主流NoSQL数据库类型
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

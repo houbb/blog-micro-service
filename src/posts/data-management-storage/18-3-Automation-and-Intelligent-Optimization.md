@@ -1,8 +1,8 @@
 ---
 title: 自动化与智能优化：构建自适应的数据存储性能管理体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

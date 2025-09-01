@@ -1,7 +1,7 @@
 ---
 title: 实际案例：设计一个微服务系统 - 从需求分析到架构设计
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [system-design, microservices, architecture, case-study]
 published: true
 ---

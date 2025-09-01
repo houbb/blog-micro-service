@@ -1,8 +1,8 @@
 ---
 title: 软件定义存储与分布式存储：构建现代化数据基础设施的核心技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

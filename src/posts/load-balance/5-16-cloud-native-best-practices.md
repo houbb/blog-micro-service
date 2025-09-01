@@ -1,8 +1,8 @@
 ---
 title: 云原生环境下的最佳实践：构建高可用、可扩展的现代应用架构
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

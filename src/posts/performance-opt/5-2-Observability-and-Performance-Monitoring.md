@@ -1,8 +1,8 @@
 ---
 title: 可观测性与性能监控：构建全面的系统运行状态感知体系
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

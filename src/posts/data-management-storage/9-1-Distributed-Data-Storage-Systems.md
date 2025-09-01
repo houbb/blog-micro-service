@@ -1,8 +1,8 @@
 ---
 title: 分布式数据存储系统：构建高可用、可扩展的现代存储架构
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

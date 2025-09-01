@@ -1,7 +1,7 @@
 ---
 title: 服务自治与独立部署：实现微服务核心价值的关键
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, autonomy, deployment, cicd]
 published: true
 ---

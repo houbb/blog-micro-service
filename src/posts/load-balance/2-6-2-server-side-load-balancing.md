@@ -1,8 +1,8 @@
 ---
 title: 服务端负载均衡（Nginx、HAProxy、Envoy）：深入解析服务端负载均衡实现
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

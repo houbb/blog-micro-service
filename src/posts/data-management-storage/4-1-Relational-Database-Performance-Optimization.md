@@ -1,8 +1,8 @@
 ---
 title: 关系型数据库性能优化：从索引到缓存的全面优化策略
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

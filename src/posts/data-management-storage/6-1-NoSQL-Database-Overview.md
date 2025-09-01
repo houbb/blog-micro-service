@@ -1,8 +1,8 @@
 ---
 title: NoSQL数据库概述：从类型特点到现代应用的全面解析
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

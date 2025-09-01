@@ -1,7 +1,7 @@
 ---
 title: 服务监控与日志管理：微服务架构的可观测性基石
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, monitoring, log management, observability]
 published: true
 ---

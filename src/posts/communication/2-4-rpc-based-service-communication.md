@@ -1,7 +1,7 @@
 ---
 title: 基于RPC的服务间通信（gRPC与Thrift）：高性能微服务通信方案
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [rpc, grpc, thrift, microservices, performance]
 published: true
 ---

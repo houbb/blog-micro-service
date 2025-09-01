@@ -1,7 +1,7 @@
 ---
 title: 微服务与流处理的结合：实时数据处理与事件驱动架构
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, stream processing, event-driven, real-time]
 published: true
 ---

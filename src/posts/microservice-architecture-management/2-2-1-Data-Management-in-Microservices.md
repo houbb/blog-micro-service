@@ -1,7 +1,7 @@
 ---
 title: 微服务中的数据管理：解决分布式系统的数据挑战
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, data-management, distributed-transactions]
 published: true
 ---

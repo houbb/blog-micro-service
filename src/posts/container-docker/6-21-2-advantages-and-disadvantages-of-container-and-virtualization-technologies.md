@@ -1,7 +1,7 @@
 ---
 title: Advantages and Disadvantages of Container and Virtualization Technologies - A Balanced Perspective
 date: 2025-08-31
-categories: [Write]
+categories: [Docker]
 tags: [docker, containers, virtualization, vm, pros-cons]
 published: true
 ---

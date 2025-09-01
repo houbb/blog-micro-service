@@ -1,8 +1,8 @@
 ---
 title: 一致性哈希与请求亲和性：实现高效会话保持的负载均衡策略
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 单体架构与微服务架构的演变：从一体化到分布式的设计革命
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, monolithic, architecture evolution, design]
 published: true
 ---

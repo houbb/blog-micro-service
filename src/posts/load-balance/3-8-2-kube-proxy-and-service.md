@@ -1,8 +1,8 @@
 ---
 title: Kube-Proxy 与 Service：Kubernetes网络流量管理的核心组件
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

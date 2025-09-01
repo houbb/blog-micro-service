@@ -1,8 +1,8 @@
 ---
 title: 存储高可用性设计：构建可靠的数据存储基础设施
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

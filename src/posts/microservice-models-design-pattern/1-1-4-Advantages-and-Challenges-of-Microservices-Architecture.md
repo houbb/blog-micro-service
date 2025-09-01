@@ -1,7 +1,7 @@
 ---
 title: 微服务架构的优点与挑战：全面解析微服务的双面性
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, architecture, advantages, challenges]
 published: true
 ---

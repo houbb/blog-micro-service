@@ -1,7 +1,7 @@
 ---
 title: 持续改进与优化微服务架构：演进方法与优化策略
 date: 2025-08-31
-categories: [Microservices]
+categories: [ModelsDesignPattern]
 tags: [microservices, continuous improvement, optimization]
 published: true
 ---

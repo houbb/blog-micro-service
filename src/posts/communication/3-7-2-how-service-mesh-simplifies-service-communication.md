@@ -1,7 +1,7 @@
 ---
 title: 服务网格如何简化服务间通信：从复杂性到简洁性的转变
 date: 2025-08-31
-categories: [Microservices]
+categories: [ServiceCommunication]
 tags: [service-mesh, communication, simplification, microservices, infrastructure]
 published: true
 ---

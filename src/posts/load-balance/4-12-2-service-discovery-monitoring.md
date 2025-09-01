@@ -1,8 +1,8 @@
 ---
 title: 服务发现监控与健康状态追踪：构建可靠的微服务基础设施
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [LoadBalance]
+tags: [load-balance]
 published: true
 ---
 

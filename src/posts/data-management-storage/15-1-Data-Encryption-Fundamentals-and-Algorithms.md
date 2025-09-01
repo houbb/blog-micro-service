@@ -1,8 +1,8 @@
 ---
 title: 数据加密基础与加密算法：构建安全数据存储的核心技术
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

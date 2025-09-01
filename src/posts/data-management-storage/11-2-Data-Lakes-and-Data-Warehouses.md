@@ -1,8 +1,8 @@
 ---
 title: 数据湖与数据仓库：现代数据架构的核心组件
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

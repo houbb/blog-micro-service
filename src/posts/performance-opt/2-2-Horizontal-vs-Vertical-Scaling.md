@@ -1,8 +1,8 @@
 ---
 title: 水平扩展与垂直扩展：分布式系统的扩展策略与实践
 date: 2025-08-30
-categories: [Write]
-tags: [write]
+categories: [PerformanceOpt]
+tags: [performance-opt]
 published: true
 ---
 

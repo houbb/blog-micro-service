@@ -1,8 +1,8 @@
 ---
 title: 存储层的安全策略：构建分布式存储系统的纵深防御体系
 date: 2025-08-31
-categories: [Write]
-tags: [write]
+categories: [DataManagementStorage]
+tags: [data-management-storage]
 published: true
 ---
 

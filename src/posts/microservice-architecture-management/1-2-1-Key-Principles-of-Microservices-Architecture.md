@@ -1,7 +1,7 @@
 ---
 title: 微服务架构的关键原则：构建高内聚、松耦合的分布式系统
 date: 2025-08-31
-categories: [Microservices]
+categories: [MicroserviceArchitectureManagement]
 tags: [architecture, microservices, design-principles, ddd]
 published: true
 ---
