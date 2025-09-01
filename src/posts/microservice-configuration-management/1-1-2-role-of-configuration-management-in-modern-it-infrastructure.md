@@ -2,7 +2,7 @@
 title: 配置管理在现代IT基础设施中的角色：从静态到动态的演进
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, management, infrastructure, cloud, microservices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: OpenTracing与Jaeger实战：微服务分布式追踪深度实践
 date: 2025-08-31
 categories: [Microservices, Tracing, Practice]
-tags: [microservices, tracing, opentracing, jaeger, distributed-systems]
+tags: [log-monitor]
 published: true
 ---
 

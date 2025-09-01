@@ -2,7 +2,7 @@
 title: 后记：Kubernetes学习之旅的思考与展望
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, afterword, reflection, future, learning]
+tags: [container-k8s]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 领域驱动设计在微服务中的应用：构建清晰的业务边界
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, ddd, domain-driven-design]
+tags: [micro-service]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 服务网格在微服务架构中的作用：构建可靠、安全、可观察的分布式系统
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, microservices, roles, architecture, reliability, security, observability]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务的设计原则：构建高内聚、低耦合的分布式系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, design, principles]
+tags: [micro-service]
 published: true
 ---
 

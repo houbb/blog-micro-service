@@ -2,7 +2,7 @@
 title: 微服务的日志管理：ELK Stack与Fluentd实践
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, logging, elk, fluentd]
+tags: [micro-service]
 published: true
 ---
 

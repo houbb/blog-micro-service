@@ -2,7 +2,7 @@
 title: 深入理解虚拟化：技术原理与核心组件解析
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtualization, hypervisor, virtual machine]
+tags: [container-vm]
 published: true
 ---
 

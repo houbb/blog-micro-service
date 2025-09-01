@@ -2,7 +2,7 @@
 title: StatefulSet与有状态应用：管理分布式系统的利器
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, statefulset, stateful-applications, distributed-systems, persistence]
+tags: [container-k8s]
 published: true
 ---
 

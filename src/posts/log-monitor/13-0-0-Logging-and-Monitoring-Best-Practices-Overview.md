@@ -2,7 +2,7 @@
 title: 日志与监控最佳实践概述：构建高效可靠的可观察性体系
 date: 2025-08-31
 categories: [Microservices, Logging, Monitoring, Best Practices]
-tags: [microservices, logging, monitoring, best-practices, observability]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 持续集成与持续交付：构建高效软件交付流水线
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, ci/cd, jenkins, gitlab-ci, github-actions]
+tags: [devops]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 数据备份与恢复 (Data Backup & Restore)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [data-backup, data-restore, snapshot, cloud-storage]
+tags: [fault-recovery]
 published: true
 ---
 

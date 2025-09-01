@@ -2,7 +2,7 @@
 title: 基于云的日志与监控概述：构建云原生可观察性体系
 date: 2025-08-31
 categories: [Microservices, Cloud, Logging, Monitoring]
-tags: [microservices, cloud, logging, monitoring, cloud-native, aws, azure, gcp]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 高效监控架构设计：采样策略与数据存储优化
 date: 2025-08-31
 categories: [Microservices, Monitoring, Architecture]
-tags: [microservices, monitoring, sampling, storage, performance, scalability]
+tags: [log-monitor]
 published: true
 ---
 

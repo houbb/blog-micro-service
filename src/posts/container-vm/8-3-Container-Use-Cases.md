@@ -2,7 +2,7 @@
 title: 容器化应用场景详解：从微服务到边缘计算的实践指南
 date: 2025-08-31
 categories: [Containerization]
-tags: [container, use cases, microservices, devops, edge computing, cloud native]
+tags: [container-vm]
 published: true
 ---
 

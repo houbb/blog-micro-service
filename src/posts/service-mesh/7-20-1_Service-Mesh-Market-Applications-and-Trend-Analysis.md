@@ -2,7 +2,7 @@
 title: 服务网格的市场应用与趋势分析：洞察服务网格技术的行业实践与发展方向
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, market-analysis, trends, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

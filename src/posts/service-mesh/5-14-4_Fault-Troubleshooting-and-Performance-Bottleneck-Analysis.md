@@ -2,7 +2,7 @@
 title: 故障排查与性能瓶颈分析：基于分布式追踪的深度诊断
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, distributed-tracing, fault-troubleshooting, performance-analysis, root-cause-analysis, observability]
+tags: [service-mesh]
 published: true
 ---
 

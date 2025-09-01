@@ -2,7 +2,7 @@
 title: Configuring Docker Environment and Common Commands - A Practical Guide
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, configuration, commands, environment]
+tags: [container-docker]
 published: true
 ---
 

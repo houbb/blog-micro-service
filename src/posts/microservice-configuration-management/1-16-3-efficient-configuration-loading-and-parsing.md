@@ -2,7 +2,7 @@
 title: 配置文件的高效加载与解析：提升配置管理性能
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-loading, performance-optimization, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 构建虚拟化数据中心架构：从传统架构到软件定义数据中心的演进
 date: 2025-08-31
 categories: [Virtualization, Data Center]
-tags: [data center, virtualization, sddc, architecture, cloud computing]
+tags: [container-vm]
 published: true
 ---
 

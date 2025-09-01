@@ -2,7 +2,7 @@
 title: 使用自动化工具保证配置一致性：构建可靠的配置管理体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [automation, configuration-consistency, devops, monitoring, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

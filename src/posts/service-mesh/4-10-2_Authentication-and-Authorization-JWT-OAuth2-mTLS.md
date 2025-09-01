@@ -2,7 +2,7 @@
 title: 身份认证与授权：JWT、OAuth2、mTLS综合安全解决方案
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, authentication, authorization, jwt, oauth2, mtls, security]
+tags: [service-mesh]
 published: true
 ---
 

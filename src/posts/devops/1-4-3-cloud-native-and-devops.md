@@ -2,7 +2,7 @@
 title: 云原生与DevOps：在云原生环境中实现高效软件交付的实践指南
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, cloud-native, kubernetes, serverless, aws, azure, gcp]
+tags: [devops]
 published: true
 ---
 

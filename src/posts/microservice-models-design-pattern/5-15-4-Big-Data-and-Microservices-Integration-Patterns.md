@@ -2,7 +2,7 @@
 title: 大数据与微服务的集成模式：构建高效的数据处理生态系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, big data, integration patterns, data processing]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

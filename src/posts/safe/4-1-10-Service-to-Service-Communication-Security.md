@@ -2,7 +2,7 @@
 title: 服务间通信安全：保护微服务架构中的数据传输安全
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, communication, tls, mTLS]
+tags: [safe]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Prometheus与Alertmanager实战：构建生产级告警系统
 date: 2025-08-31
 categories: [Microservices, Alerting, Prometheus]
-tags: [microservices, alerting, prometheus, alertmanager, monitoring]
+tags: [log-monitor]
 published: true
 ---
 

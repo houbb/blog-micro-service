@@ -2,7 +2,7 @@
 title: 虚拟机隔离与安全策略：实现多租户环境下的安全隔离与访问控制
 date: 2025-08-31
 categories: [Virtualization, Security]
-tags: [vm isolation, security strategies, multi-tenancy, access control, hypervisor security]
+tags: [container-vm]
 published: true
 ---
 

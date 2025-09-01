@@ -2,7 +2,7 @@
 title: 微服务中的防火墙与安全网关及数据加密
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, security, api-gateway, encryption]
+tags: [micro-service]
 published: true
 ---
 

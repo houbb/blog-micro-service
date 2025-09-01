@@ -2,7 +2,7 @@
 title: 生产环境中的问题排查：微服务系统故障诊断的系统方法
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [troubleshooting, production, microservices, debugging, diagnostics]
+tags: [communication]
 published: true
 ---
 

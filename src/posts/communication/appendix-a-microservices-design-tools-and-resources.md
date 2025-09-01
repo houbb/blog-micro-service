@@ -2,7 +2,7 @@
 title: 附录A：微服务架构设计工具与资源
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [microservices, design, tools, resources, architecture]
+tags: [communication]
 published: true
 ---
 

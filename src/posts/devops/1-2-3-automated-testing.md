@@ -2,7 +2,7 @@
 title: 自动化测试：构建可靠的软件质量保障体系
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, testing, automation, tdd, bdd]
+tags: [devops]
 published: true
 ---
 

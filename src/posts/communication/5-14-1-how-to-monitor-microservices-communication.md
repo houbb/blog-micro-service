@@ -2,7 +2,7 @@
 title: 如何监控微服务通信：构建全面的服务间通信监控体系
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [monitoring, microservices, communication, observability, metrics]
+tags: [communication]
 published: true
 ---
 

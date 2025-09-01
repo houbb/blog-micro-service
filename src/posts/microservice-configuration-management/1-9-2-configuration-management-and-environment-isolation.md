@@ -2,7 +2,7 @@
 title: 9.2 配置管理与环境隔离：确保不同环境的配置安全与独立
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [environment-isolation, configuration-management, microservices, security, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

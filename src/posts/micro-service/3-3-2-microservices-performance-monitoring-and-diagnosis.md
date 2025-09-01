@@ -2,7 +2,7 @@
 title: 微服务的性能监控与诊断：构建全面的性能观测体系
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, performance, monitoring, diagnosis]
+tags: [micro-service]
 published: true
 ---
 

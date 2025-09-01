@@ -2,7 +2,7 @@
 title: 配置管理与容器化平台的结合：在Kubernetes中实现高效配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [kubernetes, docker, containerization, configuration-management, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

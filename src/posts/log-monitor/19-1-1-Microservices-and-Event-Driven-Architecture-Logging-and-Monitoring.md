@@ -2,7 +2,7 @@
 title: 微服务架构与事件驱动架构的日志与监控：构建实时响应的可观察性体系
 date: 2025-08-31
 categories: [Microservices, Event-Driven, Logging, Monitoring, Observability]
-tags: [microservices, event-driven, logging, monitoring, observability, kafka, event-sourcing, stream-processing]
+tags: [log-monitor]
 published: true
 ---
 

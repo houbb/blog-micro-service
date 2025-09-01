@@ -2,7 +2,7 @@
 title: 附录概述：容错与灾备知识体系的补充资源
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [appendix, glossary, interview-questions, tools]
+tags: [fault-recovery]
 published: true
 ---
 

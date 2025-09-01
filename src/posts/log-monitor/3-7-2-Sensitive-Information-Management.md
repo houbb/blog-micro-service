@@ -2,7 +2,7 @@
 title: 日志中的敏感信息管理：识别、保护与合规处理
 date: 2025-08-31
 categories: [Microservices, Logging, Security]
-tags: [microservices, logging, sensitive-data, data-protection, pii, compliance]
+tags: [log-monitor]
 published: true
 ---
 

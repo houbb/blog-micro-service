@@ -2,7 +2,7 @@
 title: 服务网格中的追踪与流量分析：深入理解微服务调用链路
 date: 2025-08-31
 categories: [Microservices, Service Mesh, Tracing, Traffic Analysis]
-tags: [microservices, service-mesh, tracing, traffic-analysis, istio, jaeger, zipkin]
+tags: [log-monitor]
 published: true
 ---
 

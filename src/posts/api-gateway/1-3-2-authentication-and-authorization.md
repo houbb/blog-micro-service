@@ -2,7 +2,7 @@
 title: 身份认证与授权：API 网关的安全防护机制
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, authentication, authorization, security]
+tags: [api-gateway]
 published: true
 ---
 

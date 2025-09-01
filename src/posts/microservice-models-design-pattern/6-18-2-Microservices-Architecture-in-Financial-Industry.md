@@ -2,7 +2,7 @@
 title: 金融行业中的微服务架构：构建安全可靠的金融系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, financial industry, security, compliance]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

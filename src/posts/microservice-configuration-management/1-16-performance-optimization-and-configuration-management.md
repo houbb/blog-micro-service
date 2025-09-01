@@ -2,7 +2,7 @@
 title: 性能优化与配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [performance-optimization, configuration-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

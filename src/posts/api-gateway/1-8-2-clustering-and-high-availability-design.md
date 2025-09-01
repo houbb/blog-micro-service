@@ -2,7 +2,7 @@
 title: 集群化与高可用设计：构建稳定可靠的 API 网关系统
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, clustering, high-availability, load-balancing, microservices]
+tags: [api-gateway]
 published: true
 ---
 

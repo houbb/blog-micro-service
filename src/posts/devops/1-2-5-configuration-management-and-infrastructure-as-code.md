@@ -2,7 +2,7 @@
 title: 配置管理与基础设施即代码：实现基础设施的自动化管理
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, configuration management, infrastructure as code, ansible, terraform]
+tags: [devops]
 published: true
 ---
 

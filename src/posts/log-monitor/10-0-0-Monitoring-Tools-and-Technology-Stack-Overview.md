@@ -2,7 +2,7 @@
 title: 监控工具与技术栈概述：构建现代化微服务监控体系
 date: 2025-08-31
 categories: [Microservices, Monitoring]
-tags: [microservices, monitoring, prometheus, grafana, kubernetes, opentelemetry]
+tags: [log-monitor]
 published: true
 ---
 

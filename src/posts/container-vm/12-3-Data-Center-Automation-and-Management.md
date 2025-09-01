@@ -2,7 +2,7 @@
 title: 数据中心自动化与虚拟化管理：构建智能运维体系的关键技术与实践
 date: 2025-08-31
 categories: [Virtualization, Data Center, Automation]
-tags: [data center automation, virtualization management, devops, orchestration, monitoring]
+tags: [container-vm]
 published: true
 ---
 

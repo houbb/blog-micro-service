@@ -2,7 +2,7 @@
 title: 服务网格中的流量镜像与代理：高级流量管理技术
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, traffic-mirroring, proxy, advanced-traffic-management, istio]
+tags: [service-mesh]
 published: true
 ---
 

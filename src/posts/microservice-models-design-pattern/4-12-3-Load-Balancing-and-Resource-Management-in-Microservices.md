@@ -2,7 +2,7 @@
 title: 微服务的负载均衡与资源管理：构建高效稳定的分布式系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, load balancing, resource management, performance, stability]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

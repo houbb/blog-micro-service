@@ -2,7 +2,7 @@
 title: 延迟与吞吐量分析：深入理解微服务性能指标
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [latency, throughput, performance, microservices, metrics, optimization]
+tags: [communication]
 published: true
 ---
 

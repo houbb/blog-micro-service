@@ -2,7 +2,7 @@
 title: 虚拟化基本原理详解：核心组件与工作原理
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtualization, hypervisor, virtual machine,原理]
+tags: [container-vm]
 published: true
 ---
 

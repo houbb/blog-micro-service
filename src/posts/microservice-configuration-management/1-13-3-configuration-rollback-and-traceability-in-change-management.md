@@ -2,7 +2,7 @@
 title: 变更管理中的配置回滚与追溯：确保配置变更安全可靠
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-rollback, traceability, change-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

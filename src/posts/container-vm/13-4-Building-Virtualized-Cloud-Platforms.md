@@ -2,7 +2,7 @@
 title: 构建虚拟化云平台：OpenStack与VMware vCloud深度实践指南
 date: 2025-08-31
 categories: [Cloud Computing, Virtualization]
-tags: [openstack, vmware vcloud, cloud platform, virtualization, iaas]
+tags: [container-vm]
 published: true
 ---
 

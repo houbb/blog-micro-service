@@ -2,7 +2,7 @@
 title: 授权模型与安全策略：构建细粒度访问控制的微服务安全体系
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, authorization, policies, RBAC, ABAC]
+tags: [safe]
 published: true
 ---
 

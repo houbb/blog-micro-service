@@ -2,7 +2,7 @@
 title: 微服务治理的核心需求：理解现代化服务治理的关键挑战
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [microservices, governance, service-mesh, kubernetes, istio, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

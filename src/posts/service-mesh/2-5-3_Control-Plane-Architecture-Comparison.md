@@ -2,7 +2,7 @@
 title: 各大服务网格的控制平面架构对比：Istio、Linkerd与Consul Connect的深度分析
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, control-plane, architecture, istio, linkerd, consul, comparison]
+tags: [service-mesh]
 published: true
 ---
 

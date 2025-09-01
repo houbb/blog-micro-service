@@ -2,7 +2,7 @@
 title: Using Docker Logs and Diagnostic Tools - Mastering Container Observability and Analysis
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, logs, diagnostics, observability, containers]
+tags: [container-docker]
 published: true
 ---
 

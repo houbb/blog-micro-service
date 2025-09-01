@@ -2,7 +2,7 @@
 title: Docker 存储
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, storage, volumes, data]
+tags: [container-docker]
 published: true
 ---
 

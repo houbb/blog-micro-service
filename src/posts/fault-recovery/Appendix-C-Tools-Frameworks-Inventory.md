@@ -2,7 +2,7 @@
 title: 附录C：工具与框架清单
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [appendix, tools, frameworks, inventory]
+tags: [fault-recovery]
 published: true
 ---
 

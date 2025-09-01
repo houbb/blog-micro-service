@@ -2,7 +2,7 @@
 title: 附加内容：在线学习资源与实战项目
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, additional-content, learning-resources, hands-on-projects, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

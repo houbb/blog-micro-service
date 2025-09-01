@@ -2,7 +2,7 @@
 title: 公有云、私有云与混合云架构详解：部署模式选择与架构设计指南
 date: 2025-08-31
 categories: [Cloud Computing, Virtualization]
-tags: [public cloud, private cloud, hybrid cloud, cloud architecture, deployment models]
+tags: [container-vm]
 published: true
 ---
 

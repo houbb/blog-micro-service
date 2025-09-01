@@ -2,7 +2,7 @@
 title: 虚拟磁盘与存储配置详解：虚拟磁盘类型、存储优化与数据管理
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtual disk, storage configuration, virtualization, storage optimization, data management]
+tags: [container-vm]
 published: true
 ---
 

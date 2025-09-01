@@ -2,7 +2,7 @@
 title: API 聚合与编排：API 网关的复合服务调用能力
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, api-aggregation, api-orchestration, microservices, composite-services]
+tags: [api-gateway]
 published: true
 ---
 

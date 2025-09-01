@@ -2,7 +2,7 @@
 title: 附录C：资源与学习路径推荐
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, resources, learning-path, best-practices, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

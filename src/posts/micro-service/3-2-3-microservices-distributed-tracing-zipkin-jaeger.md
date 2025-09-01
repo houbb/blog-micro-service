@@ -2,7 +2,7 @@
 title: 微服务的分布式追踪：Zipkin与Jaeger实践
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, distributed-tracing, zipkin, jaeger]
+tags: [micro-service]
 published: true
 ---
 

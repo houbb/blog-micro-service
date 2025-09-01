@@ -2,7 +2,7 @@
 title: 流量控制与故障恢复：构建高可用的微服务系统
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, traffic-control, fault-recovery, resilience, istio]
+tags: [service-mesh]
 published: true
 ---
 

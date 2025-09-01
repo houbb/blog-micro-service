@@ -2,7 +2,7 @@
 title: 9.3 服务发现与配置管理结合：构建动态配置管理体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [service-discovery, configuration-management, microservices, kubernetes, consul, etcd]
+tags: [microservice-configuration-management]
 published: true
 ---
 

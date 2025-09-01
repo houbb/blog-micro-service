@@ -2,7 +2,7 @@
 title: 如何选择合适的虚拟化平台：评估标准与决策指南
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtualization platforms, platform selection, decision guide, evaluation criteria]
+tags: [container-vm]
 published: true
 ---
 

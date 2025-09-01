@@ -2,7 +2,7 @@
 title: 服务网格的应用场景与优势：解锁云原生架构的真正潜力
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, use-cases, advantages, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

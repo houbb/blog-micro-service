@@ -2,7 +2,7 @@
 title: 客户端-服务器模式与服务消费：微服务间通信的基础
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, client-server pattern, service consumption, communication]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

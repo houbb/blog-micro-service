@@ -2,7 +2,7 @@
 title: 绪论：为什么容错与灾难恢复至关重要
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [fault-tolerance, disaster-recovery, distributed-systems]
+tags: [fault-recovery]
 published: true
 ---
 

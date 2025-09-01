@@ -2,7 +2,7 @@
 title: 附录A：常见微服务框架与工具
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, frameworks, tools]
+tags: [microservice-architecture-management]
 published: true
 ---
 

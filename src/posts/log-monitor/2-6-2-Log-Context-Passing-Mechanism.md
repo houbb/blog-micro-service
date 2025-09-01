@@ -2,7 +2,7 @@
 title: 日志上下文传递机制：实现跨服务的日志关联
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, context-propagation, distributed-tracing, correlation]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Container and Image Management - Finding, Deleting, and Cleaning Up
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, containers, images, management, cleanup]
+tags: [container-docker]
 published: true
 ---
 

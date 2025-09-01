@@ -2,7 +2,7 @@
 title: 微服务的开发工具与框架：构建现代化的微服务应用
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, development, tools, frameworks]
+tags: [micro-service]
 published: true
 ---
 

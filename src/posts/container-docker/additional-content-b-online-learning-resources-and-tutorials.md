@@ -2,7 +2,7 @@
 title: Additional Content B - Online Learning Resources and Tutorials
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, learning, resources, tutorials, online]
+tags: [container-docker]
 published: true
 ---
 

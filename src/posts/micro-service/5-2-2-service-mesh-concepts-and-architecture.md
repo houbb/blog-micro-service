@@ -2,7 +2,7 @@
 title: 服务网格概念与架构：深入理解现代化服务间通信基础设施
 date: 2025-08-31
 categories: [Microservices]
-tags: [service mesh, architecture, sidecar, data plane, control plane]
+tags: [micro-service]
 published: true
 ---
 

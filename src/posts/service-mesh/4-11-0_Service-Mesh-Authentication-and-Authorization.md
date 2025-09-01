@@ -2,7 +2,7 @@
 title: 服务网格中的认证与授权：构建安全可靠的微服务通信
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, authentication, authorization, security, istio, jwt, oauth2, mtls]
+tags: [service-mesh]
 published: true
 ---
 

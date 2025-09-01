@@ -2,7 +2,7 @@
 title: Docker 简介与背景
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, containerization]
+tags: [container-docker]
 published: true
 ---
 

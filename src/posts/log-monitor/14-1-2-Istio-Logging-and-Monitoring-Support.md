@@ -2,7 +2,7 @@
 title: Istio日志与监控支持：构建全面的服务网格可观测性
 date: 2025-08-31
 categories: [Microservices, Service Mesh, Istio, Observability]
-tags: [microservices, service-mesh, istio, logging, monitoring, telemetry]
+tags: [log-monitor]
 published: true
 ---
 

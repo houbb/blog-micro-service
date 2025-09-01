@@ -2,7 +2,7 @@
 title: 后记：DevOps之旅的思考与展望
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, afterword, reflection]
+tags: [devops]
 published: true
 ---
 

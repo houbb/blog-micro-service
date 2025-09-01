@@ -2,7 +2,7 @@
 title: 熔断器模式与服务降级：微服务架构的弹性防护机制
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, circuit breaker, service degradation, resilience]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

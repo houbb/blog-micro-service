@@ -2,7 +2,7 @@
 title: 服务间通信中的新兴技术：GraphQL、WebAssembly与下一代通信协议
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [graphql, webassembly, emerging-technologies, microservices, communication]
+tags: [communication]
 published: true
 ---
 

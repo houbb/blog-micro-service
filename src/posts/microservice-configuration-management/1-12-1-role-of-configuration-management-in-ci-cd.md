@@ -2,7 +2,7 @@
 title: 配置管理在CI/CD中的作用：构建可靠自动化流程的基石
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ci-cd, configuration-management, devops, automation, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

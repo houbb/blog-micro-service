@@ -2,7 +2,7 @@
 title: 微服务健康检查与监控集成：构建可靠的系统观测体系
 date: 2025-08-31
 categories: [Microservices, Monitoring]
-tags: [microservices, monitoring, health-checks, kubernetes, observability]
+tags: [log-monitor]
 published: true
 ---
 

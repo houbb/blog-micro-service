@@ -2,7 +2,7 @@
 title: 分布式系统中的故障类型
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [distributed-systems, failures, fault-tolerance]
+tags: [fault-recovery]
 published: true
 ---
 

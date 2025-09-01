@@ -2,7 +2,7 @@
 title: 流量分组与灰度发布：API 网关的智能路由策略
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, traffic-grouping, gray-release, routing, microservices]
+tags: [api-gateway]
 published: true
 ---
 

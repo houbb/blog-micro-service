@@ -2,7 +2,7 @@
 title: 容错与监控工具链
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [monitoring, prometheus, grafana, elk, fault-tolerance]
+tags: [fault-recovery]
 published: true
 ---
 

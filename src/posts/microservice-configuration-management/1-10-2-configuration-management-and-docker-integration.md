@@ -2,7 +2,7 @@
 title: 10.2 配置管理与Docker的结合：构建灵活可配置的Docker应用
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [docker, configuration-management, containerization, best-practices, dockerfile]
+tags: [microservice-configuration-management]
 published: true
 ---
 

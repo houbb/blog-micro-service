@@ -2,7 +2,7 @@
 title: DevOps工具与资源汇总：从入门到精通的完整指南
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, tools, resources, appendix]
+tags: [devops]
 published: true
 ---
 

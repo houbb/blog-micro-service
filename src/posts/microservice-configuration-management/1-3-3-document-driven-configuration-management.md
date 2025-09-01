@@ -2,7 +2,7 @@
 title: 文档驱动的配置管理方法：规范化配置管理的重要基石
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, documentation, standards, procedures, knowledge-management]
+tags: [microservice-configuration-management]
 published: true
 ---
 

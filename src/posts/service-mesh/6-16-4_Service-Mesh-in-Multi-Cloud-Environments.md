@@ -2,7 +2,7 @@
 title: 多云环境中的服务网格应用：构建跨云平台的统一服务治理平台
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, multi-cloud, kubernetes, istio, cloud-native, hybrid-cloud]
+tags: [service-mesh]
 published: true
 ---
 

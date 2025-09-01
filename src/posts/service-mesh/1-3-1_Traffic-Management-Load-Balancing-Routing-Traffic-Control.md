@@ -2,7 +2,7 @@
 title: 流量管理：负载均衡、路由与流量控制的科学实践
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, traffic-management, load-balancing, routing, traffic-control]
+tags: [service-mesh]
 published: true
 ---
 

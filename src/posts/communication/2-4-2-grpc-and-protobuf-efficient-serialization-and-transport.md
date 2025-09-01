@@ -2,7 +2,7 @@
 title: gRPC与Protobuf：高效的序列化与传输机制解析
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [grpc, protobuf, serialization, microservices, performance]
+tags: [communication]
 published: true
 ---
 

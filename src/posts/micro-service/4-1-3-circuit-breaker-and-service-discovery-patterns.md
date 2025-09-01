@@ -2,7 +2,7 @@
 title: 断路器与服务发现模式：构建容错微服务系统的核心机制
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, circuit breaker, service discovery, resilience, hystrix, eureka]
+tags: [micro-service]
 published: true
 ---
 

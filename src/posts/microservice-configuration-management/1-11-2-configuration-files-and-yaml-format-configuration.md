@@ -2,7 +2,7 @@
 title: 配置文件与YAML格式配置：结构化配置管理的核心技术
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-files, yaml, structured-configuration, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

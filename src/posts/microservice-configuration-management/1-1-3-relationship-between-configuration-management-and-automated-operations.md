@@ -2,7 +2,7 @@
 title: 配置管理与自动化运维的关系：构建高效可靠的IT运营体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, management, devops, automation, ci/cd]
+tags: [microservice-configuration-management]
 published: true
 ---
 

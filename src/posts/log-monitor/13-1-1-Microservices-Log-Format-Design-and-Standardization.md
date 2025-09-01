@@ -2,7 +2,7 @@
 title: 微服务日志格式设计与标准化：构建统一的日志体系
 date: 2025-08-31
 categories: [Microservices, Logging, Standardization]
-tags: [microservices, logging, log-format, standardization, structured-logging]
+tags: [log-monitor]
 published: true
 ---
 

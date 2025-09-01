@@ -2,7 +2,7 @@
 title: 使用Helm部署服务网格：标准化与简化的部署方案
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, helm, kubernetes, deployment, charts]
+tags: [service-mesh]
 published: true
 ---
 

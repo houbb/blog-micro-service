@@ -2,7 +2,7 @@
 title: Image Size Optimization Techniques - Building Smaller and More Efficient Docker Images
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, images, optimization, size]
+tags: [container-docker]
 published: true
 ---
 

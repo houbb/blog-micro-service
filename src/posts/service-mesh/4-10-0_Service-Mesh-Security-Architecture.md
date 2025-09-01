@@ -2,7 +2,7 @@
 title: 服务网格的安全架构：构建零信任的分布式系统
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, security-architecture, zero-trust, istio, security]
+tags: [service-mesh]
 published: true
 ---
 

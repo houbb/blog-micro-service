@@ -2,7 +2,7 @@
 title: 虚拟化环境的安全风险与挑战：识别、评估与应对策略
 date: 2025-08-31
 categories: [Virtualization, Security]
-tags: [virtualization security, security risks, threat assessment, vulnerability management]
+tags: [container-vm]
 published: true
 ---
 

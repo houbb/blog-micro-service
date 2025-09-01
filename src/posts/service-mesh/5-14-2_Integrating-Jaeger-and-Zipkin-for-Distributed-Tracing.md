@@ -2,7 +2,7 @@
 title: 集成Jaeger与Zipkin进行分布式追踪：构建完整的追踪生态系统
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, distributed-tracing, jaeger, zipkin, integration, observability, istio]
+tags: [service-mesh]
 published: true
 ---
 

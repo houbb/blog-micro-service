@@ -2,7 +2,7 @@
 title: 从传统服务网格到下一代服务网格：技术演进与发展方向
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, next-generation, evolution, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

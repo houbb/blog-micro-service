@@ -2,7 +2,7 @@
 title: 自动化配置管理工具概述：现代IT运维的核心利器
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, automation, tools, devops, infrastructure]
+tags: [microservice-configuration-management]
 published: true
 ---
 

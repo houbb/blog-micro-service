@@ -2,7 +2,7 @@
 title: 身份认证与用户管理：构建安全的微服务认证体系
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, authentication, identity]
+tags: [safe]
 published: true
 ---
 

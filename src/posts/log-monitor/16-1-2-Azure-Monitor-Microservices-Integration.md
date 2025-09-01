@@ -2,7 +2,7 @@
 title: Azure Monitor与微服务集成：构建Azure云原生监控体系
 date: 2025-08-31
 categories: [Microservices, Azure, Monitor, Logging]
-tags: [microservices, azure, monitor, logging, cloud-native, devops]
+tags: [log-monitor]
 published: true
 ---
 

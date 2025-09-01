@@ -2,7 +2,7 @@
 title: Deploying Microservices with Docker - Containerizing and Orchestrating Microservices
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, microservices, deployment, orchestration]
+tags: [container-docker]
 published: true
 ---
 

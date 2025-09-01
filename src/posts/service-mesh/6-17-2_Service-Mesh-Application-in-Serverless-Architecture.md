@@ -2,7 +2,7 @@
 title: 服务网格在无服务器架构中的应用：为函数即服务提供企业级能力
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, serverless, faas, kubernetes, istio, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

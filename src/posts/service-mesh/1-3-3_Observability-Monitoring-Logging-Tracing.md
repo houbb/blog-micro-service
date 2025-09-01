@@ -2,7 +2,7 @@
 title: 可观察性：监控、日志与追踪的全方位洞察
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, observability, monitoring, logging, tracing, metrics]
+tags: [service-mesh]
 published: true
 ---
 

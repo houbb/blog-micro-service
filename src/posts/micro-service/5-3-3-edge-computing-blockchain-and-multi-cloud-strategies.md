@@ -2,7 +2,7 @@
 title: 微服务的边缘计算、区块链融合与多云策略：构建下一代分布式系统
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, edge computing, blockchain, multi-cloud, distributed systems]
+tags: [micro-service]
 published: true
 ---
 

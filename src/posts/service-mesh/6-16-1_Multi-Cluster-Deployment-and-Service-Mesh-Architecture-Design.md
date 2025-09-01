@@ -2,7 +2,7 @@
 title: 多集群部署与服务网格架构设计：构建高可用的跨集群服务治理平台
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, multi-cluster, architecture, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 服务网格与微服务：构建透明化的服务间通信基础设施
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, service mesh, istio, linkerd, traffic management]
+tags: [micro-service]
 published: true
 ---
 

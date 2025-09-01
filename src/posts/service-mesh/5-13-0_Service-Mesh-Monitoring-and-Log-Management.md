@@ -2,7 +2,7 @@
 title: 服务网格的监控与日志管理：构建可观测的微服务系统
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, monitoring, log-management, observability, istio, prometheus, grafana]
+tags: [service-mesh]
 published: true
 ---
 

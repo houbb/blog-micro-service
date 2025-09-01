@@ -2,7 +2,7 @@
 title: 配置管理的版本控制与审计
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [version-control, audit, git, compliance, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 去中心化网关与 Service Mesh：现代微服务架构的演进之路
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, service-mesh, sidecar, istio, microservices, decentralization]
+tags: [api-gateway]
 published: true
 ---
 

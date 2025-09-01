@@ -2,7 +2,7 @@
 title: 无服务器架构与微服务：构建下一代云原生应用
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, serverless, faas, cloud native, aws lambda, azure functions]
+tags: [micro-service]
 published: true
 ---
 

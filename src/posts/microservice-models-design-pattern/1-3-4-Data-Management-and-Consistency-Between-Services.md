@@ -2,7 +2,7 @@
 title: 服务间的数据管理与一致性：分布式系统的核心挑战
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, data management, consistency, distributed systems]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

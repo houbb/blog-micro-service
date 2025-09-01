@@ -2,7 +2,7 @@
 title: Chef的架构与工作原理：深入理解自动化配置管理的核心机制
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [chef, architecture, working-principles, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

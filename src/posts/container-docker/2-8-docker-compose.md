@@ -2,7 +2,7 @@
 title: Docker Compose
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, compose, multi-container]
+tags: [container-docker]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: OpenTelemetry实战指南：构建统一的可观察性基础设施
 date: 2025-08-31
 categories: [Microservices, Monitoring, Observability]
-tags: [microservices, monitoring, opentelemetry, observability, tracing, metrics, logs]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 服务划分与界限上下文：构建高内聚低耦合的微服务系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, service partitioning, bounded contexts, domain-driven design]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

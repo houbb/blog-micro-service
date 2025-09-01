@@ -2,7 +2,7 @@
 title: Kubernetes集群管理与运维：构建可靠的生产环境
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, cluster-management, operations, helm, automation]
+tags: [container-k8s]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 虚拟化平台概览：VMware、Hyper-V、KVM等主流平台详解
 date: 2025-08-31
 categories: [Virtualization]
-tags: [vmware, hyper-v, kvm, virtualization platforms, cloud computing]
+tags: [container-vm]
 published: true
 ---
 

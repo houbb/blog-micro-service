@@ -2,7 +2,7 @@
 title: 环境变量与配置文件管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [environment-variables, configuration-files, yaml, secrets-management, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 身份验证机制详解：API 网关的安全基石
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, authentication, oauth2, jwt, api-key, security]
+tags: [api-gateway]
 published: true
 ---
 

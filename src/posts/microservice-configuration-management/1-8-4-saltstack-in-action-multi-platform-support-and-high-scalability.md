@@ -2,7 +2,7 @@
 title: SaltStack 实战：多平台支持与高可扩展性 - 从理论到实践的完整指南
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [saltstack, multi-platform, high-scalability, devops, automation,实战]
+tags: [microservice-configuration-management]
 published: true
 ---
 

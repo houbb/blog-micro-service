@@ -2,7 +2,7 @@
 title: 微服务版本管理与治理策略：实现平滑的服务演进与升级
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [microservices, version-management, governance, kubernetes, istio, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

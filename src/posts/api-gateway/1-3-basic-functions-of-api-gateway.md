@@ -2,7 +2,7 @@
 title: API 网关的基本功能：构建高效分布式系统的基石
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, functions, microservices]
+tags: [api-gateway]
 published: true
 ---
 

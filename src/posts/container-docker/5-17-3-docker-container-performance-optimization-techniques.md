@@ -2,7 +2,7 @@
 title: Docker Container Performance Optimization Techniques - Mastering Container Efficiency
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, performance, optimization, containers, efficiency]
+tags: [container-docker]
 published: true
 ---
 

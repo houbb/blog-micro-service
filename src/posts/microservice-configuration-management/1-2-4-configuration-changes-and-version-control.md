@@ -2,7 +2,7 @@
 title: 配置变更与版本控制：确保配置演进的有序与安全
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, changes, version-control, git, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

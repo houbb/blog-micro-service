@@ -2,7 +2,7 @@
 title: 使用Kubernetes管理容器应用：从部署到运维的完整指南
 date: 2025-08-31
 categories: [Containerization, Kubernetes]
-tags: [kubernetes, container management, deployment, operations, cloud native]
+tags: [container-vm]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Docker安装与配置详解：Windows、Linux、macOS全平台指南
 date: 2025-08-31
 categories: [Containerization]
-tags: [docker, installation, configuration, windows, linux, macos]
+tags: [container-vm]
 published: true
 ---
 

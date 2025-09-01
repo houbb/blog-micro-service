@@ -2,7 +2,7 @@
 title: 流量路由与负载均衡：服务网格的核心流量管理机制
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, traffic-routing, load-balancing, istio, envoy]
+tags: [service-mesh]
 published: true
 ---
 

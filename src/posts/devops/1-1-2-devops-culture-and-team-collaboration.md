@@ -2,7 +2,7 @@
 title: DevOps文化与团队协作：构建高效跨职能团队的实践指南
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, culture, collaboration, team]
+tags: [devops]
 published: true
 ---
 

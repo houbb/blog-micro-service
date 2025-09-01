@@ -2,7 +2,7 @@
 title: Zipkin集成与优化：轻量级分布式追踪解决方案实践
 date: 2025-08-31
 categories: [Microservices, Tracing, Optimization]
-tags: [microservices, tracing, zipkin, distributed-systems, performance]
+tags: [log-monitor]
 published: true
 ---
 

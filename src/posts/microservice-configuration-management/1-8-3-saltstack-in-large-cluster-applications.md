@@ -2,7 +2,7 @@
 title: SaltStack 在大规模集群中的应用：高性能自动化配置管理实践
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [saltstack, large-cluster, scalability, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

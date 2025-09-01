@@ -2,7 +2,7 @@
 title: 统一入口的价值：API 网关如何简化系统架构
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, architecture, microservices]
+tags: [api-gateway]
 published: true
 ---
 

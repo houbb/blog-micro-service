@@ -2,7 +2,7 @@
 title: 9.4 使用 Kubernetes 管理微服务配置：ConfigMap和Secret的最佳实践
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [kubernetes, configuration-management, microservices, configmap, secrets, helm, kustomize]
+tags: [microservice-configuration-management]
 published: true
 ---
 

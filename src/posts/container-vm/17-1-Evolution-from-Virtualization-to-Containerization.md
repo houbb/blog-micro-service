@@ -2,7 +2,7 @@
 title: 从虚拟化到容器化的演进：技术发展趋势与应用前景
 date: 2025-08-31
 categories: [Virtualization, Containerization, Future Trends]
-tags: [virtualization, containerization, evolution, kubernetes, docker]
+tags: [container-vm]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Sidecar代理的作用与部署：服务网格数据平面的核心组件
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, sidecar, proxy, deployment, envoy, data-plane]
+tags: [service-mesh]
 published: true
 ---
 

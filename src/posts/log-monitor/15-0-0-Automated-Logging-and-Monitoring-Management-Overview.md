@@ -2,7 +2,7 @@
 title: 自动化日志与监控管理概述：构建智能化运维体系
 date: 2025-08-31
 categories: [Microservices, Logging, Monitoring, Automation]
-tags: [microservices, logging, monitoring, automation, terraform, iac, devops]
+tags: [log-monitor]
 published: true
 ---
 

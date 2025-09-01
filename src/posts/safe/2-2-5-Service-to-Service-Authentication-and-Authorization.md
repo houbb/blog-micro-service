@@ -2,7 +2,7 @@
 title: 服务间认证与授权：确保微服务通信安全的关键机制
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, authentication, authorization, mTLS]
+tags: [safe]
 published: true
 ---
 

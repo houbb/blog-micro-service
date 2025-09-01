@@ -2,7 +2,7 @@
 title: 第10章：配置管理与容器化环境
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, containerization, docker, kubernetes, microservices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

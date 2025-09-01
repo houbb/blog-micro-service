@@ -2,7 +2,7 @@
 title: 配置管理与自动化测试
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [automated-testing, configuration-testing, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

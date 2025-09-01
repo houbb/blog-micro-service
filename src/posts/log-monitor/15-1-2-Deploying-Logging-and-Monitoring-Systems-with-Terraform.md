@@ -2,7 +2,7 @@
 title: 使用Terraform部署日志与监控系统：实现基础设施即代码的监控体系
 date: 2025-08-31
 categories: [Microservices, Logging, Monitoring, Terraform, IaC]
-tags: [microservices, logging, monitoring, terraform, infrastructure-as-code, devops]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 日志收集与聚合：构建高效的日志处理管道
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, log-collection, aggregation]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 智能告警与动态阈值：构建自适应监控告警体系
 date: 2025-08-31
 categories: [Microservices, AI, Alerting, Monitoring]
-tags: [microservices, intelligent-alerting, dynamic-thresholds, anomaly-detection, automation]
+tags: [log-monitor]
 published: true
 ---
 

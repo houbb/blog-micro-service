@@ -2,7 +2,7 @@
 title: 边缘计算环境下的高可用与容灾：分布式边缘系统的可靠性保障
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [edge-computing, distributed-systems, high-availability, iot, 5g]
+tags: [fault-recovery]
 published: true
 ---
 

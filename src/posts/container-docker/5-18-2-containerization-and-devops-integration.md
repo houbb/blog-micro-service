@@ -2,7 +2,7 @@
 title: Containerization and DevOps Integration - Bridging Development and Operations with Docker
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, devops, ci-cd, automation, containers]
+tags: [container-docker]
 published: true
 ---
 

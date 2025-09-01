@@ -2,7 +2,7 @@
 title: Puppet 与 Manifest 配置管理：声明式配置的核心实践
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [puppet, manifest, configuration-management, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

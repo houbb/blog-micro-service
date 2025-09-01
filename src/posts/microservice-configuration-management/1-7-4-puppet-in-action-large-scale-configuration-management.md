@@ -2,7 +2,7 @@
 title: Puppet 实战：大规模环境下的配置管理 - 从理论到实践的完整指南
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [puppet, large-scale, configuration-management, devops, automation,实战]
+tags: [microservice-configuration-management]
 published: true
 ---
 

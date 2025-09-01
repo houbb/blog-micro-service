@@ -2,7 +2,7 @@
 title: 合规性与安全性：配置审计确保系统符合标准与安全要求
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [compliance, security, configuration-audit, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

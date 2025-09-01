@@ -2,7 +2,7 @@
 title: Ansible实战：自动化运维与配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ansible,实战, automation, devops, configuration]
+tags: [microservice-configuration-management]
 published: true
 ---
 

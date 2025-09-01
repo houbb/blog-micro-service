@@ -2,7 +2,7 @@
 title: DevOps的高级实践与模式：GitOps、Serverless与AI融合的前沿探索
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, gitops, serverless, ai, advanced-practices]
+tags: [devops]
 published: true
 ---
 

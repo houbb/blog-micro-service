@@ -2,7 +2,7 @@
 title: 分布式追踪概述与工作原理：深入理解全链路追踪机制
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, distributed-tracing, tracing-principle, observability, dapper, opentracing, opentelemetry]
+tags: [service-mesh]
 published: true
 ---
 

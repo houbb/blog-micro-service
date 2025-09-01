@@ -2,7 +2,7 @@
 title: 安全与合规性：将安全集成到DevOps流程中的DevSecOps实践
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, security, compliance, devsecops, owasp, snyk]
+tags: [devops]
 published: true
 ---
 

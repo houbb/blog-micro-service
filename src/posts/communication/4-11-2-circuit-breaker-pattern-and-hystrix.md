@@ -2,7 +2,7 @@
 title: 断路器模式与Hystrix：防止微服务故障级联的关键技术
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [circuit-breaker, hystrix, fault-tolerance, microservices, resilience]
+tags: [communication]
 published: true
 ---
 

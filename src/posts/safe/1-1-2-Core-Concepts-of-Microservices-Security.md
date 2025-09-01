@@ -2,7 +2,7 @@
 title: 微服务安全的核心概念：构建安全分布式系统的五大维度
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, authentication, authorization]
+tags: [safe]
 published: true
 ---
 

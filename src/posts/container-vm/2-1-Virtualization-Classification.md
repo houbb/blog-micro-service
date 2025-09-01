@@ -2,7 +2,7 @@
 title: 虚拟化分类详解：全虚拟化、半虚拟化与操作系统虚拟化
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtualization, full virtualization, paravirtualization, containerization]
+tags: [container-vm]
 published: true
 ---
 

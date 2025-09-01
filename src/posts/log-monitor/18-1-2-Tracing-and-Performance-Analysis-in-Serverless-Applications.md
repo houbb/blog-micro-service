@@ -2,7 +2,7 @@
 title: 无服务器应用中的追踪与性能分析：构建端到端的Serverless可观察性体系
 date: 2025-08-31
 categories: [Microservices, Serverless, Tracing, Performance, Observability]
-tags: [microservices, serverless, tracing, performance, observability, distributed-tracing, apm]
+tags: [log-monitor]
 published: true
 ---
 

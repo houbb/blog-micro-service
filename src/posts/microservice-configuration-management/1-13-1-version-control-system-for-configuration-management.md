@@ -2,7 +2,7 @@
 title: 配置管理的版本控制系统：Git在配置管理中的深度应用
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [version-control, git, configuration-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

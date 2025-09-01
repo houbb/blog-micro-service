@@ -2,7 +2,7 @@
 title: 虚拟化网络与存储技术详解：SDN、存储虚拟化与数据管理策略
 date: 2025-08-31
 categories: [Virtualization, Networking, Storage]
-tags: [sdn, storage virtualization, networking, data management, virtualization]
+tags: [container-vm]
 published: true
 ---
 

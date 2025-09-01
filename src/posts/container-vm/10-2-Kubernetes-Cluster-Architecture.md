@@ -2,7 +2,7 @@
 title: Kubernetes集群架构与核心组件深度解析
 date: 2025-08-31
 categories: [Containerization, Kubernetes]
-tags: [kubernetes, cluster architecture, control plane, worker nodes, components]
+tags: [container-vm]
 published: true
 ---
 

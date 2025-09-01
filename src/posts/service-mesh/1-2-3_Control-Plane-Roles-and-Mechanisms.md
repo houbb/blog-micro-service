@@ -2,7 +2,7 @@
 title: 控制平面的作用与工作机制：服务网格的大脑
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, control-plane, architecture, management, configuration]
+tags: [service-mesh]
 published: true
 ---
 

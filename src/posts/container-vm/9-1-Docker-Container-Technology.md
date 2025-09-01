@@ -2,7 +2,7 @@
 title: Docker容器技术全面解析：从安装配置到镜像管理的完整指南
 date: 2025-08-31
 categories: [Containerization]
-tags: [docker, container, dockerfile, image management, container orchestration]
+tags: [container-vm]
 published: true
 ---
 

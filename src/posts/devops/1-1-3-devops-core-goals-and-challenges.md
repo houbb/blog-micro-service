@@ -2,7 +2,7 @@
 title: DevOps的核心目标与挑战：实现快速迭代与系统稳定性的平衡之道
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, goals, challenges, strategy]
+tags: [devops]
 published: true
 ---
 

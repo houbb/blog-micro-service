@@ -2,7 +2,7 @@
 title: Containerization vs Other Virtualization Technologies - A Comprehensive Comparison
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, containers, virtualization, vm, comparison]
+tags: [container-docker]
 published: true
 ---
 

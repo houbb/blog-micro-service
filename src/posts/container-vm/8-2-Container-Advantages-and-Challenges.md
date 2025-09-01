@@ -2,7 +2,7 @@
 title: 容器技术的优势与挑战：轻量级虚拟化的机遇与风险
 date: 2025-08-31
 categories: [Containerization]
-tags: [container, docker, kubernetes, advantages, challenges, virtualization]
+tags: [container-vm]
 published: true
 ---
 

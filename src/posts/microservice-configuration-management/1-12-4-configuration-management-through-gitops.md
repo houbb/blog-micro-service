@@ -2,7 +2,7 @@
 title: 通过GitOps实现配置管理：声明式运维的新范式
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [gitops, declarative-configuration, kubernetes, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

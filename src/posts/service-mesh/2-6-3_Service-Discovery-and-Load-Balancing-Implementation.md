@@ -2,7 +2,7 @@
 title: 实现服务发现与负载均衡：服务网格的核心通信机制
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, service-discovery, load-balancing, kubernetes, envoy]
+tags: [service-mesh]
 published: true
 ---
 

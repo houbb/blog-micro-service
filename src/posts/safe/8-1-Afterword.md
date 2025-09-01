@@ -2,7 +2,7 @@
 title: 微服务安全指南后记：持续学习与安全文化建设
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, afterword]
+tags: [safe]
 published: true
 ---
 

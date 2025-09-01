@@ -2,7 +2,7 @@
 title: 应用与中间件层的灾备设计
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [application-dr, middleware-dr, message-queue, cache]
+tags: [fault-recovery]
 published: true
 ---
 

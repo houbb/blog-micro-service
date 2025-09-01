@@ -2,7 +2,7 @@
 title: 微服务中的告警与自动化响应概述：构建智能运维体系
 date: 2025-08-31
 categories: [Microservices, Alerting, Automation]
-tags: [microservices, alerting, automation, prometheus, alertmanager]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 虚拟机迁移与高可用性详解：热迁移、冷迁移与故障转移技术
 date: 2025-08-31
 categories: [Virtualization]
-tags: [vm migration, high availability, live migration, fault tolerance, virtualization]
+tags: [container-vm]
 published: true
 ---
 

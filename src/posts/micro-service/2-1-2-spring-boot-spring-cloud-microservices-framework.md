@@ -2,7 +2,7 @@
 title: Spring Boot/Spring Cloud微服务框架：构建企业级微服务应用
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, spring-boot, spring-cloud, java]
+tags: [micro-service]
 published: true
 ---
 

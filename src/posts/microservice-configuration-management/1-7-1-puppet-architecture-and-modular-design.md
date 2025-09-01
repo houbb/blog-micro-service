@@ -2,7 +2,7 @@
 title: Puppet 的架构与模块化设计：构建可扩展的配置管理系统
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [puppet, architecture, modular-design, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

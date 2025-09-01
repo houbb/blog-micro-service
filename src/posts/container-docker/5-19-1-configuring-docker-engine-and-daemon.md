@@ -2,7 +2,7 @@
 title: Configuring Docker Engine and Daemon - Mastering Docker Infrastructure Settings
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, engine, daemon, configuration, containers]
+tags: [container-docker]
 published: true
 ---
 

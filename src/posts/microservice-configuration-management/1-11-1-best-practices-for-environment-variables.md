@@ -2,7 +2,7 @@
 title: 环境变量的最佳实践：构建安全可靠的配置管理策略
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [environment-variables, best-practices, security, devops, configuration]
+tags: [microservice-configuration-management]
 published: true
 ---
 

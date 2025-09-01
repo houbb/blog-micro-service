@@ -2,7 +2,7 @@
 title: 微服务治理与运维：构建可管理的分布式系统
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, governance, operations, service mesh, api management]
+tags: [micro-service]
 published: true
 ---
 

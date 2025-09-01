@@ -2,7 +2,7 @@
 title: 防护措施：API 网关的安全防护体系
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, security, waf, anti-bot, ddos-protection, microservices]
+tags: [api-gateway]
 published: true
 ---
 

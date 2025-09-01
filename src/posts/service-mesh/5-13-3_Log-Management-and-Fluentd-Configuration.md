@@ -2,7 +2,7 @@
 title: 日志管理与Fluentd配置：构建高效的日志收集体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, log-management, fluentd, logging, istio, kubernetes]
+tags: [service-mesh]
 published: true
 ---
 

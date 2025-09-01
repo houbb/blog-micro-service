@@ -2,7 +2,7 @@
 title: 微服务架构中的日志管理挑战：分布式环境下的日志困境
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, distributed-systems, challenges]
+tags: [log-monitor]
 published: true
 ---
 

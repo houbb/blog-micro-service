@@ -2,7 +2,7 @@
 title: 重试与超时控制：API 网关的可靠性保障机制
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, retry, timeout, reliability, microservices]
+tags: [api-gateway]
 published: true
 ---
 

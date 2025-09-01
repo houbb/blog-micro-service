@@ -2,7 +2,7 @@
 title: 微服务中的数据一致性与分布式事务：确保分布式系统的数据完整性
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, data consistency, distributed transactions, saga pattern]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

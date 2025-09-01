@@ -2,7 +2,7 @@
 title: SaltStack：用于快速自动化配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, saltstack, automation, devops, infrastructure]
+tags: [microservice-configuration-management]
 published: true
 ---
 

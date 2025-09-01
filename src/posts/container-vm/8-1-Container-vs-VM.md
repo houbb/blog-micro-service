@@ -2,7 +2,7 @@
 title: 容器与虚拟机深度对比：定义、差异与应用场景全面解析
 date: 2025-08-31
 categories: [Virtualization, Containerization]
-tags: [container, virtual machine, docker, kubernetes, comparison]
+tags: [container-vm]
 published: true
 ---
 

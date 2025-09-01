@@ -2,7 +2,7 @@
 title: 灾备策略分类
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [disaster-recovery, strategies, backup, recovery]
+tags: [fault-recovery]
 published: true
 ---
 

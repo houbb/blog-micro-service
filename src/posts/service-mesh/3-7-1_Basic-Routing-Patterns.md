@@ -2,7 +2,7 @@
 title: 基本路由模式：掌握服务网格流量路由的核心机制
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, routing, istio, envoy, virtual-service]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务架构中的通信挑战总结：识别问题与解决方案
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [challenges, microservices, communication, distributed-systems, troubleshooting]
+tags: [communication]
 published: true
 ---
 

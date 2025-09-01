@@ -2,7 +2,7 @@
 title: 自动化配置管理工具的关键功能：声明式、可扩展、可复用
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, automation, tools, declarative, extensibility, reusability]
+tags: [microservice-configuration-management]
 published: true
 ---
 

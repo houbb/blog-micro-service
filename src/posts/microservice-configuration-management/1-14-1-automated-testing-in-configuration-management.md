@@ -2,7 +2,7 @@
 title: 配置管理中的自动化测试：构建可靠的配置验证体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [automated-testing, configuration-validation, devops, ci-cd, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: ConfigMap与Secret管理：安全高效地配置Kubernetes应用
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, configmap, secret, configuration, security]
+tags: [container-k8s]
 published: true
 ---
 

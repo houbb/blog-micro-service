@@ -2,7 +2,7 @@
 title: 云平台中的配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [cloud-platform, configuration-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

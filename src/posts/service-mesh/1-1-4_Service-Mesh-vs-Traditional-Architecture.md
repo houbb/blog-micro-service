@@ -2,7 +2,7 @@
 title: 服务网格与传统架构的对比：技术演进的必然选择
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, traditional-architecture, comparison, evolution]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 服务间加密通信（mTLS）：确保微服务通信的机密性与完整性
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [mtls, encryption, service-communication, microservices, security, tls]
+tags: [communication]
 published: true
 ---
 

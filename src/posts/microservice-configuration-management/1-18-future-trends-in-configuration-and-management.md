@@ -2,7 +2,7 @@
 title: 配置与管理的未来发展趋势
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [future-trends, configuration-management, devops, ai-ops, gitops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

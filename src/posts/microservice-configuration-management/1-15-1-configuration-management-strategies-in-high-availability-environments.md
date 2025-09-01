@@ -2,7 +2,7 @@
 title: 高可用性环境中的配置管理策略：构建稳定可靠的配置管理体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [high-availability, configuration-strategies, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

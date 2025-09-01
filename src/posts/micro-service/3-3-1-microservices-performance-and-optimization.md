@@ -2,7 +2,7 @@
 title: 微服务的性能与优化：构建高效可靠的分布式系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, performance, optimization, scalability]
+tags: [micro-service]
 published: true
 ---
 

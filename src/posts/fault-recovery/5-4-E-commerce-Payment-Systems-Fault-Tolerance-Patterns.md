@@ -2,7 +2,7 @@
 title: 电商与支付系统的容错模式：高并发场景下的可靠性保障
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [e-commerce, payment-systems, high-concurrency, fault-tolerance]
+tags: [fault-recovery]
 published: true
 ---
 

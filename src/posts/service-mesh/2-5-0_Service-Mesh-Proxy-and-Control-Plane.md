@@ -2,7 +2,7 @@
 title: 服务网格的代理与控制平面：深入理解核心组件的工作机制
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, proxy, control-plane, envoy, sidecar]
+tags: [service-mesh]
 published: true
 ---
 

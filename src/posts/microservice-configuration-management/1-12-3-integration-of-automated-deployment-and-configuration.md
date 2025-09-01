@@ -2,7 +2,7 @@
 title: 自动化部署与配置的集成：构建无缝交付管道
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [automated-deployment, configuration-integration, devops, infrastructure-as-code, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

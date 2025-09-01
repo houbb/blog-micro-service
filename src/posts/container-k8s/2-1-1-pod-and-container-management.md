@@ -2,7 +2,7 @@
 title: Pod与容器管理：深入理解Kubernetes最小部署单元
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, pod, containers, lifecycle]
+tags: [container-k8s]
 published: true
 ---
 

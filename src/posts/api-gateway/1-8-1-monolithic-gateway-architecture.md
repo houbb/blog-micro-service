@@ -2,7 +2,7 @@
 title: 单体网关架构：简单而有效的 API 网关设计模式
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, monolithic-architecture, microservices, patterns, scalability]
+tags: [api-gateway]
 published: true
 ---
 

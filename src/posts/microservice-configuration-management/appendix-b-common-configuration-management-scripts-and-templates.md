@@ -2,7 +2,7 @@
 title: 附录B：常见配置管理脚本示例与模板
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, scripts, templates, automation, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

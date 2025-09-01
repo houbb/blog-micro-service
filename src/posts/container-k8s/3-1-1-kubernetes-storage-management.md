@@ -2,7 +2,7 @@
 title: Kubernetes存储管理：持久化数据的可靠保障
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, storage, persistent-volume, persistent-volume-claim, storage-class]
+tags: [container-k8s]
 published: true
 ---
 

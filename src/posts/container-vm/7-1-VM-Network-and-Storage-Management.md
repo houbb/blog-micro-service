@@ -2,7 +2,7 @@
 title: 虚拟机网络与存储管理：连接方式、存储配置与数据迁移详解
 date: 2025-08-31
 categories: [Virtualization]
-tags: [vm network, storage management, virtualization, networking, storage]
+tags: [container-vm]
 published: true
 ---
 

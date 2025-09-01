@@ -2,7 +2,7 @@
 title: 监控与故障排查：保障微服务系统稳定运行的关键实践
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [monitoring, troubleshooting, microservices, observability, distributed-tracing]
+tags: [communication]
 published: true
 ---
 

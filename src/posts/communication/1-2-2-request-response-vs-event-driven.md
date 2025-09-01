@@ -2,7 +2,7 @@
 title: 请求/响应与事件驱动：微服务通信模式的深度解析
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [request-response, event-driven, communication-patterns, microservices]
+tags: [communication]
 published: true
 ---
 

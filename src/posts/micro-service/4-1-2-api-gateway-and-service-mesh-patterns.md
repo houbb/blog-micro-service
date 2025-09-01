@@ -2,7 +2,7 @@
 title: API Gateway与服务网格模式：实现微服务统一入口与通信管理
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, api gateway, service mesh, istio, kong]
+tags: [micro-service]
 published: true
 ---
 

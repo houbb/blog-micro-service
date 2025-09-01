@@ -2,7 +2,7 @@
 title: 基于消息队列的异步模式：构建松耦合微服务通信的实践指南
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [message-queue, asynchronous, microservices, rabbitmq, kafka]
+tags: [communication]
 published: true
 ---
 

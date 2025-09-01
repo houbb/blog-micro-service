@@ -2,7 +2,7 @@
 title: 微服务与DevOps：在分布式架构中实现高效交付的实践指南
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, microservices, architecture, ci/cd, kubernetes]
+tags: [devops]
 published: true
 ---
 

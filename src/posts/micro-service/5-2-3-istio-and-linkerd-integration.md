@@ -2,7 +2,7 @@
 title: Istio与Linkerd集成实践：构建企业级服务网格解决方案
 date: 2025-08-31
 categories: [Microservices]
-tags: [service mesh, istio, linkerd, integration, kubernetes]
+tags: [micro-service]
 published: true
 ---
 

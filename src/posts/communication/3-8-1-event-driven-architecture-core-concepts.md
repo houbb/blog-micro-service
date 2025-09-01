@@ -2,7 +2,7 @@
 title: 事件驱动架构的核心概念：构建松耦合分布式系统的基础
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [event-driven, architecture, microservices, distributed-systems]
+tags: [communication]
 published: true
 ---
 

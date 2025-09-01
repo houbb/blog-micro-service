@@ -2,7 +2,7 @@
 title: 量子计算与服务网格的潜力：探索量子技术在服务治理中的前沿应用
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, quantum-computing, quantum-technology, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

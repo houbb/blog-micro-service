@@ -2,7 +2,7 @@
 title: 服务降级与恢复策略：构建高可用系统的最后一道防线
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, service-degradation, recovery-strategies, high-availability, istio]
+tags: [service-mesh]
 published: true
 ---
 

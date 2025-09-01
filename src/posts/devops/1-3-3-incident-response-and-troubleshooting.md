@@ -2,7 +2,7 @@
 title: 事件响应与故障排查：构建高效的故障处理与恢复机制
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, incident response, troubleshooting, chaos engineering, pagerduty]
+tags: [devops]
 published: true
 ---
 

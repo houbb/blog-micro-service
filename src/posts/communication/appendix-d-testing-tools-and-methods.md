@@ -2,7 +2,7 @@
 title: 附录D：服务间通信的常用测试工具与方法
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [testing, tools, methods, microservices, communication, integration-testing]
+tags: [communication]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务架构概览：构建现代分布式系统的基石
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [microservices, architecture, distributed-systems]
+tags: [communication]
 published: true
 ---
 

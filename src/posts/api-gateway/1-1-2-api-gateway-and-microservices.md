@@ -2,7 +2,7 @@
 title: API 网关与微服务架构：构建现代化分布式系统的关键
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, microservices, architecture]
+tags: [api-gateway]
 published: true
 ---
 

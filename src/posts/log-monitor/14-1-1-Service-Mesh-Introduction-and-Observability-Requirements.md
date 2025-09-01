@@ -2,7 +2,7 @@
 title: 服务网格简介与日志、监控需求：理解下一代微服务基础设施
 date: 2025-08-31
 categories: [Microservices, Service Mesh, Observability]
-tags: [microservices, service-mesh, istio, observability, logging, monitoring]
+tags: [log-monitor]
 published: true
 ---
 

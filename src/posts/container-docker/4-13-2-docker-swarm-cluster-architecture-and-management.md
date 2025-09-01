@@ -2,7 +2,7 @@
 title: Docker Swarm Cluster Architecture and Management - Mastering Swarm Cluster Operations
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, swarm, cluster, management]
+tags: [container-docker]
 published: true
 ---
 

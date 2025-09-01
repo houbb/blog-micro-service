@@ -2,7 +2,7 @@
 title: 服务的粒度与边界定义：微服务设计的艺术与科学
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, service design, granularity, boundaries]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

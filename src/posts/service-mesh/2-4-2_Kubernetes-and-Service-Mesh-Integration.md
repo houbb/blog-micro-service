@@ -2,7 +2,7 @@
 title: Kubernetes与服务网格的深度集成：云原生时代的完美搭档
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, kubernetes, integration, crd, operator, admission-controller]
+tags: [service-mesh]
 published: true
 ---
 

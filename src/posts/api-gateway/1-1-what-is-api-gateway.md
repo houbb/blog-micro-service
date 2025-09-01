@@ -2,7 +2,7 @@
 title: 什么是 API 网关：微服务架构中的关键组件
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, microservices]
+tags: [api-gateway]
 published: true
 ---
 

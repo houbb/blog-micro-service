@@ -2,7 +2,7 @@
 title: 微服务简介：从基础概念到实际应用
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, architecture]
+tags: [micro-service]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: API管理与文档生成：构建规范化的微服务接口体系
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, api management, documentation, openapi, swagger, governance]
+tags: [micro-service]
 published: true
 ---
 

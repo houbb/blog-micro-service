@@ -2,7 +2,7 @@
 title: 未来微服务架构中的可观察性概述：探索下一代可观察性技术
 date: 2025-08-31
 categories: [Microservices, Observability, Future, AI, Quantum]
-tags: [microservices, observability, future, ai, ml, quantum-computing, event-driven, zero-trust]
+tags: [log-monitor]
 published: true
 ---
 

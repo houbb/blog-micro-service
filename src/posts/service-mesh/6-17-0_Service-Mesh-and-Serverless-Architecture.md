@@ -2,7 +2,7 @@
 title: 服务网格与无服务器架构：构建弹性可扩展的现代化应用平台
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, serverless, kubernetes, istio, cloud-native, faas]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 服务网格的未来趋势：探索下一代服务网格技术发展方向
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, future-trends, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

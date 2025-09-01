@@ -2,7 +2,7 @@
 title: 服务注册与发现：微服务架构的动态协调机制
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, service discovery, registration, architecture]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

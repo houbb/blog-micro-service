@@ -2,7 +2,7 @@
 title: 负载均衡与流量路由：微服务架构的流量管理核心
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, load balancing, traffic routing, performance]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

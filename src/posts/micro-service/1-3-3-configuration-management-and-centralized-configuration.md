@@ -2,7 +2,7 @@
 title: 配置管理与集中配置：实现微服务的动态配置
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, configuration, management]
+tags: [micro-service]
 published: true
 ---
 

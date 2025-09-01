@@ -2,7 +2,7 @@
 title: 配置管理的生命周期：从创建到销毁的完整旅程
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, lifecycle, management, governance]
+tags: [microservice-configuration-management]
 published: true
 ---
 

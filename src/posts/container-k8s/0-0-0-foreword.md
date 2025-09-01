@@ -2,7 +2,7 @@
 title: Kubernetes从入门到精通：开启云原生时代的学习之旅
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, cloud-native, containers]
+tags: [container-k8s]
 published: true
 ---
 

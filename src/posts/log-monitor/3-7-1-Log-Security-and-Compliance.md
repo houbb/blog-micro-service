@@ -2,7 +2,7 @@
 title: 日志安全与合规性：保护敏感信息与满足法规要求
 date: 2025-08-31
 categories: [Microservices, Logging, Security]
-tags: [microservices, logging, security, compliance, gdpr, hipaa]
+tags: [log-monitor]
 published: true
 ---
 

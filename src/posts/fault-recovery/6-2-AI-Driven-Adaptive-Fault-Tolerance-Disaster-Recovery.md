@@ -2,7 +2,7 @@
 title: AI 驱动的自适应容错与灾备：智能化系统可靠性保障
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [ai, machine-learning, adaptive, intelligent-systems]
+tags: [fault-recovery]
 published: true
 ---
 

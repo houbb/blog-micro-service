@@ -2,7 +2,7 @@
 title: 实时数据流系统的容错实践：大数据处理环境下的可靠性保障
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [real-time-streaming, big-data, fault-tolerance, kafka, flink, storm]
+tags: [fault-recovery]
 published: true
 ---
 

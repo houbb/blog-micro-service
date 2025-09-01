@@ -2,7 +2,7 @@
 title: 服务网格的核心组件：深入解析数据平面与控制平面
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, components, data-plane, control-plane, architecture]
+tags: [service-mesh]
 published: true
 ---
 

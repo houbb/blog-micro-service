@@ -2,7 +2,7 @@
 title: Ansible：简易高效的自动化配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, ansible, automation, devops, infrastructure]
+tags: [microservice-configuration-management]
 published: true
 ---
 

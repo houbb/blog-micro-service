@@ -2,7 +2,7 @@
 title: 监控与日志管理：构建全面的系统可观测性体系
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, monitoring, logging, prometheus, grafana, elk]
+tags: [devops]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: DevOps流水线构建与优化：打造高效可靠的持续交付体系
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, pipeline, ci/cd, optimization, best-practices]
+tags: [devops]
 published: true
 ---
 

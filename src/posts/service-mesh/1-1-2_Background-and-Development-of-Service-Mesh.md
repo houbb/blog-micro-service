@@ -2,7 +2,7 @@
 title: 服务网格的背景与发展：从微服务到云原生的演进之路
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, microservices, cloud-native, evolution]
+tags: [service-mesh]
 published: true
 ---
 

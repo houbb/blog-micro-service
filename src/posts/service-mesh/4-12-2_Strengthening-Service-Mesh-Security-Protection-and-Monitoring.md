@@ -2,7 +2,7 @@
 title: 加强服务网格的安全防护与监控：构建全方位的安全防护体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, security, monitoring, protection, istio, zero-trust]
+tags: [service-mesh]
 published: true
 ---
 

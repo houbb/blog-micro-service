@@ -2,7 +2,7 @@
 title: 微服务监控的生命周期管理：从设计到退役的全周期管理
 date: 2025-08-31
 categories: [Microservices, Monitoring, Lifecycle Management]
-tags: [microservices, monitoring, lifecycle, devops, sre]
+tags: [log-monitor]
 published: true
 ---
 

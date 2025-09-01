@@ -2,7 +2,7 @@
 title: Playbook的编写与执行：掌握Ansible自动化的核心技能
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ansible, playbook, automation, devops, configuration]
+tags: [microservice-configuration-management]
 published: true
 ---
 

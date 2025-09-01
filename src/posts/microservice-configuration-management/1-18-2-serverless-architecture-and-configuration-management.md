@@ -2,7 +2,7 @@
 title: 无服务器架构与配置管理：在函数即服务环境中实现高效配置
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [serverless, configuration-management, faas, cloud-native, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

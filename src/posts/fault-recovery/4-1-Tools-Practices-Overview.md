@@ -2,7 +2,7 @@
 title: 第 IV 篇 工具与平台 概述
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [tools, practices, monitoring, chaos-engineering]
+tags: [fault-recovery]
 published: true
 ---
 

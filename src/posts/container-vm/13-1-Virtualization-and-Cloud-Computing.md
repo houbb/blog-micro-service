@@ -2,7 +2,7 @@
 title: 虚拟化与云计算的关系：从虚拟化技术到云服务的演进之路
 date: 2025-08-31
 categories: [Virtualization, Cloud Computing]
-tags: [virtualization, cloud computing, iaas, paas, saas]
+tags: [container-vm]
 published: true
 ---
 

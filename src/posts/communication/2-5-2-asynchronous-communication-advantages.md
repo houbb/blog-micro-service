@@ -2,7 +2,7 @@
 title: 异步通信的优点：构建高可用微服务系统的关键
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [asynchronous, communication, microservices, reliability, scalability]
+tags: [communication]
 published: true
 ---
 

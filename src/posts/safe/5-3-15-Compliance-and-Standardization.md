@@ -2,7 +2,7 @@
 title: 合规性与标准化：满足微服务安全的法规要求与行业标准
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, compliance, standards, gdpr, hipaa]
+tags: [safe]
 published: true
 ---
 

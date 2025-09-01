@@ -2,7 +2,7 @@
 title: 服务网格简介：连接、安全与可观察性的新范式
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, microservices, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

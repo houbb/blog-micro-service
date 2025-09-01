@@ -2,7 +2,7 @@
 title: 微服务调用链分析：深入解析复杂分布式系统架构
 date: 2025-08-31
 categories: [Microservices, Tracing, Analysis]
-tags: [microservices, tracing, call-chain, dependency-analysis, performance]
+tags: [log-monitor]
 published: true
 ---
 

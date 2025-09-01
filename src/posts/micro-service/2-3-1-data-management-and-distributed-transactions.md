@@ -2,7 +2,7 @@
 title: 数据管理与分布式事务：构建一致可靠的微服务数据层
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, data-management, distributed-transactions, saga]
+tags: [micro-service]
 published: true
 ---
 

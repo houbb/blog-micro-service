@@ -2,7 +2,7 @@
 title: 身份认证与授权：深入理解OAuth2与JWT在微服务中的应用
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [authentication, authorization, oauth2, jwt, microservices, security]
+tags: [communication]
 published: true
 ---
 

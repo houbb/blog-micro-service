@@ -2,7 +2,7 @@
 title: 配置管理与持续集成/持续交付（CI/CD）
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ci-cd, continuous-integration, continuous-delivery, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

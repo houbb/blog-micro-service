@@ -2,7 +2,7 @@
 title: 使用云原生工具管理配置：充分利用云平台原生服务
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [cloud-native, configuration-management, aws, azure, gcp, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

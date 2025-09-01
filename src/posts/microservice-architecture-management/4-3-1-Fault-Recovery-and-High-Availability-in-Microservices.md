@@ -2,7 +2,7 @@
 title: 微服务的故障恢复与高可用性：构建 resilient 的分布式系统
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, fault-tolerance, high-availability, resilience]
+tags: [microservice-architecture-management]
 published: true
 ---
 

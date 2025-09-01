@@ -2,7 +2,7 @@
 title: Containerized Application Lifecycle Management - Mastering the Full Application Journey
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, lifecycle, management, containers, devops]
+tags: [container-docker]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 日志与监控的基础设施即代码（IaC）：实现配置的版本化管理
 date: 2025-08-31
 categories: [Microservices, Infrastructure as Code, Logging, Monitoring]
-tags: [microservices, iac, terraform, logging, monitoring, devops]
+tags: [log-monitor]
 published: true
 ---
 

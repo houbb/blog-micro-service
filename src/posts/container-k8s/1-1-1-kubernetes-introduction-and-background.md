@@ -2,7 +2,7 @@
 title: Kubernetes简介与背景：容器编排的演进之路
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, containers, orchestration]
+tags: [container-k8s]
 published: true
 ---
 

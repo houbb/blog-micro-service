@@ -2,7 +2,7 @@
 title: 性能监控与指标分析：构建全面的服务网格可观测性体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, performance-monitoring, metrics-analysis, observability, prometheus, grafana, istio]
+tags: [service-mesh]
 published: true
 ---
 

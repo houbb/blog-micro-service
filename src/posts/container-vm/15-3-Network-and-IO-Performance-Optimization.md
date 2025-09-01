@@ -2,7 +2,7 @@
 title: 网络与I/O性能优化：虚拟化环境下的性能调优策略与实践
 date: 2025-08-31
 categories: [Virtualization, Performance Optimization]
-tags: [network optimization, io optimization, performance tuning, virtualization, virtual network]
+tags: [container-vm]
 published: true
 ---
 

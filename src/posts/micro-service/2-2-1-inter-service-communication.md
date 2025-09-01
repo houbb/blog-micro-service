@@ -2,7 +2,7 @@
 title: 服务间通信：构建高效可靠的微服务交互
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, communication, rest, messaging]
+tags: [micro-service]
 published: true
 ---
 

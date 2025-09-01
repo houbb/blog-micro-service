@@ -2,7 +2,7 @@
 title: 多区域配置同步与高可用架构：构建全球分布的配置管理体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [multi-region, configuration-synchronization, high-availability, distributed-systems, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

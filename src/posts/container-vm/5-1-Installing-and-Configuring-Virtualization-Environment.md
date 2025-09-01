@@ -2,7 +2,7 @@
 title: 虚拟化环境的安装与配置：VMware Workstation、Hyper-V、VirtualBox详细指南
 date: 2025-08-31
 categories: [Virtualization]
-tags: [installation, configuration, vmware, hyper-v, virtualbox, setup]
+tags: [container-vm]
 published: true
 ---
 

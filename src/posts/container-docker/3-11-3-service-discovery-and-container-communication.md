@@ -2,7 +2,7 @@
 title: Service Discovery and Container Communication - Enabling Reliable Microservices Interaction
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, microservices, service-discovery, communication]
+tags: [container-docker]
 published: true
 ---
 

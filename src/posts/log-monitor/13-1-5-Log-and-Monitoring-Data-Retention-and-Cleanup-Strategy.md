@@ -2,7 +2,7 @@
 title: 日志与监控数据保留与清理策略：实现可持续的可观测性
 date: 2025-08-31
 categories: [Microservices, Logging, Monitoring, Data Management]
-tags: [microservices, logging, monitoring, data-retention, cleanup, cost-optimization]
+tags: [log-monitor]
 published: true
 ---
 

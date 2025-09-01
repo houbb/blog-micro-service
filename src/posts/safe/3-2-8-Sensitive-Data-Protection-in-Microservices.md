@@ -2,7 +2,7 @@
 title: 微服务中的敏感数据保护：构建全面的数据安全防护体系
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, data protection, pii, gdpr]
+tags: [safe]
 published: true
 ---
 

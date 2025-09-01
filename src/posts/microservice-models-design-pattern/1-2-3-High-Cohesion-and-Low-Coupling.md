@@ -2,7 +2,7 @@
 title: 高内聚与低耦合：微服务设计的核心原则
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, design principles, cohesion, coupling]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

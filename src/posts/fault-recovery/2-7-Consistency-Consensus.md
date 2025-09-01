@@ -2,7 +2,7 @@
 title: 分布式一致性与共识算法 (Consistency & Consensus)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [consistency, consensus, distributed-systems, paxos, raft]
+tags: [fault-recovery]
 published: true
 ---
 

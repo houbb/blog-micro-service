@@ -2,7 +2,7 @@
 title: 微服务的持续集成与持续交付：构建高效的软件交付流水线
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, ci/cd, continuous integration, continuous delivery, devops]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Dockerfile Syntax and Usage - Mastering the Art of Image Building
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, dockerfile, syntax, build]
+tags: [container-docker]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: API 网关与服务代理模型：微服务架构的流量控制中心
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, api gateway, service proxy, traffic management]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

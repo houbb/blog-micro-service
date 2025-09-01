@@ -2,7 +2,7 @@
 title: 10.3 使用Docker Compose管理多容器环境中的配置：构建复杂的容器化应用环境
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [docker-compose, configuration-management, multi-container, orchestration, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

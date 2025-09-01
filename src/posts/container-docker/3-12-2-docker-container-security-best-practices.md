@@ -2,7 +2,7 @@
 title: Docker Container Security Best Practices - Building Secure Containerized Applications
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, security, best-practices, containers]
+tags: [container-docker]
 published: true
 ---
 

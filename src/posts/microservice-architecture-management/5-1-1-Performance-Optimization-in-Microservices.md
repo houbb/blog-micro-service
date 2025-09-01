@@ -2,7 +2,7 @@
 title: 微服务的性能优化：从瓶颈识别到系统调优的全面指南
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, performance, optimization, scalability]
+tags: [microservice-architecture-management]
 published: true
 ---
 

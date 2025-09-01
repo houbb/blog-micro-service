@@ -2,7 +2,7 @@
 title: Sidecar模式与工作原理：服务网格架构的核心创新
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, sidecar, architecture, working-principle, proxy]
+tags: [service-mesh]
 published: true
 ---
 

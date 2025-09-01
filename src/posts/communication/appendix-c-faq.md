@@ -2,7 +2,7 @@
 title: 附录C：常见问题与解答
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [faq, microservices, communication, troubleshooting, best-practices]
+tags: [communication]
 published: true
 ---
 

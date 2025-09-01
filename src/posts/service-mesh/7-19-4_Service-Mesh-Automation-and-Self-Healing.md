@@ -2,7 +2,7 @@
 title: 服务网格的自动化与自愈能力：构建高度自治的微服务基础设施
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, automation, self-healing, autonomous-systems, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

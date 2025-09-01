@@ -2,7 +2,7 @@
 title: 微服务的安全设计模式：构建安全可靠的分布式系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, security, design patterns, distributed systems]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

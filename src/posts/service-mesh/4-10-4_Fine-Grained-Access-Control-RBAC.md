@@ -2,7 +2,7 @@
 title: 细粒度访问控制(RBAC)：实现精确的权限管理
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, rbac, access-control, security, authorization, istio]
+tags: [service-mesh]
 published: true
 ---
 

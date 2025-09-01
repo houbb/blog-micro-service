@@ -2,7 +2,7 @@
 title: 量子计算与虚拟化的融合：下一代计算平台的探索
 date: 2025-08-31
 categories: [Virtualization, Quantum Computing, Future Computing]
-tags: [quantum computing, virtualization, fusion, next-generation computing, quantum virtualization]
+tags: [container-vm]
 published: true
 ---
 

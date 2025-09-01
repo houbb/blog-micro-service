@@ -2,7 +2,7 @@
 title: 微服务的零信任架构：构建无边界信任的安全新模式
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, zero trust, architecture, identity]
+tags: [safe]
 published: true
 ---
 

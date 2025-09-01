@@ -2,7 +2,7 @@
 title: 虚拟化技术导论：从概念到实践的全面指南
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtualization, hypervisor, cloud computing]
+tags: [container-vm]
 published: true
 ---
 

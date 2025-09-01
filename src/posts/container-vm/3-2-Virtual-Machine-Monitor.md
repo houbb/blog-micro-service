@@ -2,7 +2,7 @@
 title: 虚拟机监控器（Hypervisor）深度解析：架构、类型与实现
 date: 2025-08-31
 categories: [Virtualization]
-tags: [hypervisor, virtualization, vmware, hyper-v, kvm]
+tags: [container-vm]
 published: true
 ---
 

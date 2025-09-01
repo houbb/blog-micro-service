@@ -2,7 +2,7 @@
 title: Installing Docker on Different Operating Systems - Windows, macOS, and Linux Guide
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, installation, windows, macos, linux]
+tags: [container-docker]
 published: true
 ---
 

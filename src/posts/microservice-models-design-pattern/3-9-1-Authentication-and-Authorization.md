@@ -2,7 +2,7 @@
 title: 身份验证与授权：微服务架构中的访问控制基石
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, authentication, authorization, security]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

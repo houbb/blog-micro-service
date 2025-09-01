@@ -2,7 +2,7 @@
 title: 数据库分片与分布式数据库设计：构建可扩展的数据存储架构
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, database sharding, distributed database, scalability, data management]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

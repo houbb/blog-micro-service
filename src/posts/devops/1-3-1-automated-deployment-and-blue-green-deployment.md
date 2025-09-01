@@ -2,7 +2,7 @@
 title: 自动化部署与蓝绿部署：实现无缝应用发布的最佳实践
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, deployment, blue-green, spinnaker, argocd]
+tags: [devops]
 published: true
 ---
 

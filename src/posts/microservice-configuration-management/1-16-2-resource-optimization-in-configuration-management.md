@@ -2,7 +2,7 @@
 title: 配置管理的资源优化：最大化系统资源利用效率
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [resource-optimization, configuration-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

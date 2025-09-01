@@ -2,7 +2,7 @@
 title: 防止内部滥用与越权访问：构建可信的内部服务环境
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, internal-security, abuse-prevention, authorization, istio, rbac]
+tags: [service-mesh]
 published: true
 ---
 

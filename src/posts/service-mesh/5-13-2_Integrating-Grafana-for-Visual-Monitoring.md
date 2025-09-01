@@ -2,7 +2,7 @@
 title: 集成Grafana进行可视化监控：构建直观的监控仪表板
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, grafana, visualization, monitoring, istio, prometheus]
+tags: [service-mesh]
 published: true
 ---
 

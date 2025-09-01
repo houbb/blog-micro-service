@@ -2,7 +2,7 @@
 title: 分布式追踪基础与架构：构建微服务调用链路可视化体系
 date: 2025-08-31
 categories: [Microservices, Tracing, Architecture]
-tags: [microservices, tracing, architecture, dapper, opentelemetry, jaeger]
+tags: [log-monitor]
 published: true
 ---
 

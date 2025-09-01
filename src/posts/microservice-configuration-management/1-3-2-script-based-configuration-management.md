@@ -2,7 +2,7 @@
 title: 基于脚本的配置管理：从手动到自动化的过渡阶段
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, scripting, bash, powershell, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

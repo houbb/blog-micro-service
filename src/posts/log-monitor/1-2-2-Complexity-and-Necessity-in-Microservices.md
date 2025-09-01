@@ -2,7 +2,7 @@
 title: 微服务复杂性与日志监控的必要性：深入解析分布式系统的挑战
 date: 2025-08-31
 categories: [LogMonitor]
-tags: [microservices, complexity, logging, monitoring, distributed-systems]
+tags: [log-monitor]
 published: true
 ---
 

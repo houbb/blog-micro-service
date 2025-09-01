@@ -2,7 +2,7 @@
 title: 管理复杂环境中的配置：Puppet在企业级部署中的高级应用
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [puppet, complex-environments, enterprise, configuration-management, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

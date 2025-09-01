@@ -2,7 +2,7 @@
 title: Kubernetes简介：容器编排系统的革命性技术
 date: 2025-08-31
 categories: [Containerization, Kubernetes]
-tags: [kubernetes, container orchestration, cloud native, microservices]
+tags: [container-vm]
 published: true
 ---
 

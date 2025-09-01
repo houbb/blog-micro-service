@@ -2,7 +2,7 @@
 title: Prometheus与Kubernetes中的监控：云原生环境下的可观测性实践
 date: 2025-08-31
 categories: [Microservices, Monitoring, Kubernetes]
-tags: [microservices, monitoring, prometheus, kubernetes, cloud-native, observability]
+tags: [log-monitor]
 published: true
 ---
 

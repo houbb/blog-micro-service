@@ -2,7 +2,7 @@
 title: 协议与数据处理：API 网关的多协议适配与数据转换能力
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, protocol, data-processing, rest, grpc, graphql, microservices]
+tags: [api-gateway]
 published: true
 ---
 

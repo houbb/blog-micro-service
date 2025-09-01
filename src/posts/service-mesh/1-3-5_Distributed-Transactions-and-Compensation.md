@@ -2,7 +2,7 @@
 title: 分布式事务与补偿：微服务架构中的数据一致性保障
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, distributed-transactions, compensation, data-consistency, saga]
+tags: [service-mesh]
 published: true
 ---
 

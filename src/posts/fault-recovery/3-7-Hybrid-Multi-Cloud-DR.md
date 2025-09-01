@@ -2,7 +2,7 @@
 title: 混合云与多云场景下的容灾设计
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [hybrid-cloud, multi-cloud, disaster-recovery, aws, azure, gcp]
+tags: [fault-recovery]
 published: true
 ---
 

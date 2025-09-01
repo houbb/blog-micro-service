@@ -2,7 +2,7 @@
 title: 使用Prometheus监控服务网格：构建高效的指标监控体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, prometheus, monitoring, metrics, istio, observability]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 故障注入与混沌工程：验证系统弹性的科学方法
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, fault-injection, chaos-engineering, resilience, istio]
+tags: [service-mesh]
 published: true
 ---
 

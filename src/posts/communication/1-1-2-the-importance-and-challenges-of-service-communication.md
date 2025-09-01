@@ -2,7 +2,7 @@
 title: 服务间通信的重要性与挑战：构建可靠微服务系统的关键
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [service-communication, reliability, challenges]
+tags: [communication]
 published: true
 ---
 

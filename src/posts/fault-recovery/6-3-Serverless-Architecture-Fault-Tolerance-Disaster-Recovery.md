@@ -2,7 +2,7 @@
 title: 无服务器架构下的容错与容灾：Function-as-a-Service的可靠性保障
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [serverless, faas, cloud-native, lambda, azure-functions, google-cloud-functions]
+tags: [fault-recovery]
 published: true
 ---
 

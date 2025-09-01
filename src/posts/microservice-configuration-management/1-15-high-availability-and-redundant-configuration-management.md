@@ -2,7 +2,7 @@
 title: 高可用性与冗余配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [high-availability, redundancy, configuration-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

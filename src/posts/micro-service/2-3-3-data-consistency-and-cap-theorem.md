@@ -2,7 +2,7 @@
 title: 数据一致性与CAP定理：构建高可用的分布式数据系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, data-consistency, cap-theorem, distributed-systems]
+tags: [micro-service]
 published: true
 ---
 

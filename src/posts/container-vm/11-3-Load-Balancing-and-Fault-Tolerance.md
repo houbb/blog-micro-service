@@ -2,7 +2,7 @@
 title: 负载均衡与故障转移技术详解：构建高可用虚拟化环境的核心策略
 date: 2025-08-31
 categories: [Virtualization]
-tags: [load balancing, fault tolerance, high availability, virtualization, clustering]
+tags: [container-vm]
 published: true
 ---
 

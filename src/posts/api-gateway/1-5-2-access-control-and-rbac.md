@@ -2,7 +2,7 @@
 title: 访问控制与 RBAC：API 网关的权限管理体系
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, access-control, rbac, authorization, security]
+tags: [api-gateway]
 published: true
 ---
 

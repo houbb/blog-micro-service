@@ -2,7 +2,7 @@
 title: Kubernetes与微服务的部署与管理：构建高可用的容器编排平台
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, kubernetes, deployment, orchestration]
+tags: [micro-service]
 published: true
 ---
 

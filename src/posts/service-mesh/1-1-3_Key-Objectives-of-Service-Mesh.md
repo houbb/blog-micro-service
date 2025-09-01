@@ -2,7 +2,7 @@
 title: 服务网格的关键目标：微服务通信、可观察性与安全性
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, microservices, communication, observability, security]
+tags: [service-mesh]
 published: true
 ---
 

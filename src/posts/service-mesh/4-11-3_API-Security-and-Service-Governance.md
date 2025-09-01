@@ -2,7 +2,7 @@
 title: API安全与服务治理：构建安全可靠的API生态系统
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, api-security, service-governance, security, istio, oauth2, jwt]
+tags: [service-mesh]
 published: true
 ---
 

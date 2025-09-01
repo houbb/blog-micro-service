@@ -2,7 +2,7 @@
 title: Kubernetes与容器原生技术：探索云原生的未来趋势
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, container-native, cloud-native, serverless, quantum-computing]
+tags: [container-k8s]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务与人工智能、机器学习的融合：构建智能化分布式系统
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, ai, machine learning, intelligent systems, automation]
+tags: [micro-service]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务中的 API 网关：统一入口与流量控制中心
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, api gateway, traffic control, security]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

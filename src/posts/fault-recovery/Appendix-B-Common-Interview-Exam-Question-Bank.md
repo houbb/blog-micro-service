@@ -2,7 +2,7 @@
 title: 附录B：常见面试与考试题库
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [appendix, interview-questions, exam-questions]
+tags: [fault-recovery]
 published: true
 ---
 

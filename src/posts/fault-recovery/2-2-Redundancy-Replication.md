@@ -2,7 +2,7 @@
 title: 冗余与复制 (Redundancy & Replication)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [redundancy, replication, fault-tolerance]
+tags: [fault-recovery]
 published: true
 ---
 

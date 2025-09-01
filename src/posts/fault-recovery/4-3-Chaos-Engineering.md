@@ -2,7 +2,7 @@
 title: 混沌工程 (Chaos Engineering)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [chaos-engineering, chaos-monkey, chaos-mesh, fault-injection]
+tags: [fault-recovery]
 published: true
 ---
 

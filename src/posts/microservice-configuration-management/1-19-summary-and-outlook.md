@@ -2,7 +2,7 @@
 title: 总结与展望：配置管理的关键要素回顾与未来发展
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, summary, best-practices, future-trends]
+tags: [microservice-configuration-management]
 published: true
 ---
 

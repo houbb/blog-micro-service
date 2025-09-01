@@ -2,7 +2,7 @@
 title: 动态存储与存储卷的管理：实现存储资源的自动化配置
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, storage, dynamic-provisioning, volume, csi]
+tags: [container-k8s]
 published: true
 ---
 

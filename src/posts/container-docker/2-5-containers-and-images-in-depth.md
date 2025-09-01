@@ -2,7 +2,7 @@
 title: 深入理解容器与镜像
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, containers, images, advanced]
+tags: [container-docker]
 published: true
 ---
 

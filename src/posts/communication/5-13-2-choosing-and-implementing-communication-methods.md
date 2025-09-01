@@ -2,7 +2,7 @@
 title: 选择与实现合适的通信方式：微服务间通信的技术选型与实践
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [communication, implementation, microservices, technology-selection]
+tags: [communication]
 published: true
 ---
 

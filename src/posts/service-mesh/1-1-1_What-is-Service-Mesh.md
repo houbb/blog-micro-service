@@ -2,7 +2,7 @@
 title: 什么是服务网格？深入解析云原生通信基础设施的核心
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, microservices, cloud-native, infrastructure]
+tags: [service-mesh]
 published: true
 ---
 

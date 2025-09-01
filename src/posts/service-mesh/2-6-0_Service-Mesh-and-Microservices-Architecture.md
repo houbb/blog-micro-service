@@ -2,7 +2,7 @@
 title: 服务网格与微服务架构：构建现代化分布式系统的完美结合
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, microservices, architecture, integration, service-discovery]
+tags: [service-mesh]
 published: true
 ---
 

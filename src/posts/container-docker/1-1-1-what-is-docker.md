@@ -2,7 +2,7 @@
 title: What is Docker - Understanding Container Technology
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, containerization, technology]
+tags: [container-docker]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 常见微服务架构模型：从单体到云原生的演进之路
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, architecture models, evolution]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

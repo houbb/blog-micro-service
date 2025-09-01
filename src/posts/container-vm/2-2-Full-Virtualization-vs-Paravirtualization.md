@@ -2,7 +2,7 @@
 title: 全虚拟化与半虚拟化深度对比：技术原理与性能分析
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtualization, full virtualization, paravirtualization, performance]
+tags: [container-vm]
 published: true
 ---
 

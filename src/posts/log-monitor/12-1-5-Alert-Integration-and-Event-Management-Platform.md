@@ -2,7 +2,7 @@
 title: 告警集成与事件管理平台：构建完整的告警响应体系
 date: 2025-08-31
 categories: [Microservices, Alerting, Event Management]
-tags: [microservices, alerting, pagerduty, opsgenie, event-management, incident-response]
+tags: [log-monitor]
 published: true
 ---
 

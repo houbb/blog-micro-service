@@ -2,7 +2,7 @@
 title: 自动化的监控报警与事件响应：构建智能运维体系
 date: 2025-08-31
 categories: [Microservices, Monitoring, Alerting, Incident Response]
-tags: [microservices, monitoring, alerting, incident-response, automation, devops]
+tags: [log-monitor]
 published: true
 ---
 

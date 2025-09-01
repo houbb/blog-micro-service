@@ -2,7 +2,7 @@
 title: 第9章：微服务与云原生应用中的配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, microservices, cloud-native, kubernetes, docker]
+tags: [microservice-configuration-management]
 published: true
 ---
 

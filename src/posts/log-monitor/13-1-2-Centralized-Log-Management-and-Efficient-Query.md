@@ -2,7 +2,7 @@
 title: 集中式日志管理与高效查询：构建统一的日志分析平台
 date: 2025-08-31
 categories: [Microservices, Logging, Centralized Management]
-tags: [microservices, logging, elasticsearch, log-analysis, query-optimization]
+tags: [log-monitor]
 published: true
 ---
 

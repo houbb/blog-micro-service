@@ -2,7 +2,7 @@
 title: Building Cross-Platform Docker Container Applications - Mastering Multi-Cloud Compatibility
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, cross-platform, multi-cloud, containers]
+tags: [container-docker]
 published: true
 ---
 

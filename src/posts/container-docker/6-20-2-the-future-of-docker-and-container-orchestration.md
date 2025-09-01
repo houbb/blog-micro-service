@@ -2,7 +2,7 @@
 title: The Future of Docker and Container Orchestration - Evolution and Innovation in Container Management
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, orchestration, kubernetes, future, containers]
+tags: [container-docker]
 published: true
 ---
 

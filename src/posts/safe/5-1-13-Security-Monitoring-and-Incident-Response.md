@@ -2,7 +2,7 @@
 title: 安全监控与事件响应：构建实时威胁检测与快速响应体系
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, monitoring, incident response, siem]
+tags: [safe]
 published: true
 ---
 

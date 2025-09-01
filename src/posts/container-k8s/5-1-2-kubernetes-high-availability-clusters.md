@@ -2,7 +2,7 @@
 title: Kubernetes高可用集群：构建企业级可靠容器平台
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, high-availability, etcd, clustering, fault-tolerance]
+tags: [container-k8s]
 published: true
 ---
 

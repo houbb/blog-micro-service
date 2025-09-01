@@ -2,7 +2,7 @@
 title: 微服务的容器化与 Kubernetes：构建现代化的部署基础设施
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, containerization, kubernetes, docker, deployment]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

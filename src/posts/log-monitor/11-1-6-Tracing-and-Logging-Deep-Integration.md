@@ -2,7 +2,7 @@
 title: 追踪与日志的深度整合：构建全方位微服务可观察性体系
 date: 2025-08-31
 categories: [Microservices, Observability, Integration]
-tags: [microservices, tracing, logging, observability, correlation]
+tags: [log-monitor]
 published: true
 ---
 

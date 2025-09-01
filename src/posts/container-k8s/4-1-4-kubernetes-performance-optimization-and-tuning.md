@@ -2,7 +2,7 @@
 title: Kubernetes性能优化与调优：构建高效稳定的容器平台
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, performance, optimization, tuning, resource-management]
+tags: [container-k8s]
 published: true
 ---
 

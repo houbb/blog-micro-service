@@ -2,7 +2,7 @@
 title: 深入理解微服务架构：定义、特征与核心原则
 date: 2025-08-31
 categories: [LogMonitor]
-tags: [microservices, architecture, definition]
+tags: [log-monitor]
 published: true
 ---
 

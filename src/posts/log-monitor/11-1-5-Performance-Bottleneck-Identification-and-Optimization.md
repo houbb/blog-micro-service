@@ -2,7 +2,7 @@
 title: 性能瓶颈识别与优化：基于分布式追踪的系统性能调优
 date: 2025-08-31
 categories: [Microservices, Performance, Optimization]
-tags: [microservices, performance, optimization, bottleneck, tracing]
+tags: [log-monitor]
 published: true
 ---
 

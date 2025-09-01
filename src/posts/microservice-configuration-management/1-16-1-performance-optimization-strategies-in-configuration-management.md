@@ -2,7 +2,7 @@
 title: 配置管理中性能优化的策略：提升系统响应与资源利用效率
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [performance-optimization, configuration-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

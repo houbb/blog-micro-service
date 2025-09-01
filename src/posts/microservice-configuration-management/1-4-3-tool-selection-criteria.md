@@ -2,7 +2,7 @@
 title: 工具选择的标准：易用性、兼容性、社区支持等关键考量
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, tools, selection, criteria, evaluation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

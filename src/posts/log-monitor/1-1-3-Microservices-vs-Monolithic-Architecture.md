@@ -2,7 +2,7 @@
 title: 微服务与单体架构对比：技术选型的深度分析
 date: 2025-08-31
 categories: [LogMonitor]
-tags: [microservices, monolithic, architecture, comparison]
+tags: [log-monitor]
 published: true
 ---
 

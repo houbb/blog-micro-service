@@ -2,7 +2,7 @@
 title: 熔断器与隔板模式 (Circuit Breaker & Bulkhead Patterns)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [circuit-breaker, bulkhead, fault-tolerance, microservices]
+tags: [fault-recovery]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务架构概述：理解现代分布式系统的核心理念
 date: 2025-08-31
 categories: [Architecture]
-tags: [microservices, architecture]
+tags: [safe]
 published: true
 ---
 

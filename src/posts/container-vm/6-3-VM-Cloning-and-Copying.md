@@ -2,7 +2,7 @@
 title: 虚拟机克隆与复制技术详解：完整克隆、链接克隆与高效部署策略
 date: 2025-08-31
 categories: [Virtualization]
-tags: [vm cloning, vm copying, full clone, linked clone, deployment, virtualization]
+tags: [container-vm]
 published: true
 ---
 

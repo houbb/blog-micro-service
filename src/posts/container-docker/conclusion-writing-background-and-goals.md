@@ -2,7 +2,7 @@
 title: Conclusion - Writing Background and Goals
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, conclusion, background, goals]
+tags: [container-docker]
 published: true
 ---
 

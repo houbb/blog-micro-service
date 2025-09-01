@@ -2,7 +2,7 @@
 title: Kubernetes与服务网格（Istio）：实现微服务的智能治理
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, service-mesh, istio, microservices, traffic-management]
+tags: [container-k8s]
 published: true
 ---
 

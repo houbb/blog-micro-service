@@ -2,7 +2,7 @@
 title: 使用ELK堆栈收集与分析日志：构建完整的日志分析平台
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, elk-stack, log-analysis, elasticsearch, logstash, kibana, logging]
+tags: [service-mesh]
 published: true
 ---
 

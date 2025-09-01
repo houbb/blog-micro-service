@@ -2,7 +2,7 @@
 title: 附加内容：实战案例与企业实践
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, additional-content, case-studies, enterprise-practice, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

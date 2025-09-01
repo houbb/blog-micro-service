@@ -2,7 +2,7 @@
 title: 配置文件的版本控制与管理：建立可靠的配置变更流程
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [version-control, configuration-management, git, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

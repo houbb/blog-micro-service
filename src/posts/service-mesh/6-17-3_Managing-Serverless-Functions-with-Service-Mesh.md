@@ -2,7 +2,7 @@
 title: 通过服务网格管理无服务器函数：实现统一的函数治理与监控
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, serverless, function-management, kubernetes, istio, knative]
+tags: [service-mesh]
 published: true
 ---
 

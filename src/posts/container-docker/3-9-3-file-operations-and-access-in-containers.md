@@ -2,7 +2,7 @@
 title: File Operations and Access in Containers - Managing Container File Systems
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, files, filesystem, containers]
+tags: [container-docker]
 published: true
 ---
 

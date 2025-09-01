@@ -2,7 +2,7 @@
 title: 无服务器架构与微服务的整合：构建轻量级分布式系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, serverless, faas, cloud functions]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

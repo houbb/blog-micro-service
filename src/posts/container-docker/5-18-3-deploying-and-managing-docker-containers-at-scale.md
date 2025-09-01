@@ -2,7 +2,7 @@
 title: Deploying and Managing Docker Containers at Scale - Mastering Large-Scale Container Orchestration
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, scale, orchestration, containers, kubernetes]
+tags: [container-docker]
 published: true
 ---
 

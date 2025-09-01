@@ -2,7 +2,7 @@
 title: 服务间通信简介：微服务架构中的连接艺术
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [service-communication, microservices]
+tags: [communication]
 published: true
 ---
 

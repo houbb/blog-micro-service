@@ -2,7 +2,7 @@
 title: 服务网格与API网关的区别：协同工作的云原生组件
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, api-gateway, comparison, cloud-native, architecture]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 单一职责与分布式设计：构建内聚的微服务
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, design, srp, distributed]
+tags: [micro-service]
 published: true
 ---
 

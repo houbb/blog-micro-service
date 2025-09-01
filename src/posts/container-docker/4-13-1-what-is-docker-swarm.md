@@ -2,7 +2,7 @@
 title: What is Docker Swarm - Understanding Docker's Native Orchestration Tool
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, swarm, orchestration, containers]
+tags: [container-docker]
 published: true
 ---
 

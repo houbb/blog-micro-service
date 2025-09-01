@@ -2,7 +2,7 @@
 title: 监控基础概念与重要性：微服务架构中的关键观测手段
 date: 2025-08-31
 categories: [Microservices, Monitoring]
-tags: [microservices, monitoring, observability, metrics, health-checks]
+tags: [log-monitor]
 published: true
 ---
 

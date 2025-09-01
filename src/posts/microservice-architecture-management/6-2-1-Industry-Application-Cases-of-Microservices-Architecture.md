@@ -2,7 +2,7 @@
 title: 微服务架构的行业应用案例：从电商平台到物联网的实战解析
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, case-studies, e-commerce, finance, iot]
+tags: [microservice-architecture-management]
 published: true
 ---
 

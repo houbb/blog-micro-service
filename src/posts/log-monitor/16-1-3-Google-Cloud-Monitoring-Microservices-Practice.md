@@ -2,7 +2,7 @@
 title: Google Cloud Monitoring微服务实践：构建GCP云原生监控体系
 date: 2025-08-31
 categories: [Microservices, Google Cloud, Monitoring, Logging]
-tags: [microservices, gcp, monitoring, logging, cloud-native, devops]
+tags: [log-monitor]
 published: true
 ---
 

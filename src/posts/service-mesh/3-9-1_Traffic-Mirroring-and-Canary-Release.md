@@ -2,7 +2,7 @@
 title: 流量镜像与金丝雀发布：安全可靠的版本验证策略
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, traffic-mirroring, canary-release, version-validation, istio]
+tags: [service-mesh]
 published: true
 ---
 

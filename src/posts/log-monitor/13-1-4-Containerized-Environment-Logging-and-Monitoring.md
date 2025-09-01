@@ -2,7 +2,7 @@
 title: 容器化环境中的日志与监控：Docker与Kubernetes实践
 date: 2025-08-31
 categories: [Microservices, Containerization, Docker, Kubernetes, Logging, Monitoring]
-tags: [microservices, docker, kubernetes, logging, monitoring, containerization]
+tags: [log-monitor]
 published: true
 ---
 

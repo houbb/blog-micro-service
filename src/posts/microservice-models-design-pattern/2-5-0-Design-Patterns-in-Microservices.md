@@ -2,7 +2,7 @@
 title: 微服务中的设计模式：构建可扩展系统的最佳实践
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, design patterns, architecture]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

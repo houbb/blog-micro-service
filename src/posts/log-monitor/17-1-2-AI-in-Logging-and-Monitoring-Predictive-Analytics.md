@@ -2,7 +2,7 @@
 title: AI在日志与监控中的预测性分析：构建前瞻性可观察性体系
 date: 2025-08-31
 categories: [Microservices, AI, Predictive Analytics, Monitoring]
-tags: [microservices, ai, predictive-analytics, monitoring, forecasting, capacity-planning]
+tags: [log-monitor]
 published: true
 ---
 

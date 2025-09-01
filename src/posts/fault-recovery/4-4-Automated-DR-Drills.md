@@ -2,7 +2,7 @@
 title: 自动化灾难演练 (Automated DR Drills)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [disaster-recovery, automation, drills, testing]
+tags: [fault-recovery]
 published: true
 ---
 

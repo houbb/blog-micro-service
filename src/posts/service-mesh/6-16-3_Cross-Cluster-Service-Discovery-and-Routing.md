@@ -2,7 +2,7 @@
 title: 跨集群服务发现与路由：构建统一的多集群服务治理体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, multi-cluster, service-discovery, routing, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

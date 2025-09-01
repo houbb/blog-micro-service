@@ -2,7 +2,7 @@
 title: 消息队列基本概念与架构：理解异步通信的核心组件
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [message-queue, architecture, asynchronous, distributed-systems]
+tags: [communication]
 published: true
 ---
 

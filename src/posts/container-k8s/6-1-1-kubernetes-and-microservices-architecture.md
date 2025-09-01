@@ -2,7 +2,7 @@
 title: Kubernetes与微服务架构：构建现代化分布式系统
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, microservices, architecture, containers, distributed-systems]
+tags: [container-k8s]
 published: true
 ---
 

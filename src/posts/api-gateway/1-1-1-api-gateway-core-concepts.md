@@ -2,7 +2,7 @@
 title: API 网关核心概念详解：理解现代微服务架构的基石
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, microservices, architecture]
+tags: [api-gateway]
 published: true
 ---
 

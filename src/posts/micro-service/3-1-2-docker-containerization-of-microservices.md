@@ -2,7 +2,7 @@
 title: Docker容器化微服务：构建轻量级可移植的应用环境
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, docker, containerization]
+tags: [micro-service]
 published: true
 ---
 

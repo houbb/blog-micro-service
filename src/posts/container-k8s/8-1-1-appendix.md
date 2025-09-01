@@ -2,7 +2,7 @@
 title: Kubernetes附录：实用工具与最佳实践
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, appendix, tools, best-practices, troubleshooting]
+tags: [container-k8s]
 published: true
 ---
 

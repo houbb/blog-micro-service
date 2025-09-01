@@ -2,7 +2,7 @@
 title: 日志与监控的智能化发展概述：构建AI驱动的可观察性体系
 date: 2025-08-31
 categories: [Microservices, AI, Logging, Monitoring, Intelligence]
-tags: [microservices, ai, ml, logging, monitoring, intelligence, observability]
+tags: [log-monitor]
 published: true
 ---
 

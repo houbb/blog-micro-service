@@ -2,7 +2,7 @@
 title: Performance Monitoring and Diagnostic Tools - Mastering Container Observability
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, monitoring, diagnostics, observability, containers]
+tags: [container-docker]
 published: true
 ---
 

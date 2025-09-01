@@ -2,7 +2,7 @@
 title: 使用 Salt 状态管理配置：声明式配置管理的核心实践
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [saltstack, states, configuration-management, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

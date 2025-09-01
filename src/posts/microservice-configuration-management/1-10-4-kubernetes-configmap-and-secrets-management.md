@@ -2,7 +2,7 @@
 title: 10.4 Kubernetes ConfigMap和Secrets管理：安全高效的配置管理机制
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [kubernetes, configmap, secrets, configuration-management, security, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

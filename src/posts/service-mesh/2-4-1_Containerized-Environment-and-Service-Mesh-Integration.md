@@ -2,7 +2,7 @@
 title: 容器化环境与服务网格的深度集成：构建云原生通信基础设施
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, containerization, docker, kubernetes, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

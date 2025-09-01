@@ -2,7 +2,7 @@
 title: 边缘计算与虚拟化技术：分布式计算环境的实现
 date: 2025-08-31
 categories: [Virtualization, Edge Computing, Distributed Systems]
-tags: [edge computing, virtualization, distributed computing, iot, 5g]
+tags: [container-vm]
 published: true
 ---
 

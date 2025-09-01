@@ -2,7 +2,7 @@
 title: 配置管理的基本原则详解：构建稳健配置管理体系的核心理念
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, management, principles, fundamentals]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 基于虚拟机与裸金属环境的服务网格：传统基础设施的现代化改造
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, vm, bare-metal, hybrid, legacy-system]
+tags: [service-mesh]
 published: true
 ---
 

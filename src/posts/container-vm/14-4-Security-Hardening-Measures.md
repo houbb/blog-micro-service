@@ -2,7 +2,7 @@
 title: 虚拟化安全加固措施：加密、审计与访问控制的综合防护体系
 date: 2025-08-31
 categories: [Virtualization, Security]
-tags: [security hardening, encryption, auditing, access control, virtualization security]
+tags: [container-vm]
 published: true
 ---
 

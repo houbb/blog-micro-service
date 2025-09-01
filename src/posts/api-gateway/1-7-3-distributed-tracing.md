@@ -2,7 +2,7 @@
 title: 分布式追踪：API 网关的端到端请求追踪能力
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, distributed-tracing, opentelemetry, jaeger, zipkin, microservices]
+tags: [api-gateway]
 published: true
 ---
 

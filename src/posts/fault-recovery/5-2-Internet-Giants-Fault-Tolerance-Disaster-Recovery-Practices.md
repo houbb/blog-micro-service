@@ -2,7 +2,7 @@
 title: 互联网巨头的容错与灾备实践：Netflix、Google、阿里巴巴的高可用性之道
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [internet-giants, netflix, google, alibaba, best-practices]
+tags: [fault-recovery]
 published: true
 ---
 

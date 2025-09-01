@@ -2,7 +2,7 @@
 title: 重试策略与断路器实现：构建弹性微服务调用机制
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, retry, circuit breaker, resilience4j, hystrix, fault tolerance]
+tags: [micro-service]
 published: true
 ---
 

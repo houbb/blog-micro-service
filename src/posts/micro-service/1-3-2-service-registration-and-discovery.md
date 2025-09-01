@@ -2,7 +2,7 @@
 title: 微服务的服务注册与发现：实现动态服务管理
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, service-discovery, registration]
+tags: [micro-service]
 published: true
 ---
 

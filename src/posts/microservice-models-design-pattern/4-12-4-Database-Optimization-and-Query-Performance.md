@@ -2,7 +2,7 @@
 title: 数据库优化与查询性能：提升微服务数据访问效率的关键策略
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, database optimization, query performance, sql tuning]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

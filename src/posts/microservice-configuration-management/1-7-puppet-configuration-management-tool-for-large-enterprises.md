@@ -2,7 +2,7 @@
 title: Puppet：适合大规模企业的配置管理工具
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, puppet, automation, devops, enterprise]
+tags: [microservice-configuration-management]
 published: true
 ---
 

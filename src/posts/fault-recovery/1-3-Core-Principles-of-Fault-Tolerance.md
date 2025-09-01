@@ -2,7 +2,7 @@
 title: 容错的核心原则
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [fault-tolerance, principles, reliability]
+tags: [fault-recovery]
 published: true
 ---
 

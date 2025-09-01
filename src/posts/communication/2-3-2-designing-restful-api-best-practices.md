@@ -2,7 +2,7 @@
 title: 设计RESTful API最佳实践：构建高质量Web服务的指南
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [restful-api, api-design, best-practices, web-services]
+tags: [communication]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务架构的优势与适用场景：何时选择微服务架构
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, scalability, use-cases]
+tags: [microservice-architecture-management]
 published: true
 ---
 

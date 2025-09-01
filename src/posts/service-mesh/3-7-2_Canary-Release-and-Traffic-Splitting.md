@@ -2,7 +2,7 @@
 title: 灰度发布与流量拆分：安全可靠的版本升级策略
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, canary-release, traffic-splitting, deployment, istio]
+tags: [service-mesh]
 published: true
 ---
 

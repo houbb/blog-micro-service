@@ -2,7 +2,7 @@
 title: 事件溯源与 CQRS：构建可审计的高性能微服务系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, event sourcing, cqrs, distributed systems, auditability]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

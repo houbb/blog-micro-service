@@ -2,7 +2,7 @@
 title: Kubernetes安全基础：构建安全可靠的容器化平台
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, security, rbac, authentication, authorization]
+tags: [container-k8s]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 配置与敏感信息管理：环境隔离与密钥管理的最佳实践
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [secrets-management, environment-isolation, security, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 高阶与未来趋势概述：容错与灾备技术的前沿探索
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [advanced-topics, future-trends, ai, serverless, edge-computing]
+tags: [fault-recovery]
 published: true
 ---
 

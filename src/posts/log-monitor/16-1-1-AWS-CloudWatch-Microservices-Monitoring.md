@@ -2,7 +2,7 @@
 title: AWS CloudWatch与微服务监控实践：构建云原生监控体系
 date: 2025-08-31
 categories: [Microservices, AWS, CloudWatch, Monitoring]
-tags: [microservices, aws, cloudwatch, monitoring, cloud-native, devops]
+tags: [log-monitor]
 published: true
 ---
 

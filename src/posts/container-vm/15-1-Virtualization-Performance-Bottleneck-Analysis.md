@@ -2,7 +2,7 @@
 title: 虚拟化性能瓶颈的分析与优化：识别资源争用与系统瓶颈的关键技术
 date: 2025-08-31
 categories: [Virtualization, Performance Optimization]
-tags: [performance optimization, bottleneck analysis, resource contention, virtualization tuning]
+tags: [container-vm]
 published: true
 ---
 

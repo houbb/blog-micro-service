@@ -2,7 +2,7 @@
 title: Kubernetes网络管理与安全：构建安全高效的容器网络
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, networking, cni, network-policy, security]
+tags: [container-k8s]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: API 网关的安全性与可观测性：构建可信的分布式系统
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, security, observability, microservices]
+tags: [api-gateway]
 published: true
 ---
 

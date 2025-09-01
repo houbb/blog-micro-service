@@ -2,7 +2,7 @@
 title: 9.1 微服务架构中的配置管理挑战：应对分布式系统的复杂性
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [microservices, configuration-management, distributed-systems, challenges, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

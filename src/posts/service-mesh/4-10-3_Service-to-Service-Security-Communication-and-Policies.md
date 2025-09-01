@@ -2,7 +2,7 @@
 title: 服务间安全通信与策略：构建可信的微服务生态系统
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, service-to-service, security, communication, policies, istio]
+tags: [service-mesh]
 published: true
 ---
 

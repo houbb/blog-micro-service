@@ -2,7 +2,7 @@
 title: 安全性：身份认证、加密与访问控制的全面防护
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, security, authentication, encryption, access-control, mTLS]
+tags: [service-mesh]
 published: true
 ---
 

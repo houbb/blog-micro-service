@@ -2,7 +2,7 @@
 title: 限流、熔断、降级：API 网关的稳定性保障机制
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, rate-limiting, circuit-breaking, degradation, stability]
+tags: [api-gateway]
 published: true
 ---
 

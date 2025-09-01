@@ -2,7 +2,7 @@
 title: 性能瓶颈识别与解决方案：精准定位并消除服务网格性能障碍
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, performance-bottleneck, bottleneck-identification, optimization, istio, kubernetes, troubleshooting]
+tags: [service-mesh]
 published: true
 ---
 

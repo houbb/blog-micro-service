@@ -2,7 +2,7 @@
 title: Multi-Stage Build Efficiency - Advanced Docker Build Optimization
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, build, multi-stage, optimization]
+tags: [container-docker]
 published: true
 ---
 

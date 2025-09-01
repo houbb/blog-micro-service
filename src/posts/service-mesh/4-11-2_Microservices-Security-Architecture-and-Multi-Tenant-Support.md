@@ -2,7 +2,7 @@
 title: 微服务安全架构与多租户支持：构建企业级安全解决方案
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, security-architecture, multi-tenant, enterprise-security, istio, zero-trust]
+tags: [service-mesh]
 published: true
 ---
 

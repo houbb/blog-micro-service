@@ -2,7 +2,7 @@
 title: 微服务的日志与监控：构建可观测的分布式系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, logging, monitoring, observability]
+tags: [micro-service]
 published: true
 ---
 

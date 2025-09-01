@@ -2,7 +2,7 @@
 title: 发布-订阅模式与事件总线：构建松耦合的微服务通信机制
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, publish-subscribe, event bus, messaging]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

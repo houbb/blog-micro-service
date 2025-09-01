@@ -2,7 +2,7 @@
 title: SaltStack 的架构与执行方式：理解高性能自动化的核心机制
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [saltstack, architecture, execution, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

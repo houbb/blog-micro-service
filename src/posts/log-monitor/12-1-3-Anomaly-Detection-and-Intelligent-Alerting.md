@@ -2,7 +2,7 @@
 title: 异常检测与智能告警：基于AI/ML的下一代监控告警系统
 date: 2025-08-31
 categories: [Microservices, Alerting, AI/ML]
-tags: [microservices, alerting, anomaly-detection, machine-learning, ai]
+tags: [log-monitor]
 published: true
 ---
 

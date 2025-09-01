@@ -2,7 +2,7 @@
 title: 附录A：常用微服务工具与框架
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, tools, frameworks]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

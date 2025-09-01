@@ -2,7 +2,7 @@
 title: 可视化微服务调用链：构建直观的分布式系统视图
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, distributed-tracing, call-chain-visualization, observability, jaeger, zipkin, d3js]
+tags: [service-mesh]
 published: true
 ---
 

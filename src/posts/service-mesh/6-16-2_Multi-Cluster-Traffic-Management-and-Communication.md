@@ -2,7 +2,7 @@
 title: 多集群流量管理与通信：实现跨集群的智能服务路由
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, multi-cluster, traffic-management, kubernetes, istio, routing]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: REST架构风格基础：理解现代Web服务的设计原则
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [rest, architecture, web-services, http]
+tags: [communication]
 published: true
 ---
 

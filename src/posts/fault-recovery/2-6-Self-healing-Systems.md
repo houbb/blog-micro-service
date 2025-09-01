@@ -2,7 +2,7 @@
 title: 自愈系统 (Self-healing Systems)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [self-healing, automation, fault-tolerance, aiops]
+tags: [fault-recovery]
 published: true
 ---
 

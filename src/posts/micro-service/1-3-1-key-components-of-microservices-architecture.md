@@ -2,7 +2,7 @@
 title: 微服务架构的关键组件：构建可靠的分布式系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, architecture, components]
+tags: [micro-service]
 published: true
 ---
 

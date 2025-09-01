@@ -2,7 +2,7 @@
 title: 配置文件审计与变更管理：建立可靠的配置治理体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-audit, change-management, compliance, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

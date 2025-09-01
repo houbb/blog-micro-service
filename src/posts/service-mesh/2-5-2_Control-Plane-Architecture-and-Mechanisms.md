@@ -2,7 +2,7 @@
 title: 控制平面：架构与工作机制的深度解析
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, control-plane, architecture, mechanisms, configuration-management]
+tags: [service-mesh]
 published: true
 ---
 

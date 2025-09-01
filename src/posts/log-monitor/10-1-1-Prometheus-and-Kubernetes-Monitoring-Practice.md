@@ -2,7 +2,7 @@
 title: Prometheus与Kubernetes监控实践：构建云原生监控体系
 date: 2025-08-31
 categories: [Microservices, Monitoring, Kubernetes]
-tags: [microservices, monitoring, prometheus, kubernetes, prometheus-operator, service-discovery]
+tags: [log-monitor]
 published: true
 ---
 

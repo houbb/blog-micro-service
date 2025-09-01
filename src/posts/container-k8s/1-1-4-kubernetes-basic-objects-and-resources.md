@@ -2,7 +2,7 @@
 title: Kubernetes基本对象与资源：构建云原生应用的核心构件
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, objects, resources, kubectl]
+tags: [container-k8s]
 published: true
 ---
 

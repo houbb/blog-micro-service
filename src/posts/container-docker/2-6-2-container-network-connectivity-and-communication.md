@@ -2,7 +2,7 @@
 title: Container Network Connectivity and Communication - Building Reliable Container Networks
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, networking, containers, communication]
+tags: [container-docker]
 published: true
 ---
 

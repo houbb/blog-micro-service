@@ -2,7 +2,7 @@
 title: 服务网格中的延迟与吞吐量优化：构建高性能的微服务通信
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, latency-optimization, throughput-optimization, istio, kubernetes, performance, microservices]
+tags: [service-mesh]
 published: true
 ---
 

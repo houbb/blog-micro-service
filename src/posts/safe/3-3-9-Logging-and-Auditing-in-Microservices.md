@@ -2,7 +2,7 @@
 title: 微服务中的日志与审计：构建全面的安全监控与合规体系
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, logging, auditing, siem]
+tags: [safe]
 published: true
 ---
 

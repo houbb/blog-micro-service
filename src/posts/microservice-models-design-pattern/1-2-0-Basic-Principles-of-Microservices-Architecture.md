@@ -2,7 +2,7 @@
 title: 微服务架构的基本原则：构建可靠微服务系统的基石
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, architecture, principles]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

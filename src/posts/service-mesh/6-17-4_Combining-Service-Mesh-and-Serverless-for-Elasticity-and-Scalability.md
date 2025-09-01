@@ -2,7 +2,7 @@
 title: 结合服务网格与无服务器架构实现弹性与可扩展性：构建高可用的现代化应用平台
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, serverless, elasticity, scalability, kubernetes, istio, knative]
+tags: [service-mesh]
 published: true
 ---
 

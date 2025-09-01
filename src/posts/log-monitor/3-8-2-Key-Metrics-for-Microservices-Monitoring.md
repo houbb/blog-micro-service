@@ -2,7 +2,7 @@
 title: 微服务监控的关键指标：构建全面的系统观测体系
 date: 2025-08-31
 categories: [Microservices, Monitoring]
-tags: [microservices, monitoring, metrics, performance, sre]
+tags: [log-monitor]
 published: true
 ---
 

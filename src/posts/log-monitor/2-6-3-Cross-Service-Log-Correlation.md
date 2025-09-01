@@ -2,7 +2,7 @@
 title: 跨服务日志关联：构建完整的请求追踪视图
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, log-correlation, distributed-tracing, observability]
+tags: [log-monitor]
 published: true
 ---
 

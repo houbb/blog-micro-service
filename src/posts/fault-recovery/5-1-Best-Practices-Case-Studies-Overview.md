@@ -2,7 +2,7 @@
 title: 最佳实践与案例概述：从理论到现实世界的容错与灾备应用
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [best-practices, case-studies]
+tags: [fault-recovery]
 published: true
 ---
 

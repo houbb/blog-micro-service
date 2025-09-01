@@ -2,7 +2,7 @@
 title: 微服务与DevOps：构建高效协同的软件交付体系
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, devops, ci/cd, automation, culture]
+tags: [micro-service]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: DevOps从入门到精通：构建高效软件交付体系的完整指南
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, introduction, guide]
+tags: [devops]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务架构中的设计模式：构建弹性分布式系统的核心模式
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, design patterns, architecture]
+tags: [micro-service]
 published: true
 ---
 

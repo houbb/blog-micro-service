@@ -2,7 +2,7 @@
 title: 微服务架构与服务网格的深度集成：现代化分布式系统的核心构建块
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, microservices, integration, architecture, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

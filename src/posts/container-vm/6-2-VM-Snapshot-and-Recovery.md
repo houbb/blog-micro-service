@@ -2,7 +2,7 @@
 title: 虚拟机快照与恢复技术深度解析：原理、实践与最佳策略
 date: 2025-08-31
 categories: [Virtualization]
-tags: [vm snapshot, recovery, backup, virtualization, disaster recovery]
+tags: [container-vm]
 published: true
 ---
 

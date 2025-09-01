@@ -2,7 +2,7 @@
 title: 虚拟机操作详解：启动、暂停、关闭与状态管理
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtual machine, vm operations, start, pause, shutdown, state management]
+tags: [container-vm]
 published: true
 ---
 

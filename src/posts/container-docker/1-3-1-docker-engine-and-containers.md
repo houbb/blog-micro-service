@@ -2,7 +2,7 @@
 title: Docker Engine and Containers - Understanding the Core Components
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, engine, containers, architecture]
+tags: [container-docker]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: A/B测试与金丝雀发布：精准的用户体验优化策略
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, ab-testing, canary-release, user-experience, istio]
+tags: [service-mesh]
 published: true
 ---
 

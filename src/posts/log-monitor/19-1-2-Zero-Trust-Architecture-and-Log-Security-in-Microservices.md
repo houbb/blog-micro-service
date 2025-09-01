@@ -2,7 +2,7 @@
 title: 微服务中的零信任架构与日志安全：构建安全可信的可观察性体系
 date: 2025-08-31
 categories: [Microservices, Security, Zero-Trust, Logging, Observability]
-tags: [microservices, security, zero-trust, logging, observability, authentication, authorization, encryption]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 虚拟机与容器化技术全面对比：架构差异与应用场景
 date: 2025-08-31
 categories: [Virtualization, Containerization]
-tags: [virtual machine, container, docker, kubernetes, comparison]
+tags: [container-vm]
 published: true
 ---
 

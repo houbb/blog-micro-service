@@ -2,7 +2,7 @@
 title: 设计微服务架构：从服务划分到通信协议的全面指南
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, design, communication]
+tags: [microservice-architecture-management]
 published: true
 ---
 

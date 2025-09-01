@@ -2,7 +2,7 @@
 title: Deploying and Managing Docker Container Clusters with Kubernetes - Mastering Large-Scale Container Orchestration
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, kubernetes, clusters, orchestration]
+tags: [container-docker]
 published: true
 ---
 

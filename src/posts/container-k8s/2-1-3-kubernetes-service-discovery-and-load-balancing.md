@@ -2,7 +2,7 @@
 title: Kubernetes服务发现与负载均衡：构建可靠的微服务通信
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, service, discovery, load-balancing, ingress]
+tags: [container-k8s]
 published: true
 ---
 

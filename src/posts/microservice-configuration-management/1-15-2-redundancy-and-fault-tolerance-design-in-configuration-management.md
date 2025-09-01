@@ -2,7 +2,7 @@
 title: 配置管理的冗余与容错设计：构建稳定可靠的配置基础设施
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [redundancy, fault-tolerance, configuration-management, high-availability, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

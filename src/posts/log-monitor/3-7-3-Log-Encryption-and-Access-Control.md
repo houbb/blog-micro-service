@@ -2,7 +2,7 @@
 title: 日志加密与访问控制：构建安全可靠的日志管理系统
 date: 2025-08-31
 categories: [Microservices, Logging, Security]
-tags: [microservices, logging, encryption, access-control, security, tls, aes]
+tags: [log-monitor]
 published: true
 ---
 

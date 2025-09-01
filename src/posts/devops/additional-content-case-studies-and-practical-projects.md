@@ -2,7 +2,7 @@
 title: 附加内容：实战案例与企业实践
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, case-studies, practical-projects, additional-content]
+tags: [devops]
 published: true
 ---
 

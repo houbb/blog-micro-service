@@ -2,7 +2,7 @@
 title: 日志分析与故障排查：构建高效的运维诊断体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, log-analysis, troubleshooting, diagnostics, observability, kibana, elasticsearch]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 安全审计与日志管理：构建可追溯的安全防护体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, security, audit, log-management, istio, compliance]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 第 II 篇 容错机制与模式 概述
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [fault-tolerance, patterns, mechanisms]
+tags: [fault-recovery]
 published: true
 ---
 

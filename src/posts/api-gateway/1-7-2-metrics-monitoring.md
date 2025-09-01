@@ -2,7 +2,7 @@
 title: Metrics 指标监控：API 网关的性能与健康度量
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, metrics, monitoring, prometheus, grafana, microservices]
+tags: [api-gateway]
 published: true
 ---
 

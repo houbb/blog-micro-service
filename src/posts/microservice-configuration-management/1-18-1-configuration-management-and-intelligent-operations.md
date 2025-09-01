@@ -2,7 +2,7 @@
 title: 配置管理与智能化运维：AI驱动的配置优化与自动化
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ai-ops, intelligent-operations, configuration-management, machine-learning, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

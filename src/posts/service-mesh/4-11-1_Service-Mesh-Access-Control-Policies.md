@@ -2,7 +2,7 @@
 title: 服务网格中的访问控制策略：构建精细化的权限管理体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, access-control, security, policies, istio, rbac, abac]
+tags: [service-mesh]
 published: true
 ---
 

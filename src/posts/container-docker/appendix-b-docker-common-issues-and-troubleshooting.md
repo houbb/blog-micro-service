@@ -2,7 +2,7 @@
 title: Appendix B - Docker Common Issues and Troubleshooting Guide
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, troubleshooting, issues, debug]
+tags: [container-docker]
 published: true
 ---
 

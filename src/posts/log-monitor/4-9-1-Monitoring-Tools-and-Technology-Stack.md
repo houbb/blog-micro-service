@@ -2,7 +2,7 @@
 title: 微服务监控工具与技术栈：构建现代化观测平台
 date: 2025-08-31
 categories: [Microservices, Monitoring]
-tags: [microservices, monitoring, prometheus, grafana, opentelemetry, technology-stack]
+tags: [log-monitor]
 published: true
 ---
 

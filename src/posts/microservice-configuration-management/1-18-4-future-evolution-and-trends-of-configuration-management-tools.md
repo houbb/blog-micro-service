@@ -2,7 +2,7 @@
 title: 配置管理工具的未来演化与趋势：下一代配置管理工具的特性与发展方向
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, tools, future-trends, ai, machine-learning, gitops, cloud-native]
+tags: [microservice-configuration-management]
 published: true
 ---
 

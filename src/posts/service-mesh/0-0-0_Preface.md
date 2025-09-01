@@ -2,7 +2,7 @@
 title: 前言：服务网格从入门到精通之旅
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, preface, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

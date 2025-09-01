@@ -2,7 +2,7 @@
 title: Quantum Computing and Docker Integration - Exploring the Future of Computing Paradigms
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, quantum-computing, future, containers, hybrid-computing]
+tags: [container-docker]
 published: true
 ---
 

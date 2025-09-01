@@ -2,7 +2,7 @@
 title: 第一个 Docker 容器
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, containers, first-container]
+tags: [container-docker]
 published: true
 ---
 

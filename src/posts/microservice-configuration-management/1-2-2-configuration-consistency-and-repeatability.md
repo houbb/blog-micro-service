@@ -2,7 +2,7 @@
 title: 配置的一致性与可重复性：确保系统稳定可靠的基石
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, consistency, repeatability, reliability, infrastructure]
+tags: [microservice-configuration-management]
 published: true
 ---
 

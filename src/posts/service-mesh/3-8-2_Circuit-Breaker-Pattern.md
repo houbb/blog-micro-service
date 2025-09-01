@@ -2,7 +2,7 @@
 title: 断路器模式：防止故障级联传播的关键机制
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, circuit-breaker, fault-tolerance, resilience, istio]
+tags: [service-mesh]
 published: true
 ---
 

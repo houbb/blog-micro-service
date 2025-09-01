@@ -2,7 +2,7 @@
 title: 附录A：配置管理工具对比（Ansible, Chef, Puppet, SaltStack）
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, tools, comparison, ansible, chef, puppet, saltstack]
+tags: [microservice-configuration-management]
 published: true
 ---
 

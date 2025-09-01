@@ -2,7 +2,7 @@
 title: 手动配置的局限性：为何我们需要自动化配置管理
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, manual, limitations, automation, efficiency]
+tags: [microservice-configuration-management]
 published: true
 ---
 

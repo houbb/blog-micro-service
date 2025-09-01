@@ -2,7 +2,7 @@
 title: CI/CD流水线与基础设施即代码：实现微服务自动化交付
 date: 2025-08-31
 categories: [Microservices]
-tags: [devops, ci/cd, infrastructure as code, automation, kubernetes, docker]
+tags: [micro-service]
 published: true
 ---
 

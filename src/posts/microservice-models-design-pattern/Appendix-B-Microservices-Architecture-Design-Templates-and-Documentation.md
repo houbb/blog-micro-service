@@ -2,7 +2,7 @@
 title: 附录B：微服务架构的设计模板与文档
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, design templates, documentation]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

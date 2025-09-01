@@ -2,7 +2,7 @@
 title: 面向未来的服务间通信策略：构建下一代微服务架构的路线图
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [future, strategies, microservices, communication, architecture, cloud-native]
+tags: [communication]
 published: true
 ---
 

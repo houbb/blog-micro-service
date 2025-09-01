@@ -2,7 +2,7 @@
 title: 微服务的安全通信与加密：保护分布式系统中的数据传输
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, secure communication, encryption, tls, mTLS]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

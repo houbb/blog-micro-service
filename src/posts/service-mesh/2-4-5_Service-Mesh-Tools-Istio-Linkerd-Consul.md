@@ -2,7 +2,7 @@
 title: 使用Istio、Linkerd、Consul等服务网格工具：主流实现对比与选择指南
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, istio, linkerd, consul, comparison, selection]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Ansible的基本概念与架构：理解自动化配置管理的核心
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ansible, architecture, concepts, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

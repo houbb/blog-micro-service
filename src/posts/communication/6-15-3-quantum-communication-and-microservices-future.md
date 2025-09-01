@@ -2,7 +2,7 @@
 title: 量子通信与微服务架构的未来：探索下一代分布式系统的无限可能
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [quantum-communication, future, microservices, security, distributed-computing]
+tags: [communication]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务设计中的常见陷阱与解决方案：实施过程中的误区与应对策略
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, design pitfalls, solutions]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

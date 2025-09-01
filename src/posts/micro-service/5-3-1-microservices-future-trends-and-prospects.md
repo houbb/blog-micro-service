@@ -2,7 +2,7 @@
 title: 微服务架构的未来趋势与展望：探索下一代分布式系统的发展方向
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, future trends, ai, edge computing, blockchain, multi-cloud]
+tags: [micro-service]
 published: true
 ---
 

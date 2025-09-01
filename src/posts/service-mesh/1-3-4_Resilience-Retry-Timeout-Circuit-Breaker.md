@@ -2,7 +2,7 @@
 title: 弹性：重试、超时与断路器的容错机制
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, resilience, retry, timeout, circuit-breaker, fault-tolerance]
+tags: [service-mesh]
 published: true
 ---
 

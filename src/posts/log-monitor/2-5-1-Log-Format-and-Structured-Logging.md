@@ -2,7 +2,7 @@
 title: 日志格式与结构化日志：构建统一的日志标准
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, structured-logging, log-format, json]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务架构中的防火墙与边界保护：构建纵深防御的安全体系
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, firewall, perimeter protection, zero trust]
+tags: [safe]
 published: true
 ---
 

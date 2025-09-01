@@ -2,7 +2,7 @@
 title: 未来的挑战与趋势：容错与灾备技术的前沿展望
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [future, challenges, trends, quantum-computing, bio-inspired, green-it]
+tags: [fault-recovery]
 published: true
 ---
 

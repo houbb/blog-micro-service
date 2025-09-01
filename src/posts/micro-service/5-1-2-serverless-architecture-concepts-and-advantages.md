@@ -2,7 +2,7 @@
 title: 无服务器架构概念与优势：深入理解下一代云计算模式
 date: 2025-08-31
 categories: [Microservices]
-tags: [serverless, faas, cloud computing, scalability, cost optimization]
+tags: [micro-service]
 published: true
 ---
 

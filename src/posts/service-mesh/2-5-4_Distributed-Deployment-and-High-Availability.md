@@ -2,7 +2,7 @@
 title: 服务网格的分布式部署与高可用性设计：构建稳定可靠的通信基础设施
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, distributed-deployment, high-availability, multi-cluster, fault-tolerance]
+tags: [service-mesh]
 published: true
 ---
 

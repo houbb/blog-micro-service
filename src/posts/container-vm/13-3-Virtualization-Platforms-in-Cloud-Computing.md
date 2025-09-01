@@ -2,7 +2,7 @@
 title: 虚拟化平台在云计算中的应用：主流虚拟化技术与云服务集成实践
 date: 2025-08-31
 categories: [Virtualization, Cloud Computing]
-tags: [virtualization platforms, cloud computing, vmware, hyper-v, kvm, openstack]
+tags: [container-vm]
 published: true
 ---
 

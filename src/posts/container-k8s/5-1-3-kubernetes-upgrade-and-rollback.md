@@ -2,7 +2,7 @@
 title: Kubernetes升级与回滚：确保集群平滑演进的策略
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, upgrade, rollback, kubeadm, version-management]
+tags: [container-k8s]
 published: true
 ---
 

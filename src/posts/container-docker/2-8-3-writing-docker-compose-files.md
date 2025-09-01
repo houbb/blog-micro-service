@@ -2,7 +2,7 @@
 title: Writing docker-compose.yml Files - Mastering Compose Configuration
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, compose, yaml, configuration]
+tags: [container-docker]
 published: true
 ---
 

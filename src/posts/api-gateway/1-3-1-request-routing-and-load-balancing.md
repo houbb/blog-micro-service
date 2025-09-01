@@ -2,7 +2,7 @@
 title: 请求路由与负载均衡：API 网关的核心功能详解
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, routing, load-balancing, microservices]
+tags: [api-gateway]
 published: true
 ---
 

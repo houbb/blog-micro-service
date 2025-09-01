@@ -2,7 +2,7 @@
 title: Kubernetes与CI/CD：实现持续集成与持续交付的云原生实践
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, ci-cd, devops, automation, deployment]
+tags: [container-k8s]
 published: true
 ---
 

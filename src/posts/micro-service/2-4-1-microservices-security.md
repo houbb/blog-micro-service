@@ -2,7 +2,7 @@
 title: 微服务的安全性：构建安全可靠的分布式系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, security, oauth, jwt]
+tags: [micro-service]
 published: true
 ---
 

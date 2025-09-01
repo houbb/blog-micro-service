@@ -2,7 +2,7 @@
 title: 虚拟机与容器的安全性对比：架构差异、风险评估与防护策略
 date: 2025-08-31
 categories: [Virtualization, Security, Containers]
-tags: [vm security, container security, security comparison, isolation, vulnerabilities]
+tags: [container-vm]
 published: true
 ---
 

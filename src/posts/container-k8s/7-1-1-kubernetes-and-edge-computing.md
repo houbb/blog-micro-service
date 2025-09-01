@@ -2,7 +2,7 @@
 title: Kubernetes与边缘计算：构建分布式智能的未来
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, edge-computing, distributed-systems, iot, k3s]
+tags: [container-k8s]
 published: true
 ---
 

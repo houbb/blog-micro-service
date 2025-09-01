@@ -2,7 +2,7 @@
 title: 使用Envoy代理进行日志采集：构建高效的服务网格日志体系
 date: 2025-08-31
 categories: [Microservices, Service Mesh, Envoy, Logging]
-tags: [microservices, service-mesh, envoy, logging, log-collection, observability]
+tags: [log-monitor]
 published: true
 ---
 

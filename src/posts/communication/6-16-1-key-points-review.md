@@ -2,7 +2,7 @@
 title: 关键要点回顾：微服务服务间通信的核心概念与技术体系
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [key-points, review, microservices, communication, architecture]
+tags: [communication]
 published: true
 ---
 

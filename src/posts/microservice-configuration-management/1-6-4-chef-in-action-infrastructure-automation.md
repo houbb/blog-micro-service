@@ -2,7 +2,7 @@
 title: Chef 实战：基础设施自动化 - 从理论到实践的完整指南
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [chef, infrastructure-automation, devops, automation,实战]
+tags: [microservice-configuration-management]
 published: true
 ---
 

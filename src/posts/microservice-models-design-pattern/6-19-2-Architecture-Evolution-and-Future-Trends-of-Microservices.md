@@ -2,7 +2,7 @@
 title: 架构演进与微服务的未来趋势：发展方向与技术融合
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, architecture evolution, future trends]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

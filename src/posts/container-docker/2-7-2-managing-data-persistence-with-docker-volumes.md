@@ -2,7 +2,7 @@
 title: Managing Data Persistence with Docker Volumes - Ensuring Data Safety and Reliability
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, volumes, data-persistence, storage]
+tags: [container-docker]
 published: true
 ---
 

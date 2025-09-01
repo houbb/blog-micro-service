@@ -2,7 +2,7 @@
 title: 微服务架构中的部署模式：构建可靠的持续交付体系
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, deployment patterns, ci/cd, kubernetes, docker]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

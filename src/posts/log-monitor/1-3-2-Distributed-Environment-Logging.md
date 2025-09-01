@@ -2,7 +2,7 @@
 title: 分布式环境中的日志管理：挑战与解决方案
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, distributed-systems, log-management]
+tags: [log-monitor]
 published: true
 ---
 

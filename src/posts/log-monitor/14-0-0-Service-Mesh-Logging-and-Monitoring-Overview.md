@@ -2,7 +2,7 @@
 title: 服务网格日志与监控概述：构建下一代可观察性体系
 date: 2025-08-31
 categories: [Microservices, Service Mesh, Logging, Monitoring]
-tags: [microservices, service-mesh, istio, envoy, logging, monitoring, observability]
+tags: [log-monitor]
 published: true
 ---
 

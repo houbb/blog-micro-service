@@ -2,7 +2,7 @@
 title: API 网关的架构模式：构建可扩展的微服务入口
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, architecture, microservices, patterns, scalability]
+tags: [api-gateway]
 published: true
 ---
 

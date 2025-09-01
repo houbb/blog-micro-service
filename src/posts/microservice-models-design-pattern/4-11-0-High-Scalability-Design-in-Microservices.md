@@ -2,7 +2,7 @@
 title: 微服务的高可扩展性设计：构建可伸缩的分布式系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, scalability, distributed systems, performance]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Docker and Cloud Platforms - Deploying Containerized Applications in the Cloud
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, cloud, aws, azure, gcp]
+tags: [container-docker]
 published: true
 ---
 

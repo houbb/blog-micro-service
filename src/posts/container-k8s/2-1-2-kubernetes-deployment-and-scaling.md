@@ -2,7 +2,7 @@
 title: Kubernetes部署与扩缩容：实现应用的弹性与高可用
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, deployment, scaling, replicas, updates]
+tags: [container-k8s]
 published: true
 ---
 

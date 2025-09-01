@@ -2,7 +2,7 @@
 title: 使用TLS进行通信加密：保障服务间数据传输安全
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, tls, encryption, security, istio]
+tags: [service-mesh]
 published: true
 ---
 

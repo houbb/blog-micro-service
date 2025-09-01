@@ -2,7 +2,7 @@
 title: Container Resource Management - Mastering CPU, Memory, and Disk Optimization
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, resources, cpu, memory, disk, optimization]
+tags: [container-docker]
 published: true
 ---
 

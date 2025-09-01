@@ -2,7 +2,7 @@
 title: Docker容器管理全攻略：创建、运行、监控与故障排除
 date: 2025-08-31
 categories: [Containerization]
-tags: [docker, container management, docker run, docker exec, monitoring, troubleshooting]
+tags: [container-vm]
 published: true
 ---
 

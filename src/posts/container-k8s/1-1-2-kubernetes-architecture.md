@@ -2,7 +2,7 @@
 title: Kubernetes体系架构：掌控云原生的核心组件
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, architecture, control-plane, nodes]
+tags: [container-k8s]
 published: true
 ---
 

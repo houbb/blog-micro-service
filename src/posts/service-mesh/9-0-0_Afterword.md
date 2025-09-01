@@ -2,7 +2,7 @@
 title: 后记：服务网格技术的未来展望与学习建议
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, afterword, future, learning, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Kubernetes容器日志与监控：实现全面的可观测性
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, logging, monitoring, prometheus, grafana, efk]
+tags: [container-k8s]
 published: true
 ---
 

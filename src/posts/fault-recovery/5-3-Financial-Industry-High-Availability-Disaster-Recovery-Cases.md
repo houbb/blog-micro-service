@@ -2,7 +2,7 @@
 title: 金融行业的高可用与容灾案例：银行业与证券业的容错之道
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [financial-industry, banking, securities, high-availability]
+tags: [fault-recovery]
 published: true
 ---
 

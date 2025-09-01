@@ -2,7 +2,7 @@
 title: 集成Prometheus、Grafana与服务网格：构建可视化监控体系
 date: 2025-08-31
 categories: [Microservices, Service Mesh, Prometheus, Grafana, Monitoring]
-tags: [microservices, service-mesh, prometheus, grafana, monitoring, visualization]
+tags: [log-monitor]
 published: true
 ---
 

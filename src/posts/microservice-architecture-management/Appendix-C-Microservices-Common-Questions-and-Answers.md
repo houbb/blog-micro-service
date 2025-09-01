@@ -2,7 +2,7 @@
 title: 微服务常见问题与解答：实践中的挑战与解决方案
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, faq, troubleshooting]
+tags: [microservice-architecture-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 创建虚拟机的完整指南：从基础设置到高级配置
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtual machine, vm creation, configuration, setup, virtualization]
+tags: [container-vm]
 published: true
 ---
 

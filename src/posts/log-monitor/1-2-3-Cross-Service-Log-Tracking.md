@@ -2,7 +2,7 @@
 title: 跨服务日志跟踪：实现微服务架构中的端到端可见性
 date: 2025-08-31
 categories: [Microservices, Observability, Logging]
-tags: [microservices, logging, distributed-tracing, observability]
+tags: [log-monitor]
 published: true
 ---
 

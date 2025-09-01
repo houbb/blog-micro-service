@@ -2,7 +2,7 @@
 title: 微服务架构总结与展望：未来发展趋势与技术演进
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, summary, future, trends]
+tags: [microservice-architecture-management]
 published: true
 ---
 

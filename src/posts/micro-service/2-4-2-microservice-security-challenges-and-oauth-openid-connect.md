@@ -2,7 +2,7 @@
 title: 微服务架构中的安全挑战与OAuth/OpenID Connect
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, security, oauth, openid-connect]
+tags: [micro-service]
 published: true
 ---
 

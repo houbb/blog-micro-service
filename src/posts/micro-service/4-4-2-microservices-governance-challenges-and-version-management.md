@@ -2,7 +2,7 @@
 title: 微服务治理挑战与版本管理：应对复杂分布式系统的治理难题
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, governance, version management, api compatibility, service mesh]
+tags: [micro-service]
 published: true
 ---
 

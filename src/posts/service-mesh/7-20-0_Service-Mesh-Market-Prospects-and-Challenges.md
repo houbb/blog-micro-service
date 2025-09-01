@@ -2,7 +2,7 @@
 title: 服务网格的市场前景与挑战：探索服务网格技术的商业价值与实施难点
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, market-prospects, challenges, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

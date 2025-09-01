@@ -2,7 +2,7 @@
 title: 日志与监控的自动化配置与管理：实现配置即代码的运维模式
 date: 2025-08-31
 categories: [Microservices, Logging, Monitoring, Configuration Management]
-tags: [microservices, logging, monitoring, configuration-management, gitops, devops]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 使用测试驱动开发（TDD）进行配置验证：确保配置质量的先行方法
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [tdd, configuration-validation, test-driven-development, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

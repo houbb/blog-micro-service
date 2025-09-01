@@ -2,7 +2,7 @@
 title: 10.1 容器化应用中的配置管理：构建可移植和可配置的容器应用
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [containerization, configuration-management, docker, immutable-infrastructure, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

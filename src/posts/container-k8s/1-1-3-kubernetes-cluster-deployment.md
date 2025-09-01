@@ -2,7 +2,7 @@
 title: Kubernetes集群部署：从本地开发到生产环境的完整指南
 date: 2025-08-31
 categories: [Kubernetes]
-tags: [kubernetes, deployment, minikube, kubeadm, cloud]
+tags: [container-k8s]
 published: true
 ---
 

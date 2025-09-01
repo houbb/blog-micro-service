@@ -2,7 +2,7 @@
 title: 分布式事务管理与补偿机制：保障微服务数据一致性
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, distributed transactions, saga, tcc, compensation, data consistency]
+tags: [micro-service]
 published: true
 ---
 

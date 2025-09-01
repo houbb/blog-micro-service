@@ -2,7 +2,7 @@
 title: 使用 Recipe 和 Cookbooks 管理配置：Chef 配置管理的核心实践
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [chef, recipes, cookbooks, configuration, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

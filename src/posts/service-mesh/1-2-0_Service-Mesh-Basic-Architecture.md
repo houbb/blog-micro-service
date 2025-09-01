@@ -2,7 +2,7 @@
 title: 服务网格基本架构：数据平面与控制平面的设计哲学
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, architecture, data-plane, control-plane]
+tags: [service-mesh]
 published: true
 ---
 

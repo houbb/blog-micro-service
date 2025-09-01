@@ -2,7 +2,7 @@
 title: 服务网格与微服务治理：构建统一的服务治理体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, microservices, governance, kubernetes, istio, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

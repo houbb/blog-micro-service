@@ -2,7 +2,7 @@
 title: 微服务的容错与恢复：构建高可用分布式系统的核心策略
 date: 2025-08-31
 categories: [Microservices]
-tags: [microservices, fault tolerance, recovery, resilience, high availability]
+tags: [micro-service]
 published: true
 ---
 

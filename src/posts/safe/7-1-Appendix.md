@@ -2,7 +2,7 @@
 title: 微服务安全附录：工具与技术清单
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, tools, appendix]
+tags: [safe]
 published: true
 ---
 

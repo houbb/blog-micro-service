@@ -2,7 +2,7 @@
 title: 无服务器架构基本概念：理解现代化应用开发的新范式
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [serverless, faas, cloud-native, microservices, kubernetes]
+tags: [service-mesh]
 published: true
 ---
 

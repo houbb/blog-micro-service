@@ -2,7 +2,7 @@
 title: 在AWS、Azure、Google Cloud中的配置管理：跨云平台的一致性策略
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [aws, azure, gcp, configuration-management, cloud-platform, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 基于消息队列的异步通信：构建解耦可靠的微服务系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, messaging, kafka, rabbitmq, async]
+tags: [micro-service]
 published: true
 ---
 

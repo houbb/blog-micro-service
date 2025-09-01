@@ -2,7 +2,7 @@
 title: 什么是DevOps？从历史发展到核心价值的全面解析
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, introduction, culture]
+tags: [devops]
 published: true
 ---
 

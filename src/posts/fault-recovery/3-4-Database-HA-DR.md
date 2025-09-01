@@ -2,7 +2,7 @@
 title: 数据库高可用与容灾 (Database HA & DR)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [database, high-availability, disaster-recovery, replication]
+tags: [fault-recovery]
 published: true
 ---
 

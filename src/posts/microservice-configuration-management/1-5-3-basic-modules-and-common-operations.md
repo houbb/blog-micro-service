@@ -2,7 +2,7 @@
 title: Ansible的基本模块与常用操作：构建自动化配置管理的核心组件
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ansible, modules, operations, automation, devops]
+tags: [microservice-configuration-management]
 published: true
 ---
 

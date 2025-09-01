@@ -2,7 +2,7 @@
 title: Serverless函数的日志记录与监控：构建高效的无服务器函数可观测性
 date: 2025-08-31
 categories: [Microservices, Serverless, Lambda, Functions, Logging, Monitoring]
-tags: [microservices, serverless, lambda, functions, logging, monitoring, observability, aws, azure, gcp]
+tags: [log-monitor]
 published: true
 ---
 

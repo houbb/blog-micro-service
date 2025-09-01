@@ -2,7 +2,7 @@
 title: 虚拟化技术发展史：从大型机到云计算的演进之路
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtualization, history, mainframe, cloud computing]
+tags: [container-vm]
 published: true
 ---
 

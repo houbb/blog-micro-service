@@ -2,7 +2,7 @@
 title: 领域驱动设计（DDD）与服务划分：从业务领域到微服务边界
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, domain-driven design, ddd, service partitioning]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

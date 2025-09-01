@@ -2,7 +2,7 @@
 title: 版本控制与代码管理：Git工作流与协作实践
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, version control, git, collaboration]
+tags: [devops]
 published: true
 ---
 

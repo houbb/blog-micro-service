@@ -2,7 +2,7 @@
 title: 日志采集：API 网关的运行状态记录机制
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, log-collection, structured-logging, log-analysis, microservices]
+tags: [api-gateway]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 监控与调优配置管理系统：构建可观测的配置管理体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [monitoring, performance-tuning, configuration-management, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

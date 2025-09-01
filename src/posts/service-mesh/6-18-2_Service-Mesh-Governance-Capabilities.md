@@ -2,7 +2,7 @@
 title: 服务网格的治理能力：为微服务提供全面的治理解决方案
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, governance, microservices, kubernetes, istio, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

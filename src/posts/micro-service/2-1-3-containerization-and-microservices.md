@@ -2,7 +2,7 @@
 title: 容器化与微服务：构建云原生的分布式系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, containerization, docker, kubernetes]
+tags: [micro-service]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 防止跨站脚本与注入攻击：微服务架构中的应用安全防护
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, security, xss, injection attacks, owasp]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

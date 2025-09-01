@@ -2,7 +2,7 @@
 title: 人工智能在虚拟化管理中的应用：智能监控与自动化运维
 date: 2025-08-31
 categories: [Virtualization, Artificial Intelligence]
-tags: [ai, virtualization, monitoring, automation,运维]
+tags: [container-vm]
 published: true
 ---
 

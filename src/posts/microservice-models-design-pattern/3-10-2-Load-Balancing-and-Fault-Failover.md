@@ -2,7 +2,7 @@
 title: 负载均衡与故障转移：微服务架构的高可用性保障
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, load balancing, fault failover, high availability]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

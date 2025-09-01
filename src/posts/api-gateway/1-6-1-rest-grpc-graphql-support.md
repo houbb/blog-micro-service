@@ -2,7 +2,7 @@
 title: REST、gRPC、GraphQL 支持详解：API 网关的多协议适配能力
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, rest, grpc, graphql, protocol, microservices]
+tags: [api-gateway]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 服务网格的性能优化：构建高效可靠的微服务架构
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, performance-optimization, istio, kubernetes, microservices, latency, throughput]
+tags: [service-mesh]
 published: true
 ---
 

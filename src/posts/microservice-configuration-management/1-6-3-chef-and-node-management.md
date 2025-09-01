@@ -2,7 +2,7 @@
 title: Chef 与 Node 管理：大规模环境下的配置治理策略
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [chef, node-management, scalability, devops, automation]
+tags: [microservice-configuration-management]
 published: true
 ---
 

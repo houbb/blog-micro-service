@@ -2,7 +2,7 @@
 title: 配置管理简介：现代IT基础设施的核心
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, management, infrastructure]
+tags: [microservice-configuration-management]
 published: true
 ---
 

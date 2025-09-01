@@ -2,7 +2,7 @@
 title: 微服务的数据库设计：单一数据库与数据库拆分
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, database, design, architecture]
+tags: [micro-service]
 published: true
 ---
 

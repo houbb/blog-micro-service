@@ -2,7 +2,7 @@
 title: 容器化与容器编排：Docker与Kubernetes的实践指南
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, docker, kubernetes, containerization, orchestration]
+tags: [devops]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 微服务架构中的服务间通信模式：构建高效分布式系统的实践指南
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [communication-patterns, microservices, architecture, design-patterns]
+tags: [communication]
 published: true
 ---
 

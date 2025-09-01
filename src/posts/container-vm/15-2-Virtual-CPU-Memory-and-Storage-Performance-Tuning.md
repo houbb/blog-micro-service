@@ -2,7 +2,7 @@
 title: 虚拟CPU、内存与存储的性能调优：资源优化配置与性能提升策略
 date: 2025-08-31
 categories: [Virtualization, Performance Optimization]
-tags: [cpu tuning, memory optimization, storage performance, resource management, virtualization]
+tags: [container-vm]
 published: true
 ---
 

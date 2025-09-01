@@ -2,7 +2,7 @@
 title: 基于机器学习的日志分析与异常检测：构建智能日志处理体系
 date: 2025-08-31
 categories: [Microservices, AI, ML, Logging, Anomaly Detection]
-tags: [microservices, machine-learning, logging, anomaly-detection, nlp, deep-learning]
+tags: [log-monitor]
 published: true
 ---
 

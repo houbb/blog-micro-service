@@ -2,7 +2,7 @@
 title: 服务网格的主要功能：流量管理、安全性、可观察性与弹性
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, functions, traffic-management, security, observability, resilience]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 附录D：配置管理中的常见问题与解决方案
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-management, troubleshooting, best-practices, faq, solutions]
+tags: [microservice-configuration-management]
 published: true
 ---
 

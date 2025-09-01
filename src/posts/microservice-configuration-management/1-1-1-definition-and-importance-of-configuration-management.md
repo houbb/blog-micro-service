@@ -2,7 +2,7 @@
 title: 配置管理的定义与重要性：构建稳定可靠的IT系统基石
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, management, infrastructure, reliability]
+tags: [microservice-configuration-management]
 published: true
 ---
 

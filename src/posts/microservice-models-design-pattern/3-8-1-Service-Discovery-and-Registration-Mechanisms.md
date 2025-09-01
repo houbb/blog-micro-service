@@ -2,7 +2,7 @@
 title: 服务发现与注册机制：微服务架构的基础设施
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, service discovery, registration, infrastructure]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

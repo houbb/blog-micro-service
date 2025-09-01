@@ -2,7 +2,7 @@
 title: 虚拟机硬件配置详解：CPU、内存、硬盘、网络的优化配置
 date: 2025-08-31
 categories: [Virtualization]
-tags: [vm hardware, cpu configuration, memory configuration, storage configuration, network configuration]
+tags: [container-vm]
 published: true
 ---
 

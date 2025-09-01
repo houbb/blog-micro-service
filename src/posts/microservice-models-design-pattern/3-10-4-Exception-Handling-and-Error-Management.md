@@ -2,7 +2,7 @@
 title: 异常处理与错误管理：微服务架构中的错误处理最佳实践
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, exception handling, error management, fault tolerance]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

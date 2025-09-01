@@ -2,7 +2,7 @@
 title: 无服务器架构中的日志与监控概述：构建现代化的无服务器可观察性体系
 date: 2025-08-31
 categories: [Microservices, Serverless, Logging, Monitoring, Observability]
-tags: [microservices, serverless, lambda, functions, logging, monitoring, observability]
+tags: [log-monitor]
 published: true
 ---
 

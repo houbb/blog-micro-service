@@ -2,7 +2,7 @@
 title: 协议转换：API 网关的多协议适配能力
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, protocol, conversion, microservices]
+tags: [api-gateway]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 数据流与实时数据处理：构建响应迅速的微服务系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, data streams, real-time processing, streaming]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

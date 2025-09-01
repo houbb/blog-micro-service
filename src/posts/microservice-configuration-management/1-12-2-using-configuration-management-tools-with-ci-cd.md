@@ -2,7 +2,7 @@
 title: 使用配置管理工具配合CI/CD流程：实现无缝集成的最佳实践
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [ci-cd, configuration-management-tools, devops, automation, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

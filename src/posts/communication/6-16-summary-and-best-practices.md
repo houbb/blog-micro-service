@@ -2,7 +2,7 @@
 title: 总结与最佳实践：微服务架构中服务间通信的全面指南
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [summary, best-practices, microservices, communication, architecture]
+tags: [communication]
 published: true
 ---
 

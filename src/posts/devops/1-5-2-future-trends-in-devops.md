@@ -2,7 +2,7 @@
 title: DevOps的未来趋势：AI/ML融合、自动化演进与新兴技术的前沿展望
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, future, ai, ml, quantum-computing, automation]
+tags: [devops]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 自动化与自愈虚拟化平台：构建智能基础设施
 date: 2025-08-31
 categories: [Virtualization, Automation, Self-Healing]
-tags: [automation, self-healing, virtualization, infrastructure,智能运维]
+tags: [container-vm]
 published: true
 ---
 

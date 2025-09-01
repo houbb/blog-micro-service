@@ -2,7 +2,7 @@
 title: 深度学习与日志数据的自动分析：构建智能日志理解体系
 date: 2025-08-31
 categories: [Microservices, AI, Deep Learning, Log Analysis]
-tags: [microservices, deep-learning, nlp, log-analysis, automated-analysis, neural-networks]
+tags: [log-monitor]
 published: true
 ---
 

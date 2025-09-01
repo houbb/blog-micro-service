@@ -2,7 +2,7 @@
 title: 服务间通信的基本概念：同步与异步、请求/响应与事件驱动
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [service-communication, synchronous, asynchronous, request-response, event-driven]
+tags: [communication]
 published: true
 ---
 

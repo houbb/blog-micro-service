@@ -2,7 +2,7 @@
 title: 微服务架构的最佳实践：从设计到管理的全面指南
 date: 2025-08-31
 categories: [MicroserviceArchitectureManagement]
-tags: [architecture, microservices, best-practices, design, management]
+tags: [microservice-architecture-management]
 published: true
 ---
 

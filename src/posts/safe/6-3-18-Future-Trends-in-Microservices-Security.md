@@ -2,7 +2,7 @@
 title: 微服务安全的未来趋势：探索新兴技术与安全演进方向
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, future trends, ai, quantum computing, blockchain]
+tags: [safe]
 published: true
 ---
 

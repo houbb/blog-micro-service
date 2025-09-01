@@ -2,7 +2,7 @@
 title: 虚拟机网络连接方式详解：桥接、NAT、仅主机与内部网络深度解析
 date: 2025-08-31
 categories: [Virtualization]
-tags: [vm network, network modes, bridged, nat, host-only, internal network]
+tags: [container-vm]
 published: true
 ---
 

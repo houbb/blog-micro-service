@@ -2,7 +2,7 @@
 title: 服务网格的部署方式：容器化、Kubernetes集成与多环境支持
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, deployment, kubernetes, containerization, helm]
+tags: [service-mesh]
 published: true
 ---
 

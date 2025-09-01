@@ -2,7 +2,7 @@
 title: RESTful API设计与实现：构建清晰一致的微服务接口
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, rest, api, design]
+tags: [micro-service]
 published: true
 ---
 

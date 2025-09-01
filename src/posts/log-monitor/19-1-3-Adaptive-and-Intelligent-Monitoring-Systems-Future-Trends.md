@@ -2,7 +2,7 @@
 title: 自适应与智能监控系统的未来趋势：探索下一代可观察性技术
 date: 2025-08-31
 categories: [Microservices, Monitoring, AI, Machine Learning, Future]
-tags: [microservices, monitoring, ai, ml, observability, adaptive, intelligent, future]
+tags: [log-monitor]
 published: true
 ---
 

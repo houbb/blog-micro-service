@@ -2,7 +2,7 @@
 title: 配置管理工具的选择：构建适合的自动化配置管理体系
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, tools, selection, evaluation, decision-making]
+tags: [microservice-configuration-management]
 published: true
 ---
 

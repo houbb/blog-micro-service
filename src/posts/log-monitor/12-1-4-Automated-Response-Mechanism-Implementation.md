@@ -2,7 +2,7 @@
 title: 自动化响应机制实现：构建自愈型微服务系统
 date: 2025-08-31
 categories: [Microservices, Automation, Response]
-tags: [microservices, automation, self-healing, kubernetes, autoscaling]
+tags: [log-monitor]
 published: true
 ---
 

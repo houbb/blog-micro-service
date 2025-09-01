@@ -2,7 +2,7 @@
 title: Docker 安装与配置
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, installation, configuration]
+tags: [container-docker]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 手动配置与传统管理方法：配置管理发展之路的起点
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, manual, traditional, history, evolution]
+tags: [microservice-configuration-management]
 published: true
 ---
 

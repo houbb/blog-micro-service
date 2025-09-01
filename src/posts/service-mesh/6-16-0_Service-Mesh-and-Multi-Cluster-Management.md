@@ -2,7 +2,7 @@
 title: 服务网格与多集群管理：构建跨集群的统一服务治理平台
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, multi-cluster, kubernetes, istio, cross-cluster]
+tags: [service-mesh]
 published: true
 ---
 

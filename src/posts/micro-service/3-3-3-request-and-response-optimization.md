@@ -2,7 +2,7 @@
 title: 请求与响应的优化：提升微服务通信效率
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, optimization, request, response]
+tags: [micro-service]
 published: true
 ---
 

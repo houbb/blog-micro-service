@@ -2,7 +2,7 @@
 title: 微服务架构的总结：核心概念回顾与价值提炼
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, summary, core concepts]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

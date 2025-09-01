@@ -2,7 +2,7 @@
 title: 智能监控与性能分析：基于AI的性能优化技术
 date: 2025-08-31
 categories: [Virtualization, Monitoring, Performance Analysis]
-tags: [monitoring, performance analysis, ai, virtualization, optimization]
+tags: [container-vm]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 确保配置变更不破坏现有系统：配置变更风险管理与安全部署
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration-change-management, risk-management, safe-deployment, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

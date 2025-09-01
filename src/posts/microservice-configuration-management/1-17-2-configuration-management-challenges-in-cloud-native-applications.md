@@ -2,7 +2,7 @@
 title: 云原生应用的配置管理挑战：应对动态分布式环境的复杂性
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [cloud-native, configuration-management, microservices, devops, kubernetes]
+tags: [microservice-configuration-management]
 published: true
 ---
 

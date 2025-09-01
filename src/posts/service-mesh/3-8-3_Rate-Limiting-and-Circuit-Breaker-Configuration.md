@@ -2,7 +2,7 @@
 title: 限流与熔断器配置：精细化的服务保护机制
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, rate-limiting, circuit-breaker, configuration, istio]
+tags: [service-mesh]
 published: true
 ---
 

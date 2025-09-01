@@ -2,7 +2,7 @@
 title: 流量治理：API 网关的智能化流量管理
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, traffic-governance, microservices]
+tags: [api-gateway]
 published: true
 ---
 

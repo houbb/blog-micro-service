@@ -2,7 +2,7 @@
 title: 分布式系统的设计原则：构建可靠微服务系统的基石
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, distributed systems, design principles]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 未来的服务间通信技术：探索微服务架构的前沿发展方向
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [future, microservices, communication, graphql, edge-computing, quantum-communication]
+tags: [communication]
 published: true
 ---
 

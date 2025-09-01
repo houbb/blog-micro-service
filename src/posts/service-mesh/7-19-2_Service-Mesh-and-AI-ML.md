@@ -2,7 +2,7 @@
 title: 服务网格与人工智能、机器学习的结合：探索AI驱动的服务治理新范式
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, ai-ml, artificial-intelligence, machine-learning, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

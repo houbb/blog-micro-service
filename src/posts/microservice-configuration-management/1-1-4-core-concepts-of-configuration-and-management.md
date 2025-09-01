@@ -2,7 +2,7 @@
 title: 配置与管理的核心概念：构建坚实的知识基础
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, management, concepts, fundamentals]
+tags: [microservice-configuration-management]
 published: true
 ---
 

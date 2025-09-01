@@ -2,7 +2,7 @@
 title: DevOps与持续交付的未来：GitOps在配置管理中的应用与发展趋势
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [devops, continuous-delivery, gitops, configuration-management, ci-cd]
+tags: [microservice-configuration-management]
 published: true
 ---
 

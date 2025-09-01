@@ -2,7 +2,7 @@
 title: History and Development of Docker - From DotCloud to Container Revolution
 date: 2025-08-30
 categories: [Docker]
-tags: [docker, history, development]
+tags: [container-docker]
 published: true
 ---
 

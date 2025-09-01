@@ -2,7 +2,7 @@
 title: 事件驱动架构概述与微服务的结合：构建松耦合的分布式系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, event-driven architecture, distributed systems, loose coupling]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

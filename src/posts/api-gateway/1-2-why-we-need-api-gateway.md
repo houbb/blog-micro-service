@@ -2,7 +2,7 @@
 title: 为什么需要 API 网关：现代应用架构中的必要组件
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, architecture, microservices]
+tags: [api-gateway]
 published: true
 ---
 

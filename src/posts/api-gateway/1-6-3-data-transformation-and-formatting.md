@@ -2,7 +2,7 @@
 title: 数据转换与格式化：API 网关的多格式数据处理能力
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, data-transformation, data-formatting, json, xml, protobuf, microservices]
+tags: [api-gateway]
 published: true
 ---
 

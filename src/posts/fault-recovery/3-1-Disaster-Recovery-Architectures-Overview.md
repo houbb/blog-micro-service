@@ -2,7 +2,7 @@
 title: 第 III 篇 灾难恢复架构 概述
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [disaster-recovery, architectures, fault-tolerance]
+tags: [fault-recovery]
 published: true
 ---
 

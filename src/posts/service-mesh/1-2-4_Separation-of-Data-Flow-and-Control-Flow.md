@@ -2,7 +2,7 @@
 title: 数据流与控制流在服务网格中的分离：架构设计的核心原则
 date: 2025-08-30
 categories: [Service Mesh]
-tags: [service-mesh, data-flow, control-flow, architecture, separation]
+tags: [service-mesh]
 published: true
 ---
 

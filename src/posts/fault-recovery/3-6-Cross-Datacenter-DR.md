@@ -2,7 +2,7 @@
 title: 跨数据中心容灾架构
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [cross-datacenter, disaster-recovery, active-active, active-passive]
+tags: [fault-recovery]
 published: true
 ---
 

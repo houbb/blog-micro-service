@@ -2,7 +2,7 @@
 title: 日志收集的核心概念与模式：构建可靠的数据管道
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, log-collection, patterns, concepts]
+tags: [log-monitor]
 published: true
 ---
 

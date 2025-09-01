@@ -2,7 +2,7 @@
 title: 分布式追踪与性能分析概述：深入理解微服务调用链路
 date: 2025-08-31
 categories: [Microservices, Tracing, Performance]
-tags: [microservices, tracing, performance, opentracing, jaeger, zipkin]
+tags: [log-monitor]
 published: true
 ---
 

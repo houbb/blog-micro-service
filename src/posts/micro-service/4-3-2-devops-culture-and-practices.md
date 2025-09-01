@@ -2,7 +2,7 @@
 title: DevOps文化与实践：构建协作共赢的软件开发团队
 date: 2025-08-31
 categories: [Microservices]
-tags: [devops, culture, practices, collaboration, automation]
+tags: [micro-service]
 published: true
 ---
 

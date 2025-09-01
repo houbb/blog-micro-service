@@ -2,7 +2,7 @@
 title: 微服务中的加密实践：保护分布式系统数据安全的关键技术
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, encryption, tls, ssl]
+tags: [safe]
 published: true
 ---
 

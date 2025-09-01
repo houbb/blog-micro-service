@@ -2,7 +2,7 @@
 title: 附录A：容错与容灾术语表
 date: 2025-08-31
 categories: [Fault Tolerance, Disaster Recovery]
-tags: [appendix, glossary, terminology]
+tags: [fault-recovery]
 published: true
 ---
 

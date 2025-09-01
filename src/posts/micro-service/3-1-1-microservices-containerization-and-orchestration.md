@@ -2,7 +2,7 @@
 title: 微服务的容器化与编排：构建云原生的分布式系统
 date: 2025-08-30
 categories: [Microservices]
-tags: [microservices, containerization, docker, kubernetes]
+tags: [micro-service]
 published: true
 ---
 

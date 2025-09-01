@@ -2,7 +2,7 @@
 title: 第19章：总结与最佳实践（概述）
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, summary, best practices]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

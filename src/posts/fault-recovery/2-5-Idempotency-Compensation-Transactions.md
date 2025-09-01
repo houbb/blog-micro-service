@@ -2,7 +2,7 @@
 title: 幂等性与补偿事务 (Idempotency & Compensation Transactions)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [idempotency, compensation-transactions, distributed-transactions, fault-tolerance]
+tags: [fault-recovery]
 published: true
 ---
 

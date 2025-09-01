@@ -2,7 +2,7 @@
 title: 服务划分与业务域：微服务架构设计的基础
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, service partitioning, business domains, ddd]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

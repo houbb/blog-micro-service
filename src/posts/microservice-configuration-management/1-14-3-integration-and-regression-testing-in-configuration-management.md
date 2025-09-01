@@ -2,7 +2,7 @@
 title: 配置管理中的集成测试与回归测试：确保配置一致性和系统稳定性
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [integration-testing, regression-testing, configuration-consistency, devops, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

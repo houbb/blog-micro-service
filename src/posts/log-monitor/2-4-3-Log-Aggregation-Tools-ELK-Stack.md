@@ -2,7 +2,7 @@
 title: 日志聚合工具详解：ELK Stack实战指南
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, elk-stack, logstash, elasticsearch, kibana]
+tags: [log-monitor]
 published: true
 ---
 

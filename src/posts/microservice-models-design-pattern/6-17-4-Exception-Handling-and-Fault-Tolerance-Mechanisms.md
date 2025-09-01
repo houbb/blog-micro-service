@@ -2,7 +2,7 @@
 title: 异常处理与容错机制：构建高可用的微服务系统
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, exception handling, fault tolerance, resilience]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 服务网格的挑战：性能、扩展性与易用性分析与应对策略
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, challenges, performance, scalability, usability, cloud-native, kubernetes, istio]
+tags: [service-mesh]
 published: true
 ---
 

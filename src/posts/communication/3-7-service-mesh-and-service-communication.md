@@ -2,7 +2,7 @@
 title: 服务网格与服务间通信：简化微服务架构的新范式
 date: 2025-08-31
 categories: [ServiceCommunication]
-tags: [service-mesh, istio, linkerd, microservices, communication]
+tags: [communication]
 published: true
 ---
 

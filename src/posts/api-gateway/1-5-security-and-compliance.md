@@ -2,7 +2,7 @@
 title: 安全与合规：API 网关的安全防护体系
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, security, compliance, microservices]
+tags: [api-gateway]
 published: true
 ---
 

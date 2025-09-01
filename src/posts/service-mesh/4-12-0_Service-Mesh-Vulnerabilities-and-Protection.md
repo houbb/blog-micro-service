@@ -2,7 +2,7 @@
 title: 服务网格的漏洞与防护：构建全面的安全防护体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, security, vulnerabilities, protection, istio, defense]
+tags: [service-mesh]
 published: true
 ---
 

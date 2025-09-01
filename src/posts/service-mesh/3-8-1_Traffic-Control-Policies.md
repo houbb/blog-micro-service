@@ -2,7 +2,7 @@
 title: 流量控制策略：精细化的流量管理机制
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, traffic-control, policies, load-balancing, istio]
+tags: [service-mesh]
 published: true
 ---
 

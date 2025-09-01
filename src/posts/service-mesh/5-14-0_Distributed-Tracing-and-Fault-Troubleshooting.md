@@ -2,7 +2,7 @@
 title: 分布式追踪与故障排查：构建全链路的可观测性体系
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, distributed-tracing, fault-troubleshooting, observability, jaeger, zipkin, istio]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 附录：服务网格常见问题与解决方案
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, appendix, faq, troubleshooting, cloud-native]
+tags: [service-mesh]
 published: true
 ---
 

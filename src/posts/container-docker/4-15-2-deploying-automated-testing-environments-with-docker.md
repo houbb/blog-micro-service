@@ -2,7 +2,7 @@
 title: Deploying Automated Testing Environments with Docker - Ensuring Quality with Containerized Test Infrastructure
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, testing, automation, environments]
+tags: [container-docker]
 published: true
 ---
 

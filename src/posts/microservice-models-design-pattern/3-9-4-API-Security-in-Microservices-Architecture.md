@@ -2,7 +2,7 @@
 title: 微服务架构中的 API 安全：构建安全可靠的接口防护体系
 date: 2025-08-31
 categories: [ModelsDesignPattern]
-tags: [microservices, api security, oauth2, jwt, rate limiting]
+tags: [microservice-models-design-pattern]
 published: true
 ---
 

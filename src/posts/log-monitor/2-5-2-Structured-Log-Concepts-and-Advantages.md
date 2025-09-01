@@ -2,7 +2,7 @@
 title: 结构化日志的核心概念与优势：提升日志数据价值
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, structured-logging, log-analysis, data-quality]
+tags: [log-monitor]
 published: true
 ---
 

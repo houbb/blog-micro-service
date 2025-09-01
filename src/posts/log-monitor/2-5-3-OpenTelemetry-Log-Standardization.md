@@ -2,7 +2,7 @@
 title: 使用OpenTelemetry进行日志标准化：统一可观察性框架实践
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, opentelemetry, standardization, observability]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 分布式日志跟踪：实现端到端的请求追踪
 date: 2025-08-31
 categories: [Microservices, Logging]
-tags: [microservices, logging, distributed-tracing, log-tracking, observability]
+tags: [log-monitor]
 published: true
 ---
 

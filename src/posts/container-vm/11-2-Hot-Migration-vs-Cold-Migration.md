@@ -2,7 +2,7 @@
 title: 热迁移与冷迁移深度对比：技术原理、应用场景与性能分析
 date: 2025-08-31
 categories: [Virtualization]
-tags: [hot migration, cold migration, live migration, virtualization, performance]
+tags: [container-vm]
 published: true
 ---
 

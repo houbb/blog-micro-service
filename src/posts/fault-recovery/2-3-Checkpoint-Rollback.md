@@ -2,7 +2,7 @@
 title: 检查点与回滚 (Checkpoint & Rollback)
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [checkpoint, rollback, fault-tolerance]
+tags: [fault-recovery]
 published: true
 ---
 

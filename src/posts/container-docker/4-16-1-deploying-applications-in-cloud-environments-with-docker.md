@@ -2,7 +2,7 @@
 title: Deploying Applications in Cloud Environments with Docker - Mastering Cloud-Native Deployment
 date: 2025-08-31
 categories: [Docker]
-tags: [docker, cloud, deployment, containers]
+tags: [container-docker]
 published: true
 ---
 

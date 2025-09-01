@@ -2,7 +2,7 @@
 title: 统一监控视图构建：整合日志、指标与追踪数据
 date: 2025-08-31
 categories: [Microservices, Monitoring, Observability]
-tags: [microservices, monitoring, observability, logs, metrics, tracing, loki, prometheus, tempo]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 构建无服务器微服务：实践AWS Lambda与Azure Functions
 date: 2025-08-31
 categories: [Microservices]
-tags: [serverless, microservices, aws lambda, azure functions, cloud native]
+tags: [micro-service]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 灾难恢复的基本目标与指标
 date: 2025-08-31
 categories: [容错与灾难恢复]
-tags: [disaster-recovery, metrics, rpo, rto]
+tags: [fault-recovery]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 虚拟硬件与虚拟机交互机制：CPU、内存、存储与网络的虚拟化实现
 date: 2025-08-31
 categories: [Virtualization]
-tags: [virtual hardware, vm interaction, cpu virtualization, memory virtualization, storage virtualization, network virtualization]
+tags: [container-vm]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: AWS Lambda与Google Cloud Functions的日志与监控实践：构建云原生函数可观测性
 date: 2025-08-31
 categories: [Microservices, Serverless, AWS, GCP, Lambda, Functions, Logging, Monitoring]
-tags: [microservices, serverless, aws, gcp, lambda, cloud-functions, logging, monitoring, observability]
+tags: [log-monitor]
 published: true
 ---
 

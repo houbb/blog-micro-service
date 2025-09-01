@@ -2,7 +2,7 @@
 title: 告警策略与级别设计：构建有效的微服务告警体系
 date: 2025-08-31
 categories: [Microservices, Alerting, Strategy]
-tags: [microservices, alerting, strategy, design, prometheus]
+tags: [log-monitor]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: DevOps的数据驱动决策：通过数据分析优化软件交付流程
 date: 2025-08-31
 categories: [DevOps]
-tags: [devops, data-driven, dora, metrics, analytics]
+tags: [devops]
 published: true
 ---
 

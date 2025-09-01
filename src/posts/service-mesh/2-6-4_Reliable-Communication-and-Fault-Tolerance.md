@@ -2,7 +2,7 @@
 title: 服务之间的可靠通信与容错处理：构建高可用微服务架构
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, reliability, fault-tolerance, retry, timeout, circuit-breaker]
+tags: [service-mesh]
 published: true
 ---
 

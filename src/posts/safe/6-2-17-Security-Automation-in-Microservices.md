@@ -2,7 +2,7 @@
 title: 微服务中的安全自动化：提升安全效率与降低风险的关键技术
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, automation, devsecops, ci/cd]
+tags: [safe]
 published: true
 ---
 

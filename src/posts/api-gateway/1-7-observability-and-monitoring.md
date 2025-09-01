@@ -2,7 +2,7 @@
 title: 可观测性与监控：API 网关的系统洞察能力
 date: 2025-08-31
 categories: [APIGateway]
-tags: [api-gateway, observability, monitoring, logging, metrics, tracing, microservices]
+tags: [api-gateway]
 published: true
 ---
 

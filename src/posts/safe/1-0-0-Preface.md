@@ -2,7 +2,7 @@
 title: 微服务安全指南：从入门到精通的完整学习路径
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security]
+tags: [safe]
 published: true
 ---
 

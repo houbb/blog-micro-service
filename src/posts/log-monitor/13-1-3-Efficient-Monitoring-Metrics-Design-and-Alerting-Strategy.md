@@ -2,7 +2,7 @@
 title: 高效的监控指标设计与告警策略：构建智能监控体系
 date: 2025-08-31
 categories: [Microservices, Monitoring, Metrics, Alerting]
-tags: [microservices, monitoring, prometheus, alerting, metrics-design]
+tags: [log-monitor]
 published: true
 ---
 

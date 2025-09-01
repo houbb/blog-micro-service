@@ -2,7 +2,7 @@
 title: 基于权重的流量控制：精细化流量管理策略
 date: 2025-08-31
 categories: [Service Mesh]
-tags: [service-mesh, traffic-control, weight-based, load-balancing, istio]
+tags: [service-mesh]
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 配置管理的基本原则：构建可靠配置管理体系的基石
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, management, principles, best-practices]
+tags: [microservice-configuration-management]
 published: true
 ---
 

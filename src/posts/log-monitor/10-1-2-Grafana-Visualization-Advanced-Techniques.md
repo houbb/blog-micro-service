@@ -2,7 +2,7 @@
 title: Grafana可视化高级技巧：打造专业监控仪表板
 date: 2025-08-31
 categories: [Microservices, Monitoring, Visualization]
-tags: [microservices, monitoring, grafana, visualization, dashboard, prometheus]
+tags: [log-monitor]
 published: true
 ---
 

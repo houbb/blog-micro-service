@@ -2,7 +2,7 @@
 title: 微服务中的常见安全威胁：识别和防范分布式系统的安全风险
 date: 2025-08-31
 categories: [Security]
-tags: [microservices, security, threats, vulnerabilities]
+tags: [safe]
 published: true
 ---
 

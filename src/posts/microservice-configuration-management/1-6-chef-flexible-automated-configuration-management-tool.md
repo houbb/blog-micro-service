@@ -2,7 +2,7 @@
 title: Chef：灵活的自动化配置管理工具
 date: 2025-08-31
 categories: [Configuration Management]
-tags: [configuration, chef, automation, devops, infrastructure]
+tags: [microservice-configuration-management]
 published: true
 ---
 
