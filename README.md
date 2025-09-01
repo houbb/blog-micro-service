@@ -26,22 +26,6 @@ npm run docs:clean-dev
 
 ## 读书笔记（知识输入）
 
-## 知识花园（知识库、沉淀、有效输出）
-
-github: [https://github.com/houbb/blog-micro-service](https://github.com/houbb/blog-micro-service)
-
-github-pags: [https://houbb.github.io/blog-micro-service/](https://houbb.github.io/blog-micro-service/posts/digit-garden/)
-
-gitbook: [https://houbb.gitbook.io/digit-garden/](https://houbb.gitbook.io/digit-garden/)
-
-## 学习方法论（学习技巧-深度加工）
-
-github: [https://github.com/houbb/blog-micro-service](https://github.com/houbb/blog-micro-service)
-
-github-pags: [https://houbb.github.io/blog-micro-service/](https://houbb.github.io/blog-micro-service/posts/learnmethods/)
-
-## 思维模型（底层模型-深度加工）
-
 github: [https://github.com/houbb/blog-micro-service](https://github.com/houbb/blog-micro-service)
 
 github-pags: [https://houbb.github.io/blog-micro-service/](https://houbb.github.io/blog-micro-service/posts/thinkmodel/)
